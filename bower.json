@@ -1,0 +1,17 @@
+{
+  "name": "scWebsite",
+  "version": "0.0.1",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0-rc1",
+    "jquery": "1.9.1",
+    "modernizr": "2.6.2"
+  }
+}
