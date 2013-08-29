@@ -99,7 +99,9 @@
                       $('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
                         $('#ss-submit').addClass("btn btn-success btn-large")
                         $(".ss-choices").css("list-style", "none")
+                        $(".required-message").css("display", "none")
                         $(".ss-required-asterisk").css("display", "none")
+                        $(".aria-only-help").css("display", "none")
                         $(".ss-secondary-text").addClass("help-block")
                         $("#ss-form").attr("target", "_new")
                         $(".ss-q-short").addClass("form-control")
