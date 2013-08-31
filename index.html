@@ -108,7 +108,15 @@
                         $(".ss-secondary-text").addClass("help-block")
                         $("#ss-form").attr("target", "_new")
                         $(".ss-q-short").addClass("form-control")
+                        $(".ss-q-long").addClass("form-control")
+                        $(".ss-q-other").addClass("form-control")
                         $(".ss-form-container").addClass("col-lg-8")
+                        $(".ss-form-question").addClass("form-group")
+                        $(".ss-q-radio").each(function (index) {
+                          if ($(this).parents().hasClass("ss-item-required")) {
+                            $(this).prop("required", true)
+                          }
+                        })
                       })
                     }
                 });
