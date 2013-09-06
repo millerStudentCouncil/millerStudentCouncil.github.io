@@ -40,7 +40,7 @@
 	          		<li><a href="#calendar">Calendar</a></li>
 	        	</ul>
 	        	<ul class="nav navbar-nav navbar-right">
-	        		<li><a href="https://plus.google.com/105056151553980332330" rel="publisher">Google+</a></li>
+	        		<li><div class="g-page" data-width="322" data-href="https://plus.google.com/105056151553980332330" data-theme="dark" data-layout="landscape" data-rel="publisher"></div></li>
 	        	</ul>
 	       	</div>
 	   	</div>
@@ -52,6 +52,7 @@
 	<!-- Masthead
 	================================================== -->
 	<header class="jumbotron subhead" id="overview">
+		&nbsp
 		<div class="row" id="main"></div>
 	</header>
 	    <!-- Le javascript
@@ -63,5 +64,13 @@
 	    <script src="./js/jquery.hashable.min.js"></script>
 	    <script src="./formStyling.js"></script>
 	    <script src="./hashSwitching.js"></script>
+
+	    <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
   	</body>
 </html>
