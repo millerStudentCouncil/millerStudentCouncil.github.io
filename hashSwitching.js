@@ -21,7 +21,7 @@ function replaceFragment(hash) {
 			})
 		}
 
-		if (hash == "alohaSatisfaction" || hash == "socialForm") {
+		if (hash == "socialForm") {
 			$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
 				beautifyForm()
 			})
