@@ -106,14 +106,21 @@ function replaceFragment(hash) {
 			}
 
 			var currentEvent = 0
+			var carouselIndicators = document.getElementById('carousel-indicators')
 			for (currentEvent = 0; currentEvent < upcomingEvents.length; currentEvent++) {
-				console.log('adding')
 				var carousel = document.getElementById('events-container')
 				var event = createUpcomingEvent(upcomingEvents[currentEvent])
+
+				var indicator = document.createElement('li')
+				indicator.setAttribute('data-target', '#upcoming-events')
+				indicator.setAttribute('data-slide-to', '' + currentEvent)
+
 				if (currentEvent == 0) {
 					event.className += " active"
+					indicator.className += "active"
 				}
 				carousel.appendChild(event)
+				carouselIndicators.appendChild(indicator)
 			}
 		}
 
