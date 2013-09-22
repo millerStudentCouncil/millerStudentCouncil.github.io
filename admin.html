@@ -1,0 +1,39 @@
+<html>
+	<body>
+		<div id="main">
+			<h1>Admin Page: Generate JSON Data</h1>
+			<div class="row">
+				<div class="col-lg-6">
+					<h2>Announcements</h2>
+					<h3>Main:</h3>
+					Title Text: <input type="text" id="announcementTitleText" class="form-control">
+					<br/>
+					Title Link: <input type="text" id="announcementTitleLink" class="form-control">
+					<br/>
+					<div id="eventInfos"></div>
+					<a class="btn btn-success btn-large" onclick="generateAnnouncement()">Generate</a>
+					<a class="btn btn-primary btn-large" onclick="addEventInfo()" style="color:black">Add an event info</a>
+					<h3>Preview:</h3>
+					<div id="announcementPreview"></div>
+				</div>
+				<div class="col-lg-6">
+					<h3>Upcoming Events</h3>
+					Image: <input type="text" id="eventImage" class="form-control" placeholder="The Link">
+					<br/>
+					Title Text: <input type="text" id="eventTitleText" class="form-control">
+					<br/>
+					Title Link: <input type="text" id="eventTitleLink" class="form-control">
+					<br/>
+					<div id="eventInfos"></div>
+					<a class="btn btn-success btn-large" onclick="generateEvent()">Generate</a>
+					<h3>Preview:</h3>
+					<div class="carousel slide">
+	  					<div id="eventPreview" class="carousel-inner" style="text-align:center"></div>
+					</div>
+				</div>
+			</div>
+			<h3>Output:</h3>
+			<textarea id="output" class="form-control">Click the generate button to see something here!</textarea>
+		</div>
+	</body>
+</html>

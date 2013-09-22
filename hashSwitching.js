@@ -1,5 +1,85 @@
 var defaultFragment = "main"
 
+function addEventInfo() {
+	var infoDiv = document.createElement('div')
+	infoDiv.className = "info"
+	infoDiv.innerHTML = '<h3>Event Info:</h3>Title: <input type="text" class="form-control"><br/>Text: <input type="text" class="form-control"><br/>'
+	document.getElementById('eventInfos').appendChild(infoDiv)
+}
+
+function generateAnnouncement() {
+	var announcement = {}
+	var titleText = document.getElementById('announcementTitleText').value
+	var titleLink = document.getElementById('announcementTitleLink').value
+
+	if (titleLink.length === 0) {
+		announcement.title = titleText
+	} else {
+		announcement.title = {
+			"link": titleLink,
+			"text": titleText
+		}
+	}
+
+	var infosArray = []
+
+	var eventInfos = document.getElementById('eventInfos').childNodes
+	var currentInfo = 0
+	for (currentInfo = 0; currentInfo < eventInfos.length; currentInfo++) {
+		var info = eventInfos[currentInfo]
+		var infoTitle = info.childNodes[2].value
+		var infoText = info.childNodes[5].value
+
+		var infoObject = {}
+
+		if (infoText.length === 0) {
+			infoObject = infoTitle
+		} else {
+			infoObject.title = infoTitle
+			infoObject.text = infoText
+		}
+
+		infosArray.push(infoObject)
+	}
+
+	announcement.eventInfo = infosArray
+
+	var output = document.getElementById('output')
+	output.value = JSON.stringify(announcement)
+
+	var announcementDOM = createAnnouncement(announcement)
+	var preview = document.getElementById('announcementPreview')
+	preview.innerHTML = ''
+	preview.appendChild(announcementDOM)
+}
+
+function generateEvent() {
+	var event = {}
+	var eventImage = document.getElementById('eventImage').value
+	var titleText = document.getElementById('eventTitleText').value
+	var titleLink = document.getElementById('eventTitleLink').value
+
+	event.img = eventImage
+
+	if (titleLink.length === 0) {
+		event.title = titleText
+	} else {
+		event.title = {
+			"link": titleLink,
+			"text": titleText
+		}
+	}
+
+	var output = document.getElementById('output')
+	output.value = JSON.stringify(event)
+
+	var eventDOM = createUpcomingEvent(event)
+	eventDOM.className = 'item active'
+	var preview = document.getElementById('eventPreview')
+	preview.innerHTML = ''
+	preview.appendChild(eventDOM)
+}
+
 function createUpcomingEvent(data) {
 	var event = document.createElement('div')
 	event.className = 'item'
