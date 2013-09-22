@@ -58,6 +58,7 @@ function generateEvent() {
 	var eventImage = document.getElementById('eventImage').value
 	var titleText = document.getElementById('eventTitleText').value
 	var titleLink = document.getElementById('eventTitleLink').value
+	var eventInfo = document.getElementById('eventInfo').value
 
 	event.img = eventImage
 
@@ -69,6 +70,8 @@ function generateEvent() {
 			"text": titleText
 		}
 	}
+
+	event.info = eventInfo
 
 	var output = document.getElementById('output')
 	output.value = JSON.stringify(event)
