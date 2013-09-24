@@ -1,5 +1,14 @@
 var announcements = [
 	{
+		"title": "Water Balloon Toss",
+		"eventInfo": [
+			{
+				"title": "Location:",
+				"text": "The Volleyball Courts"
+			}
+		]
+	},	
+	{
 		title: {
 			link: "#socialForm",
 			text: "Dress Like a Tourist Day Submission"
@@ -43,6 +52,11 @@ var announcements = [
 ]
 
 var upcomingEvents = [
+	{
+		"img": "http://farm5.staticflickr.com/4067/4555847007_a401dcfed2_z.jpg",
+		"title": "Water Balloon Toss",
+		"info": "At the Volleyball Courts"
+	},
 	{
 		img: "http://www.ndhs.org/s/1012/images/editor/parents/top-magazines1.jpg",
 		title: {
