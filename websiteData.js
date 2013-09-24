@@ -7,6 +7,23 @@ var announcements = [
 				"text": "The Volleyball Courts"
 			}
 		]
+	},
+	{
+		"title": "Pink Day",
+		"eventInfo": [
+			{
+				"title": "When:",
+				"text": "10/4/13"
+			},
+			{
+				"title": "Rules:",
+				"text": "Wear one article of mostly pink clothing or at least 2 pink accessories."
+			},
+			{
+				"title": "Borrowing Policy:",
+				"text": "A student borrowing the item from another person must request the item specifically from them before the spirit day.  A student or teacher may not bring extra items for people in their classroom who have not requested it specifically from them. However, if we DO catch students or teachers doing this, that homeroom will not recieve that week’s points."
+			}
+		]
 	},	
 	{
 		title: {
@@ -33,21 +50,6 @@ var announcements = [
 			"Second Place: 8 Points",
 			"Third Place: 7 Points"
 		]
-	},
-	{
-		title: {
-			link: "#magDrive",
-			text: "Magazine Drive"
-		},
-		eventInfo: [
-			{
-				title: "What:",
-				text: "The premiere fundraising event for Miller Middle School"
-			}, {
-				title: "When:",
-				text: "Kickoff August 27"
-			}
-		]
 	}
 ]
 
@@ -58,12 +60,9 @@ var upcomingEvents = [
 		"info": "At the Volleyball Courts"
 	},
 	{
-		img: "http://www.ndhs.org/s/1012/images/editor/parents/top-magazines1.jpg",
-		title: {
-			link: "#magDrive",
-			text: "Magazine Drive"
-		},
-		info: "Kickoff Aug. 27"
+		"img": "http://www.dayofpink.org/sites/all/themes/dayofpink/logo.png",
+		"title": "Pink Day",
+		"info": "10/4/13"
 	},
 	{
 		img: "http://www.mahdloyz.org/wp-content/uploads/Paper-plane.jpg",
