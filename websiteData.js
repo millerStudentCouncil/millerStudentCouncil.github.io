@@ -1,5 +1,11 @@
 var announcements = [
 	{
+		title: "Homeroom Rep Meeting",
+		eventInfo: [
+			"This Wednesday"
+		]
+	},
+	{
 		"title": "Water Balloon Toss",
 		"eventInfo": [
 			{
@@ -32,12 +38,6 @@ var announcements = [
 		},
 		eventInfo: [
 			"Homeroom Reps, please fill out this form by Tuesday at 9:00 PM"
-		]
-	},
-	{
-		title: "Homeroom Rep Meeting",
-		eventInfo: [
-			"This Wednesday"
 		]
 	},
 	{
