@@ -1,9 +1,10 @@
 var announcements = [
 	{
-		title: "Homeroom Rep Meeting",
-		eventInfo: [
-			"This Wednesday"
-		]
+		"title": {
+			"link": "http://tinyurl.com/btsbfeedback",
+			"text": "Back to School Bash Feedback"
+		},
+		"eventInfo": []
 	},
 	{
 		"title": "Water Balloon Toss",
