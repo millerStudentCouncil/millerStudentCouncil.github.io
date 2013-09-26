@@ -10,7 +10,11 @@ var announcements = [
 		"title": "Water Balloon Toss",
 		"eventInfo": [
 			{
-				"title": "Location:",
+				"title": "When:",
+				"text": "This Friday"
+			},
+			{
+				"title": "Where:",
 				"text": "The Volleyball Courts"
 			}
 		]
@@ -58,7 +62,7 @@ var upcomingEvents = [
 	{
 		"img": "http://farm5.staticflickr.com/4067/4555847007_a401dcfed2_z.jpg",
 		"title": "Water Balloon Toss",
-		"info": "At the Volleyball Courts"
+		"info": "This Friday at the Volleyball Courts"
 	},
 	{
 		"img": "http://www.dayofpink.org/sites/all/themes/dayofpink/logo.png",
