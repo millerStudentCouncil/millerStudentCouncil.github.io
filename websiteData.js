@@ -35,15 +35,6 @@ var announcements = [
 				"text": "A student borrowing the item from another person must request the item specifically from them before the spirit day.  A student or teacher may not bring extra items for people in their classroom who have not requested it specifically from them. If we catch students or teachers doing this, that homeroom will not recieve that week’s points."
 			}
 		]
-	},	
-	{
-		title: {
-			link: "#socialForm",
-			text: "Dress Like a Tourist Day Submission"
-		},
-		eventInfo: [
-			"Homeroom Reps, please fill out this form by Tuesday at 9:00 PM"
-		]
 	},
 	{
 		title: {
