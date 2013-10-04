@@ -7,24 +7,11 @@ var announcements = [
 		"eventInfo": []
 	},
 	{
-		"title": "Water Balloon Toss",
-		"eventInfo": [
-			{
-				"title": "When:",
-				"text": "This Friday"
-			},
-			{
-				"title": "Where:",
-				"text": "The Volleyball Courts"
-			}
-		]
-	},
-	{
 		"title": "Pink Day",
 		"eventInfo": [
 			{
 				"title": "When:",
-				"text": "10/4/13"
+				"text": "This Friday"
 			},
 			{
 				"title": "Rules:",
