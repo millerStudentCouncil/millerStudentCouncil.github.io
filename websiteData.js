@@ -38,14 +38,14 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://farm5.staticflickr.com/4067/4555847007_a401dcfed2_z.jpg",
-		"title": "Water Balloon Toss",
-		"info": "This Friday at the Volleyball Courts"
+	"img": "http://www.ballsnbands.com/images/Totemaster%20Rack.jpg ",
+	"title": "Ball Bin",
+	"info": "The ball bin will be opening on Monday, 10/7 during brunch and lunch! Remember to bring your ID card to check out basketballs, soccer balls, and footballs!"
 	},
 	{
 		"img": "http://www.dayofpink.org/sites/all/themes/dayofpink/logo.png",
 		"title": "Pink Day",
-		"info": "10/4/13"
+		"info": "This Friday"
 	},
 	{
 		img: "http://www.mahdloyz.org/wp-content/uploads/Paper-plane.jpg",
