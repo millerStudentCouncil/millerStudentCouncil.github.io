@@ -93,13 +93,6 @@ function createUpcomingEvent(data) {
 	img.setAttribute('src', data.img)
 	event.appendChild(img)
 
-	var i = 0
-	for (i = 0; i<2; i++) {
-		var spacer = document.createElement('h1')
-		spacer.innerHTML = "&nbsp;"
-		event.appendChild(spacer)
-	}
-
 	var caption = document.createElement('div')
 	caption.className = 'carousel-caption'
 
