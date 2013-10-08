@@ -43,6 +43,11 @@ var upcomingEvents = [
 		"info": "This Friday"
 	},
 	{
+		"img": "http://www.capitolhillclusterschool.org/wp-content/uploads/2012/09/WalkBiketoSchoolLogo.jpg ",
+		"title": "Walk/Bike to School Week",
+		"info": "Oct. 15-18. Bike, walk, or carpool from Oct. 15, Tuesday - Oct. 18, Friday to help save your planet!"
+	},
+	{
 		"img": "http://www.ballsnbands.com/images/Totemaster%20Rack.jpg ",
 		"title": "Ball Bin",
 		"info": "The ball bin will be opening on Monday, 10/7 during brunch and lunch! Remember to bring your ID card to check out basketballs, soccer balls, and footballs!"
