@@ -38,6 +38,11 @@ var upcomingEvents = [
 		"info": "This Friday from 3:15-4:15 in the MP Room"
 	},
 	{
+		"img": "http://upload.wikimedia.org/wikipedia/commons/d/db/Sports_portal_bar_icon.png",
+		"title": "Sports Day",
+		"info": "This Friday"
+	},
+	{
 		"img": "http://www.ballsnbands.com/images/Totemaster%20Rack.jpg ",
 		"title": "Ball Bin",
 		"info": "The ball bin will be opening on Monday, 10/7 during brunch and lunch! Remember to bring your ID card to check out basketballs, soccer balls, and footballs!"
