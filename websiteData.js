@@ -16,7 +16,19 @@ var announcements = [
 			}
 		]
 	},
-
+	{
+		"title": "Sports Day",
+		"eventInfo": [
+			{
+				"title": "When:",
+				"text": "This Friday"
+			},
+			{
+				"title": "What:",
+				"text": "Wear sports apparel to school"
+			}
+		]
+	}
 ]
 
 var upcomingEvents = [
