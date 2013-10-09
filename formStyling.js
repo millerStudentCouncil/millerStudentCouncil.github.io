@@ -15,7 +15,6 @@ function beautifyForm () {
 	$(".ss-q-short").addClass("form-control")
 	$(".ss-q-long").addClass("form-control")
 	$(".ss-q-other").addClass("form-control")
-	$(".ss-form-container").addClass("col-lg-8")
 	$(".ss-form-question").addClass("form-group")
 	$(".ss-q-title").css("font-size","150%")
 	$(".ss-q-title").css("color","white")
