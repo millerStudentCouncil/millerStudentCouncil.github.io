@@ -154,6 +154,52 @@ function createTitle(data) {
 	return title
 }
 
+function processHTML(data, hash) {
+	$('#main').html(data)
+
+	$("#main-menu").removeClass("in")
+	$("#main-menu").addClass("collapse")
+
+	if (hash == "main") {
+		$("#upcoming-events").carousel({
+			interval: 3000
+		})
+
+		var currentAnnouncement = 0
+		for (currentAnnouncement = 0; currentAnnouncement < announcements.length; currentAnnouncement++) {
+			var announcementsList = document.getElementById('announcements')
+			var announcement = createAnnouncement(announcements[currentAnnouncement])
+			announcementsList.appendChild(announcement)
+		}
+
+		var currentEvent = 0
+		var carouselIndicators = document.getElementById('carousel-indicators')
+		for (currentEvent = 0; currentEvent < upcomingEvents.length; currentEvent++) {
+			var carousel = document.getElementById('events-container')
+			var event = createUpcomingEvent(upcomingEvents[currentEvent])
+
+			var indicator = document.createElement('li')
+			indicator.setAttribute('data-target', '#upcoming-events')
+			indicator.setAttribute('data-slide-to', '' + currentEvent)
+
+			if (currentEvent == 0) {
+				event.className += " active"
+				indicator.className += "active"
+			}
+			carousel.appendChild(event)
+			carouselIndicators.appendChild(indicator)
+		}
+	}
+
+	if (hash == "socialForm") {
+		$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
+			beautifyForm()
+		})
+	}
+
+	window.scrollTo(0,0)
+}
+
 function replaceFragment(hash) {
 	if (hash instanceof String && hash.startsWith("#")) {
 		hash = hash.substring(1)
@@ -161,52 +207,18 @@ function replaceFragment(hash) {
 	if (!hash) {
 		hash = defaultFragment
 	}
-	$('#main').load('/' + hash + '.html #main', function(response, status, xhr) {
-		if (status == "error") {
+
+
+	$.get('/' + hash + '.html', function(data) {
+		processHTML($('<div>').append($.parseHTML(data)).find('#main'), hash)
+	}).error(function () {
+		$.get('/' + hash + '.md', function(data) {
+			var converter = new Showdown.converter()
+			var converted = converter.makeHtml(data)
+			processHTML(converted, hash)
+		}).error(function () {
 			replaceFragment(defaultFragment)
-		}
-
-		$("#main-menu").removeClass("in")
-		$("#main-menu").addClass("collapse")
-
-		if (hash == "main") {
-			$("#upcoming-events").carousel({
-				interval: 3000
-			})
-
-			var currentAnnouncement = 0
-			for (currentAnnouncement = 0; currentAnnouncement < announcements.length; currentAnnouncement++) {
-				var announcementsList = document.getElementById('announcements')
-				var announcement = createAnnouncement(announcements[currentAnnouncement])
-				announcementsList.appendChild(announcement)
-			}
-
-			var currentEvent = 0
-			var carouselIndicators = document.getElementById('carousel-indicators')
-			for (currentEvent = 0; currentEvent < upcomingEvents.length; currentEvent++) {
-				var carousel = document.getElementById('events-container')
-				var event = createUpcomingEvent(upcomingEvents[currentEvent])
-
-				var indicator = document.createElement('li')
-				indicator.setAttribute('data-target', '#upcoming-events')
-				indicator.setAttribute('data-slide-to', '' + currentEvent)
-
-				if (currentEvent == 0) {
-					event.className += " active"
-					indicator.className += "active"
-				}
-				carousel.appendChild(event)
-				carouselIndicators.appendChild(indicator)
-			}
-		}
-
-		if (hash == "socialForm") {
-			$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
-				beautifyForm()
-			})
-		}
-
-		window.scrollTo(0,0)
+		});
 	});
 }
 
