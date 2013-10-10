@@ -20,12 +20,12 @@ var announcements = [
 		"title": "Sports Day",
 		"eventInfo": [
 			{
-				"title": "Sports Day",
-				"text": "WHAT COUNTS: One of: Any sports apparel, such as one from a team or special clothing (like a soccer jersey): examples include jerseys from students’ own teams, or retail jerseys from sports teams. Hats, shirts, and pants. School jerseys will be counted if approved by coach. Shirts can be handmade but it must look like you put in effort (based on homeroom rep judgment) NEEDS TO FOLLOW: Miller Top Ten Rules and the dress code.      "
+				"title": "WHAT COUNTS:",
+				"text": "One of: Any sports apparel, such as one from a team or special clothing (like a soccer jersey): examples include jerseys from students’ own teams, or retail jerseys from sports teams. Hats, shirts, and pants. School jerseys will be counted if approved by coach. Shirts can be handmade but it must look like you put in effort (based on homeroom rep judgment) NEEDS TO FOLLOW: Miller Top Ten Rules and the dress code.      "
 			},
 			{
-				"title": "",
-				"text": "WHAT DOESN’T COUNT: A shirt with a team’s name (handwritten) on it that looks like last-minute effort. PE clothes wristbands, glasses, head bands, jewelry anything that doesn’t pass the Miller Top Ten Rules or the dress code"
+				"title": "WHAT DOESN’T COUNT: ",
+				"text": "A shirt with a team’s name (handwritten) on it that looks like last-minute effort. PE clothes wristbands, glasses, head bands, jewelry anything that doesn’t pass the Miller Top Ten Rules or the dress code"
 			}
 		]
 	}
