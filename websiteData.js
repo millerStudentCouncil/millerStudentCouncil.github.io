@@ -1,47 +1,23 @@
 var announcements = [
 	{
-		"title": "Miller TechTalk: What does it take to build a company?",
+		"title": {
+			"link": "https://docs.google.com/forms/d/1twcafgf70gvqD57wG60KcH-7q777ocVcC3Vi8wH53aQ/viewform",
+			"text": "Walk/Bike to School Week"
+		},
 		"eventInfo": [
 			{
 				"title": "When:",
-				"text": "This Friday, October 11, from 3:15-4:15"
+				"text": "Oct. 15-18"
 			},
 			{
-				"title": "Where:",
-				"text": "MP Room"
-			},
-			{
-				"title": "Who:",
-				"text": "Krishna Vedati, CEO of Tynker"
-			}
-		]
-	},
-	{
-		"title": "Sports Day",
-		"eventInfo": [
-			{
-				"title": "WHAT COUNTS:",
-				"text": "One of: Any sports apparel, such as one from a team or special clothing (like a soccer jersey): examples include jerseys from students’ own teams, or retail jerseys from sports teams. Hats, shirts, and pants. School jerseys will be counted if approved by coach. Shirts can be handmade but it must look like you put in effort (based on homeroom rep judgment) NEEDS TO FOLLOW: Miller Top Ten Rules and the dress code.      "
-			},
-			{
-				"title": "WHAT DOESN’T COUNT:",
-				"text": "A shirt with a team’s name (handwritten) on it that looks like last-minute effort. PE clothes wristbands, glasses, head bands, jewelry anything that doesn’t pass the Miller Top Ten Rules or the dress code"
+				"title": "What:",
+				"text": "Walk, bike, or carpool to school to save your planet!"
 			}
 		]
 	}
 ]
 
 var upcomingEvents = [
-	{
-		"img": "http://business.utsa.edu/Business_News/b-update/images/entrepreneurship.jpg",
-		"title": "Miller TechTalk: What does it take to build a company?",
-		"info": "This Friday from 3:15-4:15 in the MP Room"
-	},
-	{
-		"img": "http://upload.wikimedia.org/wikipedia/commons/d/db/Sports_portal_bar_icon.png",
-		"title": "Sports Day",
-		"info": "This Friday"
-	},
 	{
 		"img": "http://www.capitolhillclusterschool.org/wp-content/uploads/2012/09/WalkBiketoSchoolLogo.jpg ",
 		"title": "Walk/Bike to School Week",
