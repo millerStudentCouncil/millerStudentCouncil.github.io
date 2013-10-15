@@ -2,7 +2,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1twcafgf70gvqD57wG60KcH-7q777ocVcC3Vi8wH53aQ/viewform",
-			"text": "Walk/Bike to School Week"
+			"text": "Walk/Bike to School Week Results"
 		},
 		"eventInfo": [
 			{
