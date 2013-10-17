@@ -1,13 +1,5 @@
 var announcements = [
 	{
-		"img": "Neon Day",
-		"title": {
-			"link": "http://introdekatelyn.files.wordpress.com/2011/07/neon-colors.jpg",
-			"text": "This is a fun day, not for homeroom points! Wear your neon clothes and remember to go to the glow dance!"
-		},
-		"info": ""
-	},
-	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1twcafgf70gvqD57wG60KcH-7q777ocVcC3Vi8wH53aQ/viewform",
 			"text": "Walk/Bike to School Week Results"
@@ -26,6 +18,14 @@ var announcements = [
 ]
 
 var upcomingEvents = [
+	{
+		"img": "Neon Day",
+		"title": {
+			"link": "http://introdekatelyn.files.wordpress.com/2011/07/neon-colors.jpg",
+			"text": "This is a fun day, not for homeroom points! Wear your neon clothes and remember to go to the glow dance!"
+		},
+		"info": ""
+	},
 	{
 		"img": "http://www.capitolhillclusterschool.org/wp-content/uploads/2012/09/WalkBiketoSchoolLogo.jpg ",
 		"title": "Walk/Bike to School Week",
