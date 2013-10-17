@@ -20,10 +20,7 @@ var announcements = [
 var upcomingEvents = [
 	{
 		"img": "http://introdekatelyn.files.wordpress.com/2011/07/neon-colors.jpg",
-		"title": {
-			"link": "Neon Day",
-			"text": "This is a fun day, not for homeroom points! Wear your neon clothes and remember to go to the glow dance!"
-		},
+		"title": "This is a fun day, not for homeroom points! Wear your neon clothes and remember to go to the glow dance!",
 		"info": ""
 	},
 	{
