@@ -11,3 +11,5 @@
 * If a fielder catches the ball in the outfield where it would normally be considered a home run, it will still count as an out.
 * Any fly ball that is caught is an out. Runners can not get out nor can they go further than 1 base until the ball has landed.
 * Each team bats until there are 3 outs or until the batting team makes 5 runs.
+* If one team gets a half inning more to bat than another team due to time constraints, all runs scored in that half inning will not count.
+* Please note that the team that has the most runs by the end of lunch will win the game and advance to the next round.
