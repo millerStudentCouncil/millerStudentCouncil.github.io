@@ -1,5 +1,7 @@
 # 5 vs 5 Baseball
 
+## [Sign up here!](https://docs.google.com/forms/d/1XCMJJFhtE7dbvu5nmQrr5dqAN013eIYYCdYapsq1Tag/viewform)
+
 ## Basic Rules
 
 * Each team pitches to their own teammates, underhand toss as in softball.
