@@ -1,18 +1,5 @@
 var announcements = [
 	{
-		"title": "Stuffed Animal Day",
-		"eventInfo": [
-			{
-				"title": "When:",
-				"text": "This Friday, 10/25"
-			},
-			{
-				"title": "What:",
-				"text": "Bring a stuffed animal larger than the hand"
-			}
-		]
-	},
-	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1XCMJJFhtE7dbvu5nmQrr5dqAN013eIYYCdYapsq1Tag/viewform",
 			"text": "Miller 5v5 Baseball Tournament"
