@@ -16,7 +16,10 @@ var announcements = [
 		]
 	},
 	{
-		"title": "TERROR-Cycling!",
+		"title": {
+			"link": "#terracycle"
+			"text": "TERROR-Cycling!"
+		},
 		"eventInfo": [
 			{
 				"title": "Collection will be November 4th - 15th. ",
