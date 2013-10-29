@@ -1,5 +1,26 @@
 var announcements = [
 	{
+		"title": "We Scare Hunger",
+		"eventInfo": [
+			{
+				"title": "What:",
+				"text": "A food drive in participation with Second Harvest Food Bank"
+			},
+			{
+				"title": "When:",
+				"text": "10/24 to 11/4"
+			},
+			{
+				"title": "Where:",
+				"text": "Collection bins in the office and MP Room"
+			},
+			{
+				"title": "What to bring:",
+				"text": "Bottled water, cereal boxes, canned fruit, and baby food"
+			}
+		]
+	},
+	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1XCMJJFhtE7dbvu5nmQrr5dqAN013eIYYCdYapsq1Tag/viewform",
 			"text": "Miller 5v5 Baseball Tournament"
