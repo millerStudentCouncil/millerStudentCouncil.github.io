@@ -17,7 +17,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#terracycle"
+			"link": "#terracycle",
 			"text": "TERROR-Cycling!"
 		},
 		"eventInfo": [
