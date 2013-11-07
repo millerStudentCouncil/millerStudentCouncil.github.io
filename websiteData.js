@@ -1,5 +1,12 @@
 var announcements = [
 	{
+		"title": {
+			"link": "https://docs.google.com/spreadsheet/ccc?key=0AiDXVDFiOJfadDI5bEYtVk1abWtwUk81TWJGUnM1clE&usp=sharing#gid=0",
+			"text": "Homeroom Competition Results"
+		},
+		"eventInfo": []
+	},
+	{
 		"title": "We Scare Hunger",
 		"eventInfo": [
 			{
