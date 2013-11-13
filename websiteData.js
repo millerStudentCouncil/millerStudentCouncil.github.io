@@ -67,5 +67,10 @@ var upcomingEvents = [
 		"img": "http://www.weday.com/files/2013/09/WSH-356x267.jpg",
 		"title": "We Scare Hunger",
 		"info": "Turn in non-perishable items to the office and MP Room!"
+	},
+	{
+		"img": "http://www.walkbiketoschool.org/sites/default/files/OfficialLogos/WBTSD_2inch_Color.jpg ",
+		"title": "Walk/Bike to school week: November 12-15",
+		"info": "Remember: carpool is not accepted. Drop-off points are: Calabazas, Johnson and Bollinger, Prospect and Bollinger, and Safeway. "
 	}
 ]
