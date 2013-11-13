@@ -13,13 +13,6 @@ var announcements = [
 		]
 	},
 	{
-		"title": {
-			"link": "https://docs.google.com/spreadsheet/ccc?key=0AiDXVDFiOJfadDI5bEYtVk1abWtwUk81TWJGUnM1clE&usp=sharing#gid=0",
-			"text": "Homeroom Competition Results"
-		},
-		"eventInfo": []
-	},
-	{
 		"title": "We Scare Hunger",
 		"eventInfo": [
 			{
@@ -28,7 +21,7 @@ var announcements = [
 			},
 			{
 				"title": "When:",
-				"text": "10/24 to 11/4"
+				"text": "10/24 to 11/20"
 			},
 			{
 				"title": "Where:",
@@ -42,19 +35,10 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "https://docs.google.com/forms/d/1XCMJJFhtE7dbvu5nmQrr5dqAN013eIYYCdYapsq1Tag/viewform",
-			"text": "Miller 5v5 Baseball Tournament"
+			"link": "https://docs.google.com/spreadsheet/ccc?key=0AiDXVDFiOJfadDI5bEYtVk1abWtwUk81TWJGUnM1clE&usp=sharing#gid=0",
+			"text": "Homeroom Competition Results"
 		},
-		"eventInfo": [
-			{
-				"title": "About:",
-				"text": "Please submit a response if you are interested in participating in this tournament. Only the first 16 teams of 5 students each to sign up will be competing in this tournament. All grades are welcome. The tournament days will be on 10/29, 10/30, 11/5, 11/6, 11/7, and the teachers vs. students game will be on 11/8 available to the winning team of the student tournament. The final schedule will be posted at the office on Monday 10/28."
-			},
-			{
-				"title": "Link for Signups:",
-				"text": "https://docs.google.com/forms/d/1XCMJJFhtE7dbvu5nmQrr5dqAN013eIYYCdYapsq1Tag/viewform"
-			}
-		]
+		"eventInfo": []
 	},
 	{
 		"title": {
