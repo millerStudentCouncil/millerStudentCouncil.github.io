@@ -1,5 +1,18 @@
 var announcements = [
 	{
+		"title": "Walk or Bike to School Week",
+		"eventInfo": [
+			{
+				"title": "When to Submit:",
+				"text": "The form will be available on this page this Friday"
+			},
+			{
+				"title": "What to count:",
+				"text": "How many students were present, how many participated, and if your teacher participated"
+			}
+		]
+	},
+	{
 		"title": {
 			"link": "https://docs.google.com/spreadsheet/ccc?key=0AiDXVDFiOJfadDI5bEYtVk1abWtwUk81TWJGUnM1clE&usp=sharing#gid=0",
 			"text": "Homeroom Competition Results"
