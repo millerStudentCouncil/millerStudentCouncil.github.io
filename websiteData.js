@@ -80,6 +80,11 @@ var announcements = [
 
 var upcomingEvents = [
 	{
+		"img": "http://www.weday.com/files/2013/09/WSH-356x267.jpg",
+		"title": "We Scare Hunger",
+		"info": "Turn in non-perishable items to the office and MP Room!"
+	},
+	{
 		"img": "http://www.ballsnbands.com/images/Totemaster%20Rack.jpg ",
 		"title": "Ball Bin",
 		"info": "Remember to bring your ID card to check out basketballs, soccer balls, and footballs!"
