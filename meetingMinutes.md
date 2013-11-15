@@ -5,3 +5,4 @@
  - [September 25 Full Meeting](./meetingMinutes/9.25FullMeetingMinutes.pdf)
  - [October 9 Full Meeting](./meetingMinutes/10.9FullMeetingMinutes.html)
  - [October 23 Full Meeting](./meetingMinutes/10.23FullMeetingMinutes.pdf)
+ - [November 6 Full Meeting](./meetingMinutes/11.6FullMeetingMinutes.pdf)
