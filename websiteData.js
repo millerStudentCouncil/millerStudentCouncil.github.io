@@ -1,16 +1,10 @@
 var announcements = [
 	{
-		"title": "Walk or Bike to School Week",
-		"eventInfo": [
-			{
-				"title": "When to Submit:",
-				"text": "The form will be available on this page this Friday"
-			},
-			{
-				"title": "What to count:",
-				"text": "How many students were present, how many participated, and if your teacher participated"
-			}
-		]
+		"title": {
+			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/viewform",
+			"text": "Walk/Bike to school week results form (Nov. 12-15)"
+		},
+		"eventInfo": []
 	},
 	{
 		"title": "We Scare Hunger",
