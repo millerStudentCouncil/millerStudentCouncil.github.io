@@ -208,7 +208,6 @@ function replaceFragment(hash) {
 		hash = defaultFragment
 	}
 
-
 	$.get('/' + hash + '.html', function(data) {
 		processHTML($('<div>').append($.parseHTML(data)).find('#main'), hash)
 	}).error(function () {
