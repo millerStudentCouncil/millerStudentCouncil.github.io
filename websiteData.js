@@ -1,5 +1,22 @@
 var announcements = [
 	{
+		"title": "Typhoon Relief Fund",
+		"eventInfo": [
+			{
+				"title": "Due Date:",
+				"text": "THIS FRIDAY"
+			},
+			{
+				"title": "What to bring:",
+				"text": "Clothing, toiletries, blankets, socks, and canned goods"
+			},
+			{
+				"title": "Where to turn it in:",
+				"text": "Room 33"
+			}
+		]
+	},
+	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/viewform",
 			"text": "Walk/Bike to school week results form (Nov. 12-15)"
