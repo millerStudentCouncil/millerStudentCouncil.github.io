@@ -21,7 +21,7 @@ var announcements = [
 			"link": "https://docs.google.com/forms/d/1dEf9_2ZrnaCrHStgUmLHJ_Ay0pBZlO9uFjbOqbfPlFI/viewform",
 			"text": "Sign up for Chain Reaction's Volleyball Tournament!"
 		}
-	}
+	},
 	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/viewform",
