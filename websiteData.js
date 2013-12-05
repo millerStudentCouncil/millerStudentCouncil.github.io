@@ -59,7 +59,7 @@ var upcomingEvents = [
 	{
 		"img": "http://static2.wikia.nocookie.net/__cb20131014035006/clubpenguin/images/7/7d/Dodgeball_Pin.PNG",
 		"title": {
-			"link": "tinyurl.com/millerdodgeball2013",
+			"link": "http://tinyurl.com/millerdodgeball2013",
 			"text": "Dodgeball Tournament"
 		},
 		"info": ""
