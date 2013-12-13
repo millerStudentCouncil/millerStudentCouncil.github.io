@@ -26,8 +26,8 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "http://tinyurl.com/millerdodgeball2013",
-			"text": "Miller Dodgeball Tournament Sign-ups"
+			"link": "#dodgeballTournament",
+			"text": "Miller Dodgeball Tournament Info"
 		},
 		"eventInfo": []
 	},
@@ -73,7 +73,7 @@ var upcomingEvents = [
 	{
 		"img": "http://static2.wikia.nocookie.net/__cb20131014035006/clubpenguin/images/7/7d/Dodgeball_Pin.PNG",
 		"title": {
-			"link": "http://tinyurl.com/millerdodgeball2013",
+			"link": "#dodgeballTournament",
 			"text": "Dodgeball Tournament"
 		},
 		"info": ""
