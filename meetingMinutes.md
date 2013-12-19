@@ -7,5 +7,8 @@
  - [October 23 Full Meeting](./meetingMinutes/10.23FullMeetingMinutes.pdf)
  - [November 6 Full Meeting](./meetingMinutes/11.6FullMeetingMinutes.pdf)
  - [November 20 Full Meeting](./meetingMinutes/11.20FullMeetingMinutes.pdf)
+<<<<<<< HEAD
  - [December 4 Full Meeting](./meetingMinutes/12.4FullMeetingMinutes.pdf)
- - [December 18 Full Meeting](./meetingMinutes/12.18FullMeetingMinutes.pdf)
+=======
+ - [December 4 Full Meeting](./meetingMinutes/12.4FullMeetingMinutes.pdf)
+>>>>>>> 2dde0587d3eaaa9088dbb39ce404ae1b37c4d91d
