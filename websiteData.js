@@ -1,6 +1,13 @@
 var announcements = [
 	{
 		"title": {
+			"link": "tinyurl.com/milleridol2014",
+			"text": "Miller Idol Signups"
+		},
+		"eventInfo": []
+	},
+	{
+		"title": {
 			"link": "https://docs.google.com/forms/d/1k2uow1LYSYB2UVnp6P4HZEwhp6RdKhWBRjwyE27UKRk/viewform",
 			"text": "Oscar Night Categories Feedback"
 		},
