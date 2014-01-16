@@ -1,6 +1,12 @@
 var announcements = [
 	{
 		"title": {
+			"link": "https://docs.google.com/forms/d/1g2TECDHVV5Msug44hFh6Q8k8f_lHIjzvzyONNooWR48/viewform",
+			"text": "<div class="hr-only" >Vote for what the next Spirit Day's color</div>"
+		}
+	}
+	{
+		"title": {
 			"link": "#homeroomResults",
 			"text": "Second Quarter Homeroom Results!"
 		},
@@ -14,26 +20,6 @@ var announcements = [
 			"text": "Miller Idol Signups"
 		},
 		"eventInfo": []
-	},
-	{
-		"title": {
-			"link": "https://docs.google.com/forms/d/1k2uow1LYSYB2UVnp6P4HZEwhp6RdKhWBRjwyE27UKRk/viewform",
-			"text": "Oscar Night Categories Feedback"
-		},
-		"eventInfo": []
-	},
-	{
-		"title": {
-			"link": "http://tinyurl.com/frozenintimedancesurvey",
-			"text": "Frozen in Time Dance Feedback"
-		},
-		"eventInfo": []
-	},
-	{
-		"title": {
-			"link": "https://docs.google.com/forms/d/1dEf9_2ZrnaCrHStgUmLHJ_Ay0pBZlO9uFjbOqbfPlFI/viewform",
-			"text": "Sign up for Chain Reaction's Volleyball Tournament!"
-		}
 	}
 ]
 
