@@ -202,7 +202,9 @@ function processHTML(data, hash) {
 }
 
 function makeHrVisible() {
-	$(".hr-only").css("display", "")
+	if (homeroomRep) {
+		$(".hr-only").css("display", "")
+	}
 }
 
 function replaceFragment(hash) {
