@@ -2,9 +2,9 @@ var announcements = [
 	{
 		"title": {
 			"link": "https://docs.google.com/forms/d/1g2TECDHVV5Msug44hFh6Q8k8f_lHIjzvzyONNooWR48/viewform",
-			"text": "Vote for what the next Spirit Day's color"
+			"text": "HOMEROOM REPS: Vote for the next Spirit Day's color"
 		}
-	}
+	},
 	{
 		"title": {
 			"link": "#homeroomResults",
