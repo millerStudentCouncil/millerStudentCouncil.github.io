@@ -202,7 +202,7 @@ function processHTML(data, hash) {
 }
 
 function makeHrVisible() {
-	if (homeroomRep) {
+	if (homeroomRep == true) {
 		$(".hr-only").css("display", "")
 	}
 }
