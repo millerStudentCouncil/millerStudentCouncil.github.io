@@ -1,7 +1,16 @@
 var announcements = [
 	{
 		"title": {
-			"link": "tinyurl.com/milleridol2014",
+			"link": "#homeroomResults",
+			"text": "Second Quarter Homeroom Results!"
+		},
+		"eventInfo": [
+			"<iframe width=\"100%\" src=\"https://docs.google.com/a/shadaj.me/spreadsheet/pub?key=0AmgNkG8GIejRdFJEcVZTeEdmSF96R0pQTlJ0VnlmM0E&output=html\"></iframe>"
+		]
+	},
+	{
+		"title": {
+			"link": "http://tinyurl.com/milleridol2014",
 			"text": "Miller Idol Signups"
 		},
 		"eventInfo": []
@@ -25,17 +34,18 @@ var announcements = [
 			"link": "https://docs.google.com/forms/d/1dEf9_2ZrnaCrHStgUmLHJ_Ay0pBZlO9uFjbOqbfPlFI/viewform",
 			"text": "Sign up for Chain Reaction's Volleyball Tournament!"
 		}
-	},
-	{
-		"title": {
-			"link": "https://docs.google.com/spreadsheet/ccc?key=0AiDXVDFiOJfadDI5bEYtVk1abWtwUk81TWJGUnM1clE&usp=sharing#gid=0",
-			"text": "Homeroom Competition Results"
-		},
-		"eventInfo": []
 	}
 ]
 
 var upcomingEvents = [
+	{
+		"img": "http://bestclipartblog.com/clipart-pics/microphone-clip-art-2.jpg",
+		"title": {
+			"link": "http://tinyurl.com/milleridol2014",
+			"text": "Miller Idol Signups"
+		},
+		"info": ""
+	},
 	{
 		"img": "http://static2.wikia.nocookie.net/__cb20131014035006/clubpenguin/images/7/7d/Dodgeball_Pin.PNG",
 		"title": {
