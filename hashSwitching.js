@@ -228,6 +228,8 @@ function replaceFragment(hash) {
 			replaceFragment(defaultFragment)
 		});
 	});
+	
+	makeHrVisible()
 }
 
 $(document).ready(function() {
