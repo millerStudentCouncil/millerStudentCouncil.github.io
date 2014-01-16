@@ -201,6 +201,10 @@ function processHTML(data, hash) {
 	window.scrollTo(0,0)
 }
 
+function makeHrVisible() {
+	$(".hr-only").css("display", "")
+}
+
 function replaceFragment(hash) {
 	if (hash instanceof String && hash.startsWith("#")) {
 		hash = hash.substring(1)
