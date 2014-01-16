@@ -52,6 +52,6 @@ var upcomingEvents = [
 			"link": "#dodgeballTournament",
 			"text": "Dodgeball Tournament"
 		},
-		"info": ""
+		"info": "Tomorrow!"
 	}
 ]
