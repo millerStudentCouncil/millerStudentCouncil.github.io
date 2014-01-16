@@ -1,4 +1,5 @@
 var defaultFragment = "main"
+var homeroomRep = false
 
 function addEventInfo() {
 	var infoDiv = document.createElement('div')
@@ -206,6 +207,10 @@ function replaceFragment(hash) {
 	}
 	if (!hash) {
 		hash = defaultFragment
+	}
+	
+	if (hash == "hr") {
+		homeroomRep = true
 	}
 
 	$.get('/' + hash + '.html', function(data) {
