@@ -23,4 +23,7 @@ function beautifyForm () {
 		   $(this).prop("required", true)
 		 }
 	})
+
+	$("select").addClass("form-control")
+	$("select").prop("multiple", true)
 }
