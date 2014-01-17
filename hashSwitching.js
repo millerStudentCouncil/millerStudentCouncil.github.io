@@ -1,4 +1,5 @@
 var defaultFragment = "main"
+var homeroomRep = false
 
 function addEventInfo() {
 	var infoDiv = document.createElement('div')
@@ -200,12 +201,22 @@ function processHTML(data, hash) {
 	window.scrollTo(0,0)
 }
 
+function makeHrVisible() {
+	if (homeroomRep == true) {
+		$(".hr-only").css("display", "")
+	}
+}
+
 function replaceFragment(hash) {
 	if (hash instanceof String && hash.startsWith("#")) {
 		hash = hash.substring(1)
 	}
 	if (!hash) {
 		hash = defaultFragment
+	}
+	
+	if (hash == "hr") {
+		homeroomRep = true
 	}
 
 	$.get('/' + hash + '.html', function(data) {
@@ -219,6 +230,8 @@ function replaceFragment(hash) {
 			replaceFragment(defaultFragment)
 		});
 	});
+	
+	makeHrVisible()
 }
 
 $(document).ready(function() {
