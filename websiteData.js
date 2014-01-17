@@ -41,3 +41,5 @@ var upcomingEvents = [
 		"info": "Tomorrow!"
 	}
 ]
+
+var spiritDay = "Pajama Day"
