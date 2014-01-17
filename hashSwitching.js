@@ -217,6 +217,10 @@ function replaceFragment(hash) {
 	
 	if (hash == "hr") {
 		homeroomRep = true
+		var alertObject = document.createElement("div")
+		alertObject.className = "alert alert-success alert-dismissable";
+		alertObject.innerHTML = "<button type=\"button\" class=\"close\" data-dismiss=\"alert\">×</button> You have been signed in as a homeroom representative"
+		document.getElementById('alertHolder').appendChild(alertObject)
 	}
 
 	$.get('/' + hash + '.html', function(data) {
