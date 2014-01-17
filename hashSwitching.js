@@ -1,5 +1,6 @@
 var defaultFragment = "main"
 var homeroomRep = false
+var spiritAdded = false
 
 function addEventInfo() {
 	var infoDiv = document.createElement('div')
@@ -247,10 +248,11 @@ function replaceFragment(hash) {
 $(document).ready(function() {
 	replaceFragment(window.location.hash)
 
-	if (spiritDay != undefined) {
+	if (spiritDay != undefined && spiritAdded == false) {
 		var spiritObject = document.createElement("li")
 		spiritObject.innerHTML = "<a href=\"#socialForm\">Submit Results for " + spiritDay + "</a>"
 		document.getElementById("socialDrop").appendChild(spiritObject)
+		spiritAdded = true
 	}	
 
 	$(function() {
