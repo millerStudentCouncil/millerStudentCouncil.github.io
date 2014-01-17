@@ -224,12 +224,6 @@ function replaceFragment(hash) {
 		document.getElementById('alertHolder').appendChild(alertObject)
 	}
 
-	if (spiritDay != undefined) {
-		var spiritObject = document.createElement("li")
-		spiritObject.innerHTML = "<a href=\"#socialForm\">Submit Results for " + spiritDay + "</a>"
-		document.getElementById("socialDrop").appendChild(spiritObject)
-	}
-
 	$.get('/' + hash + '.html', function(data) {
 		processHTML($('<div>').append($.parseHTML(data)).find('#main'), hash)
 	}).error(function () {
@@ -253,7 +247,7 @@ $(document).ready(function() {
 		spiritObject.innerHTML = "<a href=\"#socialForm\">Submit Results for " + spiritDay + "</a>"
 		document.getElementById("socialDrop").appendChild(spiritObject)
 		spiritAdded = true
-	}	
+	}
 
 	$(function() {
 		if (Modernizr.history) {
