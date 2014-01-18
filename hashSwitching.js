@@ -242,7 +242,7 @@ function replaceFragment(hash) {
 $(document).ready(function() {
 	replaceFragment(window.location.hash)
 
-	if (spiritDay != undefined && spiritAdded == false) {
+	if (spiritDay != "" && spiritAdded == false) {
 		var spiritObject = document.createElement("li")
 		spiritObject.innerHTML = "<a href=\"#socialForm\">Submit Results for " + spiritDay + "</a>"
 		document.getElementById("socialDrop").appendChild(spiritObject)
