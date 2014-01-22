@@ -10,3 +10,4 @@
  - [December 4 Full Meeting](./meetingMinutes/12.4FullMeetingMinutes.pdf)
  - [December 18 Full Meeting](./meetingMinutes/12.18FullMeetingMinutes.pdf)
  - [January 8 Full Meeting](./meetingMinutes/1.8FullMeetingMinutes.pdf)
+ - [January 22 Full Meeting](./meetingMinutes/1.22FullMeetingMinutes.pdf)
