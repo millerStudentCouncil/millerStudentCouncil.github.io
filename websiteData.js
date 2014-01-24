@@ -1,5 +1,12 @@
 var announcements = [
 	{
+		"title": {
+			"link": "http://tinyurl.com/fancydance2014",
+			"text": "Fancy Dance"
+		},
+		"eventInfo": []
+	},
+	{
 		"title": "Color Day! Wear your grade's color!",
 		"eventInfo": [
 			{
