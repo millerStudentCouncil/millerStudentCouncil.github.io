@@ -67,4 +67,4 @@ var upcomingEvents = [
 	}
 ]
 
-var spiritDay = ""
+var spiritDay = "Color Day"
