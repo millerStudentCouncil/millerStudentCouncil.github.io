@@ -7,39 +7,15 @@ var announcements = [
 		"eventInfo": []
 	},
 	{
-		"title": "Color Day! Wear your grade's color!",
+		"title": "Walk/Bike to school Week",
 		"eventInfo": [
 			{
-				"title": "8th Grade",
-				"text": "Blue"
+				"title": "Date",
+				"text": "Jan. 28-31"
 			},
 			{
-				"title": "7th Grade",
-				"text": "Purple"
-			},
-			{
-				"title": "6th Grade",
-				"text": "Red"
-			},
-			{
-				"title": "Teachers",
-				"text": "Miller Apparel"
-			}
-		]
-	},
-	{
-		"title": {
-			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/edit",
-			"text": "Walk/Bike to school week submission form"
-		},
-		"eventInfo": [
-			{
-				"title": "Date:",
-				"text": "January 27-30"
-			},
-			{
-				"title": "Rules:",
-				"text": "No carpool accepted. Drop off points include: Calabazas, Safeway, or Johnson/Bollinger. "
+				"title": "Rules",
+				"text": "No carpool accepted. Drop off points include: Calabazas, Safeway, or Johnson/Bollinger."
 			}
 		]
 	},
