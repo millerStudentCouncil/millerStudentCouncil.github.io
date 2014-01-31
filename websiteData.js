@@ -7,7 +7,10 @@ var announcements = [
 		"eventInfo": []
 	},
 	{
-		"title": "Walk/Bike to school Week",
+		"title": {
+			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/viewform",
+			"text": "Walk/Bike to School Week Submission Form"
+		},
 		"eventInfo": [
 			{
 				"title": "Date",
