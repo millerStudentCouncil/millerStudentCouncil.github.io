@@ -43,4 +43,4 @@ var upcomingEvents = [
 	}
 ]
 
-var spiritDay = ""
+var spiritDay = "Chinese New Year Day"
