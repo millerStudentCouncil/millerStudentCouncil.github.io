@@ -26,7 +26,6 @@ function beautifyForm () {
 	})
 
 	$("select").addClass("form-control")
-	$("select").prop("multiple", true)
 }
 
 function formSubmit () {
