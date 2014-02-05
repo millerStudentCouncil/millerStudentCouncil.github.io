@@ -8,22 +8,6 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "https://docs.google.com/forms/d/1G0EKoWIz_HlCvAh77PTvhXqZWHKEg8IssmPONDoR33Q/viewform",
-			"text": "Walk/Bike to School Week Submission Form"
-		},
-		"eventInfo": [
-			{
-				"title": "Date",
-				"text": "Jan. 28-31"
-			},
-			{
-				"title": "Rules",
-				"text": "No carpool accepted. Drop off points include: Calabazas, Safeway, or Johnson/Bollinger."
-			}
-		]
-	},
-	{
-		"title": {
 			"link": "#homeroomResults",
 			"text": "Second Quarter Homeroom Results!"
 		},
@@ -35,15 +19,10 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://www.pandahat.com/cfolder/Pandahat/Library/Tree/Panda_Hats/PAN001_Deluxe_Panda_Hat.jpg ",
-		"title": "Panda hats are available at the Student Store for $5 for ONE week, from 1/27/14-1/31/14!",
-		"info": ""
-	},
-	{
-		"img": "http://b.vimeocdn.com/ts/863/937/86393702_640.jpg",
-		"title": "Walk/Bike to school week",
-		"info": "January 27-30. No carpool will be accepted."
+		"img": "https://lh3.googleusercontent.com/-6cA8OkwU7Uk/UvD3yceZt7I/AAAAAAAAAMA/9yOLotUIvNQ/w506-h327/Graffiti.jpg",
+		"title": "Graffiti Dance!",
+		"info": "This Friday!"
 	}
 ]
 
-var spiritDay = "Chinese New Year Day"
+var spiritDay = ""
