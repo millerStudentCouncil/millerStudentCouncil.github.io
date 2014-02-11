@@ -1,8 +1,15 @@
 var announcements = [
 	{
 		"title": {
-			"link": "http://tinyurl.com/fancydance2014",
-			"text": "Fancy Dance"
+			"link": "http://tinyurl.com/michamp",
+			"text": "Miller Idol Voting"
+		},
+		"eventInfo": []
+	},
+	{
+		"title": {
+			"link": "tinyurl.com/fancydanceearlybirdtickets",
+			"text": "Fancy Dance Early Bird Tickets"
 		},
 		"eventInfo": []
 	},
@@ -19,14 +26,12 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://1.bp.blogspot.com/-RXiFyPHoTks/T0ucL-Y93yI/AAAAAAAAAJM/5PK0ZE-r0HI/s1600/oldschool-brain-graffiti.jpg",
-		"title": "Graffiti Dance Promotion",
-		"info": "Today!"
-	},
-	{
-		"img": "https://lh3.googleusercontent.com/-6cA8OkwU7Uk/UvD3yceZt7I/AAAAAAAAAMA/9yOLotUIvNQ/w506-h327/Graffiti.jpg",
-		"title": "Graffiti Dance!",
-		"info": "This Friday!"
+		"img": "http://myfloridahistory.org/system/files/images/micphone.jpg",
+		"title": {
+			"link": "http://tinyurl.com/michamp",
+			"text": "Miller Idol Voting"
+		},
+		"info": ""
 	},
 	{
 		"img": "http://shakespeareinaction.files.wordpress.com/2013/01/clip-art-pink-heart-backgrounds-powerpoint.jpg",
