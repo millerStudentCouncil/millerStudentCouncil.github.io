@@ -8,7 +8,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "tinyurl.com/fancydanceearlybirdtickets",
+			"link": "http://tinyurl.com/fancydanceearlybirdtickets",
 			"text": "Fancy Dance Early Bird Tickets"
 		},
 		"eventInfo": []
