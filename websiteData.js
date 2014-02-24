@@ -1,17 +1,25 @@
 var announcements = [
 	{
-		"title": {
-			"link": "http://tinyurl.com/michamp",
-			"text": "Miller Idol Voting"
-		},
-		"eventInfo": []
+		"title": "Nerd Day",
+		"eventInfo": [
+			{
+				"title": "When:",
+				"text": "This Friday"
+			},
+			{
+				"title": "What:",
+				"text": "Wear glasses (movie theater 3d glasses with lenses punched out), dress shirts/ties, giant hair bow ties (for girls), or dress shoes/pants"
+			}
+		]
 	},
 	{
 		"title": {
 			"link": "http://tinyurl.com/fancydanceearlybirdtickets",
 			"text": "Fancy Dance Early Bird Tickets"
 		},
-		"eventInfo": []
+		"eventInfo": [
+			"Only $15!"
+		]
 	},
 	{
 		"title": {
@@ -26,17 +34,14 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://myfloridahistory.org/system/files/images/micphone.jpg",
-		"title": {
-			"link": "http://tinyurl.com/michamp",
-			"text": "Miller Idol Voting"
-		},
-		"info": ""
+		"img": "http://upload.wikimedia.org/wikipedia/commons/6/64/Glasses_for_RealD_Cinema-fs_PNr%C2%B00272.jpg",
+		"title": "Nerd Day",
+		"info": "This Friday!"
 	},
 	{
 		"img": "http://shakespeareinaction.files.wordpress.com/2013/01/clip-art-pink-heart-backgrounds-powerpoint.jpg",
-		"title": "Valentine's Day Grams",
-		"info": "Valentine's Day Grams will be available in the Student Store from 2/3/14 to 2/7/14. The prices will be 1 for $4, 2 for $7, and 3 for $9. Remember to stop by! "
+		"title": "We are Love",
+		"info": "We are Love Pins are still available in the student store!"
 	}
 ]
 
