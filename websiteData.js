@@ -1,10 +1,46 @@
 var announcements = [
 	{
-		"title": "Nerd Day",
+		"title": {
+			"link": "http://tinyurl.com/lightning-for-basketball",
+			"text": "Lightning for Basketball"
+		},
 		"eventInfo": [
 			{
 				"title": "When:",
 				"text": "This Friday"
+			}
+		]
+	},
+	{
+		"title": "Movie Night",
+		"eventInfo": [
+			{
+				"title": "When:",
+				"text": "3/14 at 7:30; Come at 7 to buy food"
+			},
+			{
+				"title": "What:",
+				"text": "Life of Pi will be shown in the MP Room"
+			},
+			{
+				"title": "Pie-fest:",
+				"text": "Bring pies along with paper with the ingredients"
+			}
+		]
+	},
+	{
+		"title": {
+			"link": "http://tinyurl.com/graffitidanceresponse",
+			"text": "Graffiti Dance Feedback"
+		},
+		"eventInfo": []
+	},
+	{
+		"title": "Nerd Day",
+		"eventInfo": [
+			{
+				"title": "When:",
+				"text": "Next Week Friday"
 			},
 			{
 				"title": "What:",
@@ -36,7 +72,7 @@ var upcomingEvents = [
 	{
 		"img": "http://upload.wikimedia.org/wikipedia/commons/6/64/Glasses_for_RealD_Cinema-fs_PNr%C2%B00272.jpg",
 		"title": "Nerd Day",
-		"info": "This Friday!"
+		"info": "Next Week Friday!"
 	},
 	{
 		"img": "http://shakespeareinaction.files.wordpress.com/2013/01/clip-art-pink-heart-backgrounds-powerpoint.jpg",
