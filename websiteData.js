@@ -1,17 +1,5 @@
 var announcements = [
 	{
-		"title": {
-			"link": "http://tinyurl.com/lightning-for-basketball",
-			"text": "Lightning for Basketball"
-		},
-		"eventInfo": [
-			{
-				"title": "When:",
-				"text": "This Friday"
-			}
-		]
-	},
-	{
 		"title": "Movie Night",
 		"eventInfo": [
 			{
