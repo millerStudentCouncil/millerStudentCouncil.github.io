@@ -1,49 +1,10 @@
 var announcements = [
 	{
-		"title": "Movie Night",
-		"eventInfo": [
-			{
-				"title": "When:",
-				"text": "3/14 at 7:30; Come at 7 to buy food"
-			},
-			{
-				"title": "What:",
-				"text": "Life of Pi will be shown in the MP Room"
-			},
-			{
-				"title": "Pie-fest:",
-				"text": "Bring pies along with paper with the ingredients"
-			}
-		]
-	},
-	{
 		"title": {
 			"link": "http://tinyurl.com/graffitidanceresponse",
 			"text": "Graffiti Dance Feedback"
 		},
 		"eventInfo": []
-	},
-	{
-		"title": "Nerd Day",
-		"eventInfo": [
-			{
-				"title": "When:",
-				"text": "Next Week Friday"
-			},
-			{
-				"title": "What:",
-				"text": "Wear glasses (movie theater 3d glasses with lenses punched out), dress shirts/ties, giant hair bow ties (for girls), or dress shoes/pants"
-			}
-		]
-	},
-	{
-		"title": {
-			"link": "http://tinyurl.com/fancydanceearlybirdtickets",
-			"text": "Fancy Dance Early Bird Tickets"
-		},
-		"eventInfo": [
-			"Only $15!"
-		]
 	},
 	{
 		"title": {
@@ -58,14 +19,9 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://upload.wikimedia.org/wikipedia/commons/6/64/Glasses_for_RealD_Cinema-fs_PNr%C2%B00272.jpg",
-		"title": "Nerd Day",
-		"info": "Next Week Friday!"
-	},
-	{
-		"img": "http://shakespeareinaction.files.wordpress.com/2013/01/clip-art-pink-heart-backgrounds-powerpoint.jpg",
-		"title": "We are Love",
-		"info": "We are Love Pins are still available in the student store!"
+		"img": "http://www.hellawella.com/sites/hellawella.com/files/2012/06/DancersImage1.gif",
+		"title": "Fancy Dance",
+		"info": "This Friday!"
 	}
 ]
 
