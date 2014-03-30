@@ -25,4 +25,4 @@ var upcomingEvents = [
 	}
 ]
 
-var spiritDay = "St. Patrick's Day"
+var spiritDay = ""
