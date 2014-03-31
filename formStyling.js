@@ -30,11 +30,19 @@ function beautifyForm () {
 
 function formSubmit () {
 	if (submitted == true) {
-		replaceFragment("main")
-		var alertObject = document.createElement("div")
+		var alertObject = document.getElementById("loadAlert")
 		alertObject.className = "alert alert-success alert-dismissable";
 		alertObject.innerHTML = "<button type=\"button\" class=\"close\" data-dismiss=\"alert\">×</button> Your spirit day results have been submitted"
-		document.getElementById('alertHolder').appendChild(alertObject)
 		submitted = false
 	}
+}
+
+function showSubmitting () {
+	submitted = true;
+	replaceFragment("main")
+	var alertObject = document.createElement("div")
+	alertObject.className = "alert alert-success";
+	alertObject.id = "loadAlert"
+	alertObject.innerHTML = "Submitting Your Results... <div class=\"spinner\"><div class=\"dot1\"></div><div class=\"dot2\"></div></div>"
+	document.getElementById('alertHolder').appendChild(alertObject)
 }
