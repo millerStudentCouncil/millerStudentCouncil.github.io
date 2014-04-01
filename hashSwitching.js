@@ -194,9 +194,17 @@ function processHTML(data, hash) {
 	}
 
 	if (hash == "socialForm") {
-		$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
-			beautifyForm()
-		})
+		if (spiritDay == "") {
+			var alertObject = document.createElement("div")
+			alertObject.className = "alert alert-danger alert-dismissable";
+			alertObject.innerHTML = "<button type=\"button\" class=\"close\" data-dismiss=\"alert\">×</button> The Spirit Day Submission form has been closed"
+			document.getElementById('alertHolder').appendChild(alertObject)
+			replaceFragment("main")
+		} else {
+			$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
+				beautifyForm()
+			})
+		}
 	}
 
 	window.scrollTo(0,0)
