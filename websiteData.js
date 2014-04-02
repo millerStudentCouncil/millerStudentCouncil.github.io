@@ -1,6 +1,14 @@
 var announcements = [
 	{
 		"title": {
+			"text": "Pickle Spitting Contest"
+			"text":	"Where: Quad"
+			"text": "When: April 4th, Friday"
+			"text": "Who: All Miller Teachers (Any Teacher can participate for fun!"
+			"text": "What: Homeroom points will be given out to the top 10 teachers"
+	},
+	{
+		"title": {
 			"link": "http://tinyurl.com/graffitidanceresponse",
 			"text": "Graffiti Dance Feedback"
 		},
