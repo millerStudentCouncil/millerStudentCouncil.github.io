@@ -1,11 +1,7 @@
 var announcements = [
 	{
 		"title": {
-			"text": "Pickle Spitting Contest"
-			"text":	"Where: Quad"
-			"text": "When: April 4th, Friday"
-			"text": "Who: All Miller Teachers (Any Teacher can participate for fun!"
-			"text": "What: Homeroom points will be given out to the top 10 teachers"
+			"text": "Pickle Spitting Contest" "Where: Quad" "When: April 4th, Friday" "Who: All Miller Teachers (Any Teacher can participate for fun!" "What: Homeroom points will be given out to the top 10 teachers"
 	},
 	{
 		"title": {
