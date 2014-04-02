@@ -19,9 +19,9 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://www.hellawella.com/sites/hellawella.com/files/2012/06/DancersImage1.gif",
-		"title": "Fancy Dance",
-		"info": "This Friday!"
+		"img": "https://lh5.googleusercontent.com/PTQaRcpvgS1f8IFj4kbRdnLomgxyGOU0UN8lUUDzMqqRIvcHAMSjzpYFAPB8oH5SjfsFeAnhX5fckqJiajhqFfmL7-XbFR-ncCR9OVu8ZKXsjJ5yTV2Yz4MSqteESg",
+		"title": "The Oscars!",
+		"info": "This Friday"
 	}
 ]
 
