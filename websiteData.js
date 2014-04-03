@@ -1,8 +1,8 @@
 var announcements = [
 	{
 		"title": {
-			"link": "http://tinyurl.com/graffitidanceresponse",
-			"text": "Graffiti Dance Feedback"
+		"link": "http://tinyurl.com/graffitidanceresponse",
+		"text": "Graffiti Dance Feedback"
 		},
 		"eventInfo": []
 	},
