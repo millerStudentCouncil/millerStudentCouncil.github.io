@@ -1,5 +1,11 @@
 var announcements = [
 	{
+		"title": "Third Quarter Results!",
+		"eventInfo": [
+			"Coming Soon!"
+		]
+	},
+	{
 		"title": {
 		"link": "http://tinyurl.com/graffitidanceresponse",
 		"text": "Graffiti Dance Feedback"
@@ -21,7 +27,7 @@ var upcomingEvents = [
 	{
 		"img": "https://lh5.googleusercontent.com/PTQaRcpvgS1f8IFj4kbRdnLomgxyGOU0UN8lUUDzMqqRIvcHAMSjzpYFAPB8oH5SjfsFeAnhX5fckqJiajhqFfmL7-XbFR-ncCR9OVu8ZKXsjJ5yTV2Yz4MSqteESg",
 		"title": "The Oscars!",
-		"info": "This Friday"
+		"info": "This Friday @ 3:15"
 	}
 ]
 
