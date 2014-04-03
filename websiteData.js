@@ -7,13 +7,6 @@ var announcements = [
 	},
 	{
 		"title": {
-		"link": "http://tinyurl.com/graffitidanceresponse",
-		"text": "Graffiti Dance Feedback"
-		},
-		"eventInfo": []
-	},
-	{
-		"title": {
 			"link": "#homeroomResults",
 			"text": "Second Quarter Homeroom Results!"
 		},
@@ -28,6 +21,11 @@ var upcomingEvents = [
 		"img": "https://lh5.googleusercontent.com/PTQaRcpvgS1f8IFj4kbRdnLomgxyGOU0UN8lUUDzMqqRIvcHAMSjzpYFAPB8oH5SjfsFeAnhX5fckqJiajhqFfmL7-XbFR-ncCR9OVu8ZKXsjJ5yTV2Yz4MSqteESg",
 		"title": "The Oscars!",
 		"info": "This Friday @ 3:15"
+	},
+	{
+		"img": "http://www.weday.com/files/2013/09/WAS-356x267.jpg",
+		"title": "We are Silent",
+		"info": "April 10"
 	}
 ]
 
