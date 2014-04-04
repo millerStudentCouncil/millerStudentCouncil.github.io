@@ -1,5 +1,14 @@
 var announcements = [
 	{
+		"title": {
+			text: "We are Silent",
+			link: "#wearesilent"
+		},
+		"eventInfo": [
+			"Pledge forms and more now available!"
+		]
+	},
+	{
 		"title": "Third Quarter Results!",
 		"eventInfo": [
 			"Coming Soon!"
@@ -24,7 +33,10 @@ var upcomingEvents = [
 	},
 	{
 		"img": "http://www.weday.com/files/2013/09/WAS-356x267.jpg",
-		"title": "We are Silent",
+		"title": {
+			text: "We are Silent",
+			link: "#wearesilent"
+		},
 		"info": "April 10"
 	}
 ]
