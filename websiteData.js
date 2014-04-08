@@ -27,17 +27,17 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "https://lh5.googleusercontent.com/PTQaRcpvgS1f8IFj4kbRdnLomgxyGOU0UN8lUUDzMqqRIvcHAMSjzpYFAPB8oH5SjfsFeAnhX5fckqJiajhqFfmL7-XbFR-ncCR9OVu8ZKXsjJ5yTV2Yz4MSqteESg",
-		"title": "The Oscars!",
-		"info": "This Friday @ 3:15"
-	},
-	{
 		"img": "http://www.weday.com/files/2013/09/WAS-356x267.jpg",
 		"title": {
 			text: "We are Silent",
 			link: "#wearesilent"
 		},
 		"info": "April 10"
+	},
+	{
+		"img": "https://lh6.googleusercontent.com/ipNdayPiUxZC4UYjpCgZ7tUAU7t0zD-SfX0rYGjhOEta9z3LtZXo5BTILhERMe4kkoVGd0qtcUvEHQnGxtEPFPTqHBTkaeJtyDjkivIyLvFIG7dqdxpwIxzbbQXqywBtjA",
+		"title": "Blast from the Past Dance",
+		"info": "April 25"
 	}
 ]
 
