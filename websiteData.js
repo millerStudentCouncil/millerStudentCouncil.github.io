@@ -41,4 +41,4 @@ var upcomingEvents = [
 	}
 ]
 
-var spiritDay = "Random Spirit Day"
+var spiritDay = ""
