@@ -9,18 +9,12 @@ var announcements = [
 		]
 	},
 	{
-		"title": "Third Quarter Results!",
-		"eventInfo": [
-			"Coming Soon!"
-		]
-	},
-	{
 		"title": {
 			"link": "#homeroomResults",
-			"text": "Second Quarter Homeroom Results!"
+			"text": "Third Quarter Homeroom Competition Results!"
 		},
 		"eventInfo": [
-			"<iframe width=\"100%\" src=\"https://docs.google.com/a/shadaj.me/spreadsheet/pub?key=0AmgNkG8GIejRdFJEcVZTeEdmSF96R0pQTlJ0VnlmM0E&output=html\"></iframe>"
+			"<iframe width=\"100%\" src=\"https://docs.google.com/spreadsheet/pub?key=0AkgD6_B2NIHwdHRMUkxJTmN3R1FtOWE2NE8ySVBoZHc&output=html\"></iframe>"
 		]
 	}
 ]
