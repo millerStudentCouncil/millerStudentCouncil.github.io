@@ -1,6 +1,13 @@
 var announcements = [
 	{
 		"title": {
+			"link": "#weCreateChange",
+			"text": "We Create Change!"
+		},
+		"eventInfo": []
+	},
+	{
+		"title": {
 			text: "We are Silent",
 			link: "#wearesilent"
 		},
@@ -20,13 +27,6 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{
-		"title": {
-			"link": "#weCreateChange",
-			"text": "We Create Change!"
-		},
-		"eventInfo": []
-	},
 	{
 		"img": "http://www.weday.com/files/2013/09/WAS-356x267.jpg",
 		"title": {
