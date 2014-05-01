@@ -28,17 +28,12 @@ var announcements = [
 
 var upcomingEvents = [
 	{
-		"img": "http://www.weday.com/files/2013/09/WAS-356x267.jpg",
+		"img": "http://www.weday.com/files/2013/09/WCC-356x267.jpg",
 		"title": {
-			text: "We are Silent",
-			link: "#wearesilent"
+			"link": "http://millersc.org/#weCreateChange",
+			"text": "We Create Change!"
 		},
-		"info": "April 10"
-	},
-	{
-		"img": "https://lh6.googleusercontent.com/ipNdayPiUxZC4UYjpCgZ7tUAU7t0zD-SfX0rYGjhOEta9z3LtZXo5BTILhERMe4kkoVGd0qtcUvEHQnGxtEPFPTqHBTkaeJtyDjkivIyLvFIG7dqdxpwIxzbbQXqywBtjA",
-		"title": "Blast from the Past Dance",
-		"info": "April 25"
+		"info": "Participate in changing the world from April 28th- May 15th! Also, get a chance to win either a yogurtland party, a jamba juice party, an icecream party, or an extended lunch! "
 	}
 ]
 
