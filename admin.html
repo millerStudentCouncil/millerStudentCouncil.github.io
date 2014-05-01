@@ -15,6 +15,12 @@
 					<a class="btn btn-primary btn-large" onclick="addEventInfo()" style="color:black">Add an event info</a>
 					<h3>Preview:</h3>
 					<div id="announcementPreview"></div>
+					<h3>Output:</h3>
+					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST">
+						<input style="display:none" name="entry.1981703212" value="announcement" class="form-control">
+						<textarea name="entry.1791914378" rows="10" id="announcement-output" class="form-control">Click the generate button to see something here!</textarea>
+						<button type="submit" class="btn btn-success btn-large">Submit</button>
+					</form>
 				</div>
 				<div class="col-lg-6">
 					<h3>Upcoming Events</h3>
@@ -32,10 +38,14 @@
 					<div class="carousel slide">
 	  					<div id="eventPreview" class="carousel-inner" style="text-align:center"></div>
 					</div>
+					<h3>Output:</h3>
+					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST">
+						<input style="display: none" name="entry.1981703212" value="event" class="form-control">
+						<textarea name="entry.1791914378" rows="10" id="event-output" class="form-control">Click the generate button to see something here!</textarea>
+						<button type="submit" class="btn btn-success btn-large">Submit</button>
+					</form>
 				</div>
 			</div>
-			<h3>Output:</h3>
-			<textarea rows="10" id="output" class="form-control">Click the generate button to see something here!</textarea>
 		</div>
 	</body>
 </html>

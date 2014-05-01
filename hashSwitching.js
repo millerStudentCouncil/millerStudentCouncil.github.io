@@ -46,7 +46,7 @@ function generateAnnouncement() {
 
 	announcement.eventInfo = infosArray
 
-	var output = document.getElementById('output')
+	var output = document.getElementById('announcement-output')
 	output.value = JSON.stringify(announcement, null, '\t')
 
 	var announcementDOM = createAnnouncement(announcement)
@@ -75,7 +75,7 @@ function generateEvent() {
 
 	event.info = eventInfo
 
-	var output = document.getElementById('output')
+	var output = document.getElementById('event-output')
 	output.value = JSON.stringify(event, null, '\t')
 
 	var eventDOM = createUpcomingEvent(event)
