@@ -5,7 +5,7 @@ var spiritAdded = false
 function addEventInfo() {
 	var infoDiv = document.createElement('div')
 	infoDiv.className = "info"
-	infoDiv.innerHTML = '<h3>Event Info:</h3>Title: <input type="text" class="form-control"><br/>Text: <input type="text" class="form-control"><br/>'
+	infoDiv.innerHTML = '<h3>Event Info:</h3>Title: <input type="text" class="form-control" oninput="generateAnnouncement()"><br/>Text: <input type="text" class="form-control"  oninput="generateAnnouncement()"><br/>'
 	document.getElementById('eventInfos').appendChild(infoDiv)
 }
 
@@ -47,7 +47,7 @@ function generateAnnouncement() {
 	announcement.eventInfo = infosArray
 
 	var output = document.getElementById('announcement-output')
-	output.value = JSON.stringify(announcement, null, '\t')
+	output.value = JSON.stringify(announcement)
 
 	var announcementDOM = createAnnouncement(announcement)
 	var preview = document.getElementById('announcementPreview')
@@ -76,7 +76,7 @@ function generateEvent() {
 	event.info = eventInfo
 
 	var output = document.getElementById('event-output')
-	output.value = JSON.stringify(event, null, '\t')
+	output.value = JSON.stringify(event)
 
 	var eventDOM = createUpcomingEvent(event)
 	eventDOM.className = 'item active'

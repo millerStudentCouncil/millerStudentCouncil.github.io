@@ -6,42 +6,37 @@
 				<div class="col-lg-6">
 					<h2>Announcements</h2>
 					<h3>Main:</h3>
-					Title Text: <input type="text" id="announcementTitleText" class="form-control">
+					Title Text: <input type="text" id="announcementTitleText" class="form-control" oninput="generateAnnouncement()">
 					<br/>
-					Title Link: <input type="text" id="announcementTitleLink" class="form-control">
+					Title Link: <input type="text" id="announcementTitleLink" class="form-control" oninput="generateAnnouncement()">
 					<br/>
 					<div id="eventInfos"></div>
-					<a class="btn btn-success btn-large" onclick="generateAnnouncement()">Generate</a>
 					<a class="btn btn-primary btn-large" onclick="addEventInfo()" style="color:black">Add an event info</a>
 					<h3>Preview:</h3>
 					<div id="announcementPreview"></div>
-					<h3>Output:</h3>
 					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST" target="_new">
 						<input style="display:none" name="entry.1981703212" value="announcement" class="form-control">
-						<textarea name="entry.1791914378" rows="10" id="announcement-output" class="form-control">Click the generate button to see something here!</textarea>
+						<input style="display: none" name="entry.1791914378" id="announcement-output" class="form-control">
 						<button type="submit" class="btn btn-success btn-large">Submit</button>
 					</form>
 				</div>
 				<div class="col-lg-6">
 					<h3>Upcoming Events</h3>
-					Image: <input type="text" id="eventImage" class="form-control" placeholder="The Link">
+					Image: <input type="text" id="eventImage" class="form-control" placeholder="The Link" oninput="generateEvent()">
 					<br/>
-					Title Text: <input type="text" id="eventTitleText" class="form-control">
+					Title Text: <input type="text" id="eventTitleText" class="form-control" oninput="generateEvent()">
 					<br/>
-					Title Link: <input type="text" id="eventTitleLink" class="form-control">
+					Title Link: <input type="text" id="eventTitleLink" class="form-control" oninput="generateEvent()">
 					<br/>
-					Other Info: <input type="text" id="eventInfo" class="form-control">
+					Other Info: <input type="text" id="eventInfo" class="form-control" oninput="generateEvent()">
 					<br/>
-					<div id="eventInfos"></div>
-					<a class="btn btn-success btn-large" onclick="generateEvent()">Generate</a>
 					<h3>Preview:</h3>
 					<div class="carousel slide">
 	  					<div id="eventPreview" class="carousel-inner" style="text-align:center"></div>
 					</div>
-					<h3>Output:</h3>
 					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST" target="_new">
 						<input style="display: none" name="entry.1981703212" value="event" class="form-control">
-						<textarea name="entry.1791914378" rows="10" id="event-output" class="form-control">Click the generate button to see something here!</textarea>
+						<input style="display: none" name="entry.1791914378" id="event-output" class="form-control">
 						<button type="submit" class="btn btn-success btn-large">Submit</button>
 					</form>
 				</div>
