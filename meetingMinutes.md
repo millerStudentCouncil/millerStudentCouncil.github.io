@@ -16,3 +16,4 @@
  - [March 12 Full Meeting](./meetingMinutes/3.12FullMeetingMinutes.pdf)
  - [April 2 Full Meeting](./meetingMinutes/4.2FullMeetingMinutes.pdf)
  - [April 23 Full Meeting](./meetingMinutes/4.23FullMeetingMinutes.pdf)
+ - [May 7 Full Meeting](./meetingMinutes/5.7FullMeetingMinutes.pdf)
