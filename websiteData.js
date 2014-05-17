@@ -37,4 +37,4 @@ var upcomingEvents = [
 	}
 ]
 
-var spiritDay = "asadkljfniawekldviwleknvdifkld ioakfnewdksjnfaioelf ewaoif aewifowaeio wafi waiowehafioa ifh sfaiosewiai feaif hfaso iewa eiwfasfa esiewjianfansfijewa faeifjewafjawfjia a a alalf aiohfiwea"
+var spiritDay = ""
