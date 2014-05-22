@@ -4,37 +4,49 @@
 			<h1>Admin Page: Generate JSON Data</h1>
 			<div class="row">
 				<div class="col-lg-6">
-					<h2>Announcements</h2>
-					<h3>Main:</h3>
-					Title Text: <input type="text" id="announcementTitleText" class="form-control" oninput="generateAnnouncement()">
-					<br/>
-					Title Link: <input type="text" id="announcementTitleLink" class="form-control" oninput="generateAnnouncement()">
-					<br/>
-					<div id="eventInfos"></div>
-					<a class="btn btn-primary btn-large" onclick="addEventInfo()" style="color:black">Add an event info</a>
-					<h3>Preview:</h3>
-					<div id="announcementPreview"></div>
 					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST" target="_new">
+						<h2>Announcements</h2>
+						<h3>Main:</h3>
+						<div class="form-group">
+							<label class="control-label">Title Text:</label>
+							<input required type="text" id="announcementTitleText" class="form-control" oninput="generateAnnouncement()">
+						</div>
+						<div class="form-group">
+							<label class="control-label">Title Link:</label>
+							<input type="text" id="announcementTitleLink" class="form-control" oninput="generateAnnouncement()">
+						</div>
+						<div id="eventInfos"></div>
+						<a class="btn btn-primary btn-large" onclick="addEventInfo()" style="color:black">Add an event info</a>
+						<h3>Preview:</h3>
+						<div id="announcementPreview"></div>
 						<input style="display:none" name="entry.1981703212" value="announcement" class="form-control">
 						<input style="display: none" name="entry.1791914378" id="announcement-output" class="form-control">
 						<button type="submit" class="btn btn-success btn-large">Submit</button>
 					</form>
 				</div>
 				<div class="col-lg-6">
-					<h3>Upcoming Events</h3>
-					Image: <input type="text" id="eventImage" class="form-control" placeholder="The Link" oninput="generateEvent()">
-					<br/>
-					Title Text: <input type="text" id="eventTitleText" class="form-control" oninput="generateEvent()">
-					<br/>
-					Title Link: <input type="text" id="eventTitleLink" class="form-control" oninput="generateEvent()">
-					<br/>
-					Other Info: <input type="text" id="eventInfo" class="form-control" oninput="generateEvent()">
-					<br/>
-					<h3>Preview:</h3>
-					<div class="carousel slide">
-	  					<div id="eventPreview" class="carousel-inner" style="text-align:center"></div>
-					</div>
 					<form action="https://docs.google.com/a/shadaj.me/forms/d/1cSwaon8VSXe4oZyOvtJXDI3SA9U17Wksxh4p0vektg0/formResponse" method="POST" target="_new">
+						<h3>Upcoming Events</h3>
+						<div class="form-group">
+							<label class="control-label">Image:</label>
+							<input required type="text" id="eventImage" class="form-control" placeholder="The Link" oninput="generateEvent()">
+						</div>
+						<div class="form-group">
+							<label class="control-label">Title Text:</label>
+							<input required type="text" id="eventTitleText" class="form-control" oninput="generateEvent()">
+						</div>
+						<div class="form-group">
+							<label class="control-label">Title Link:</label>
+							<input type="text" id="eventTitleLink" class="form-control" oninput="generateEvent()">
+						</div>
+						<div class="form-group">
+							<label class="control-label">Other Info:</label>
+							<input type="text" id="eventInfo" class="form-control" oninput="generateEvent()">
+						</div>
+						<h3>Preview:</h3>
+						<div class="carousel slide">
+		  					<div id="eventPreview" class="carousel-inner" style="text-align:center"></div>
+						</div>
 						<input style="display: none" name="entry.1981703212" value="event" class="form-control">
 						<input style="display: none" name="entry.1791914378" id="event-output" class="form-control">
 						<button type="submit" class="btn btn-success btn-large">Submit</button>

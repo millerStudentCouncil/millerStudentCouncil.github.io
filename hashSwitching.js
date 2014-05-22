@@ -2,10 +2,26 @@ var defaultFragment = "main"
 var homeroomRep = false
 var spiritAdded = false
 
+function startsWith(string, pattern) {
+	return string.indexOf(pattern) == 0
+}
+
+function cleanLink(link) {
+	if (!startsWith(link, "http://") && !startsWith(link, "https://") && !startsWith(link, "#")) {
+		link = "http://" + link
+	}
+
+	if (startsWith(link, "http://millersc.org/")) {
+		link = link.substring(20)
+	}
+
+	return link
+}
+
 function addEventInfo() {
 	var infoDiv = document.createElement('div')
 	infoDiv.className = "info"
-	infoDiv.innerHTML = '<h3>Event Info:</h3>Title: <input type="text" class="form-control" oninput="generateAnnouncement()"><br/>Text: <input type="text" class="form-control"  oninput="generateAnnouncement()"><br/>'
+	infoDiv.innerHTML = '<h3>Event Info:</h3><div class="form-group"><label class="control-label">Title:</label><input type="text" class="form-control" oninput="generateAnnouncement()"></div><div class="form-group"><label class="control-label">Text:</label><input type="text" class="form-control" oninput="generateAnnouncement()"></div>'
 	document.getElementById('eventInfos').appendChild(infoDiv)
 }
 
@@ -92,7 +108,7 @@ function createUpcomingEvent(data) {
 	var img = document.createElement('img')
 	img.style.height = '300px'
 	img.style.display = 'inline-block'
-	img.setAttribute('src', data.img)
+	img.setAttribute('src', cleanLink(data.img))
 	event.appendChild(img)
 
 	var caption = document.createElement('div')
@@ -146,6 +162,8 @@ function createTitle(data) {
 		title.innerHTML = data
 	} else if ((typeof data) === 'object') {
 		if ((typeof data.link) === 'string') {
+			data.link = cleanLink(data.link)
+
 			var link = document.createElement('a')
 			link.setAttribute('href', data.link)
 			link.innerHTML = data.text
@@ -161,6 +179,8 @@ function processHTML(data, hash) {
 
 	$("#main-menu").removeClass("in")
 	$("#main-menu").addClass("collapse")
+
+	$("form").validator()
 
 	if (hash == "main") {
 		$("#upcoming-events").carousel({
@@ -203,6 +223,7 @@ function processHTML(data, hash) {
 		} else {
 			$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
 				beautifyForm()
+				$("form").validator()
 			})
 		}
 	}
@@ -217,7 +238,7 @@ function makeHrVisible() {
 }
 
 function replaceFragment(hash) {
-	if (hash instanceof String && hash.startsWith("#")) {
+	if (hash instanceof String && startsWith(hash, "#")) {
 		hash = hash.substring(1)
 	}
 	if (!hash) {
