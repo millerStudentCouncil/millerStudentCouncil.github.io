@@ -23,6 +23,7 @@ function beautifyForm () {
 	$(".ss-form-question").addClass("form-group")
 	$(".ss-q-title").addClass("control-label")
 	$(".ss-q-title").css("font-size","150%")
+	$(".ss-logo-container").css("content", "url(//ssl.gstatic.com/docs/forms/forms_logo_small_dark.png)")
 	$(".ss-q-radio").each(function (index) {
 		 if ($(this).parents().hasClass("ss-item-required")) {
 		   $(this).prop("required", true)
