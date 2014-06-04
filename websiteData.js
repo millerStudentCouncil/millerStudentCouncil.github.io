@@ -19,7 +19,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://rpm-therapy.com/wp-content/uploads/2012/06/donate-blood-to-save-life-300x177.jpg","title":{"link":"http://redcrossblood.org","text":"Miller Blood Drive"},"info":"May 30th from 11AM to 4 PM, make an appointment at redcrossblood.org with the code JMMS."}
+	{"img":"http://www.clipartbest.com/cliparts/jix/pRk/jixpRkdiE.png","title":"No Upcoming Events","info":"Have a Great Summer!"}
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
