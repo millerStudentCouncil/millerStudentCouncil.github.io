@@ -20,8 +20,5 @@ var announcements = [
 var upcomingEvents = [
 	{"img":"http://www.americasfinestsummercamps.com/blog/wp-contents/uploads/2014/04/summer.jpg","title":"No Upcoming Events","info":"Have a Great Summer!hags"}
 ]
-[
-	{"img":"http://misswhiteheadblog.primaryblogger.co.uk/files/2013/09/back-to-school.jpg","title":"Welcome Back","info":"Food"}
-	]
 
 var spiritDay = "" //Leave empty when there is no spirit day
