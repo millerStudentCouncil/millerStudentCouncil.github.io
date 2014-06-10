@@ -18,7 +18,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://www.americasfinestsummercamps.com/blog/wp-contents/uploads/2014/04/summer.jpg","title":"No Upcoming Events","info":"Have a Great Summer!"}
+	{"img":"http://www.americasfinestsummercamps.com/blog/wp-contents/uploads/2014/04/summer.jpg","title":"No Upcoming Events","info":"Have a Great Summer!hags"}
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
