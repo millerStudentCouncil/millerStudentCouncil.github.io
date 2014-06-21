@@ -22,4 +22,4 @@ var upcomingEvents = [
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
-      <iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/23879644/?autostart=false" frameborder="0" allowfullscreen></iframe>
+  
