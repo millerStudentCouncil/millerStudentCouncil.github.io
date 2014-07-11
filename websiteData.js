@@ -12,6 +12,7 @@ var announcements = [
 			"text": "Homeroom competion results!"
 		},
 		"eventInfo": []
+	},
 	{
 		"title": {
 			"text": "Welcome back to school!"
