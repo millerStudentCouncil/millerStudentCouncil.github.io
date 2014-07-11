@@ -15,6 +15,7 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": ,
 			"text": "Welcome back to school!"
 		},
 		"eventInfo": []
