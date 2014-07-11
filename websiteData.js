@@ -9,9 +9,15 @@ var announcements = [
 	{
 		"title": {
 			"link": "#homeroomResults",
-			"text": "Welcome back to school!"
+			"text": "Homeroom competion results!"
 		},
 		"eventInfo": []
+	{
+		"title": {
+			"text": "Welcome back to school!"
+		}
+	}
+	
 	}
 ]
 
