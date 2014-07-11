@@ -17,9 +17,11 @@ var announcements = [
 		"title": {
 			"text": "Welcome back to school!"
 		},
-	}
+		"eventInfo": []
+	},
 	
-	}
+	
+
 ]
 
 var upcomingEvents = [
