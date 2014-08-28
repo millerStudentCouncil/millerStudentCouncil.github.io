@@ -26,7 +26,8 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://www.floridadj.org/images/schooldance.jpg","title":"First Dance!","info":"Welcome back to school dance"}
+	{"img":"http://www.gilmerfreepress.net/images/upload1/BacktoSchoolBashChurch.jpg","title":"Back to school bash!","info":"Rock wall! Bouncy Castle! food!"}
+	{"img":"http://videos.videopress.com/smZD9BmE/movie-night_dvd.original.jpg","title":"Outdoor Movie night","info":"Sept13 6;45"}
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
