@@ -6,15 +6,21 @@ Admission is FREE
 ##Food!
 
 *Dinner!
+
 *PMT,cookies,soda,candy,and Ice Cream Bars!
 
 Plenty of cool stuff to do!
 
 *Carnival Games
+
 *Cupcake Walk
+
 *Bounce Houses
+
 *Obstacle course
+
 *Jousting match!
+
 *Rock Climbing wall!
 
 Video game fest in the MP room!
