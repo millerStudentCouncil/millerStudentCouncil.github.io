@@ -8,6 +8,6 @@ The movie will be starting at 7 and ending at 9
 Bring pillows and a blanket, might be chilly
 Great food and drinks will be sold, like PMT, popcorn,CUP NOODLES,and churros!
  
- <h4 style="color:"yellow">Everyone is welcome</h4>
+ <h4 style="color:"yellow">Everyone is welcome!</h4>
 
 
