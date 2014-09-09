@@ -24,7 +24,8 @@ Plenty of cool stuff to do!
 *Rock Climbing wall!
 
 Video game fest in the MP room!
-MP is going to be filled with Consoles, and you can play for FREE.
+
+MP room is going to be filled with Consoles, and you can play for FREE.
 
 ##Everyone is Welcome!!!
 Every non-Miller person you bring, you get 1 HOMEROOM POINT!
