@@ -8,8 +8,8 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#homeroomResults",
-			"text": "Homeroom competion results!"
+			"link": "#BTSB",
+			"text": "Back to School Bash!"
 		},
 		"eventInfo": []
 	},
