@@ -5,23 +5,23 @@ Admission is FREE
 
 ##Food!
 
-*Dinner!
+* Dinner!
 
-*PMT,cookies,soda,candy,and Ice Cream Bars!
+* PMT,cookies,soda,candy,and Ice Cream Bars!
 
 Plenty of cool stuff to do!
 
-*Carnival Games
+* Carnival Games
 
-*Cupcake Walk
+* Cupcake Walk
 
-*Bounce Houses
+* Bounce Houses
 
-*Obstacle course
+* Obstacle course
 
-*Jousting match!
+* Jousting match!
 
-*Rock Climbing wall!
+* Rock Climbing wall!
 
 Video game fest in the MP room!
 
