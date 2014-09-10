@@ -1,11 +1,15 @@
 var submitted = false
 
 function beautifyForm () {
+	$("form").prop("target", "hidden_iframe")
+	$("form").submit(function () {
+		showSubmitting()
+	})
 	$('#ss-submit').addClass("btn btn-success btn-lg")
 	$(".ss-choices").css("list-style", "none")
 	$(".required-message").each(function (index) {
 		if ($(this).parents().hasClass("ss-item-required")) {
-			$(this).css("color", "red")
+			$(this).addClass('help-block')
 		} else {
 			$(this).css("display", "none")
 		}
@@ -17,8 +21,9 @@ function beautifyForm () {
 	$(".ss-q-long").addClass("form-control")
 	$(".ss-q-other").addClass("form-control")
 	$(".ss-form-question").addClass("form-group")
+	$(".ss-q-title").addClass("control-label")
 	$(".ss-q-title").css("font-size","150%")
-	$(".ss-q-title").css("color","white")
+	$(".ss-logo-container").css("content", "url(//ssl.gstatic.com/docs/forms/forms_logo_small_dark.png)")
 	$(".ss-q-radio").each(function (index) {
 		 if ($(this).parents().hasClass("ss-item-required")) {
 		   $(this).prop("required", true)
