@@ -15,8 +15,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://www.gilmerfreepress.net/images/upload1/BacktoSchoolBashChurch.jpg","title":"Back to school bash!","info":"Rock wall! Bouncy Castle! food!"},
-	{"img":"http://videos.videopress.com/smZD9BmE/movie-night_dvd.original.jpg","title":"Outdoor Movie night","info":"September 13 7:15"}
+	{"img":"http://www.gilmerfreepress.net/images/upload1/BacktoSchoolBashChurch.jpg","title":"Back to school bash!","info":"September 18 EVERYONE IS WELCOME!"}
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
