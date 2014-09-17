@@ -21,7 +21,13 @@ var announcements = [
 		},
 		"eventInfo": [9/25]
 	},
-
+	{
+		"title": {
+			"link": "http://tinyurl.com/omn1survey",
+			"text": "Outdoor Movie Night Survey"
+		},
+		"eventInfo": [9/25]
+	},
 	
 	
 	
