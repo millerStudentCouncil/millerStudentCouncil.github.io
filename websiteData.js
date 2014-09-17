@@ -7,6 +7,13 @@ var announcements = [
 		},
 		"eventInfo": []
 	},
+		{
+		"title": {
+			"link": "#TMFLR",
+			"text": "Three man Four legged race"
+		},
+		"eventInfo": []
+	},
 
 	
 	
