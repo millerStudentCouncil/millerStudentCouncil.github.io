@@ -12,7 +12,14 @@ var announcements = [
 			"link": "#TMFLR",
 			"text": "Three man Four legged race"
 		},
-		"eventInfo": []
+		"eventInfo": [9/19]
+	},
+		{
+		"title": {
+			"link": "#spiritDay",
+			"text": "Fandom Day!"
+		},
+		"eventInfo": [9/25]
 	},
 
 	
