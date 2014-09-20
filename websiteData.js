@@ -6,14 +6,14 @@ var announcements = [
 			"link": "https://docs.google.com/forms/d/1m3OAeXNAxqPVjNZHUDy9JvVPEuzHSAMdtksRis8xWRs/viewform",
 			"text": "Outdoor Movie night 2 voting!"
 		},
-		"eventInfo": [Vote for the movie you want!]
+		"eventInfo": []
 	},
 		{
 		"title": {
 			"link": "#spiritDay",
 			"text": "Fandom Day!"
 		},
-		"eventInfo": [9/25]
+		"eventInfo": []
 	},
 	{
 		"title": {
