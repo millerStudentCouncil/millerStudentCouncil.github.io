@@ -1,18 +1,12 @@
 var announcements = [
 
-	{
-		"title": {
-			"link": "#BTSB",
-			"text": "Back to School Bash!"
-		},
-		"eventInfo": []
-	},
+
 		{
 		"title": {
-			"link": "#TMFLR",
-			"text": "Three man Four legged race"
+			"link": "https://docs.google.com/forms/d/1m3OAeXNAxqPVjNZHUDy9JvVPEuzHSAMdtksRis8xWRs/viewform",
+			"text": "Outdoor Movie night 2 voting!"
 		},
-		"eventInfo": [9/19]
+		"eventInfo": [Vote for the movie you want!]
 	},
 		{
 		"title": {
@@ -26,7 +20,7 @@ var announcements = [
 			"link": "http://tinyurl.com/omn1survey",
 			"text": "Outdoor Movie Night Survey"
 		},
-		"eventInfo": [9/25]
+		"eventInfo": []
 	},
 	
 	
@@ -35,7 +29,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://www.gilmerfreepress.net/images/upload1/BacktoSchoolBashChurch.jpg","title":"Back to school bash!","info":"September 18 EVERYONE IS WELCOME!"}
+	{"img":"http://images.sodahead.com/polls/002390585/3834213572_popcorn_xlarge.jpeg","title":"The Second Outdoor movie night is coming up!","info":"Vote for your favorite movie!"}
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
