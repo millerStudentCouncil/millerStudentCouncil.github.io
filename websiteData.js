@@ -5,6 +5,13 @@ var announcements = [
 			"text": "Fandom Day!"
 		},
 		"eventInfo": []
+		
+		{
+		"title": {
+			"link": "#OMN",
+			"text": "Outdoor Movie Night 2!"
+		},
+		"eventInfo": []
 
 ]
 
