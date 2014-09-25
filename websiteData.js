@@ -1,14 +1,10 @@
 var announcements = [
-
-		{
+	{
 		"title": {
 			"link": "#spiritDay",
 			"text": "Fandom Day!"
 		},
 		"eventInfo": []
-
-	
-	
 
 ]
 
