@@ -1,9 +1,9 @@
 # Outdoor movie night!
 
-##Rio 2
-##The first Outdoor Movie Night is coming up!  
+##Lego Movie
+##The second Outdoor Movie Night is coming up!  
 
-On Saturday September 13,come to the miller field at 7:15 For a FREE Movie!
+On Friday October 3,come to the miller field at 7:15 For a FREE Movie!
 
 The movie will be starting at 7:30 and ending at 9:30
 
