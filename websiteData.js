@@ -11,7 +11,7 @@ var announcements = [
 		"title": {
 			"link": "",
 			"text": "Dance coming up!"
-		},
+		}
 		"eventInfo": []
 
 
