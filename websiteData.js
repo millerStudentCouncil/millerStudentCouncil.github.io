@@ -1,28 +1,12 @@
 var announcements = [
 
-
-		{
-		"title": {
-			"link": "https://docs.google.com/forms/d/1m3OAeXNAxqPVjNZHUDy9JvVPEuzHSAMdtksRis8xWRs/viewform",
-			"text": "Outdoor Movie night 2 voting!"
-		},
-		"eventInfo": []
-	},
 		{
 		"title": {
 			"link": "#spiritDay",
 			"text": "Fandom Day!"
 		},
 		"eventInfo": []
-	},
-	{
-		"title": {
-			"link": "http://tinyurl.com/omn1survey",
-			"text": "Outdoor Movie Night Survey"
-		},
-		"eventInfo": []
-	},
-	
+
 	
 	
 
