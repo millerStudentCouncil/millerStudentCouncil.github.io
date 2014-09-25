@@ -2,16 +2,16 @@ var announcements = [
 	
 
 	{
-		"title": {
+		"title": //{
 			"link": "#OMN",
 			"text": "Outdoor Movie Night 2!"
-		},
+		//},
 		"eventInfo": []
 	{
-		"title": {
+		"title": //{
 			"link": "",
 			"text": "Dance coming up!"
-		}
+		//}
 		"eventInfo": []
 
 
