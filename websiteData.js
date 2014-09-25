@@ -1,4 +1,6 @@
 var announcements = [
+	
+	
 	{
 		"title": {
 			"link": "#spiritDay",
