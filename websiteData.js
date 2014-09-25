@@ -7,6 +7,7 @@ var announcements = [
 			"text": "Outdoor Movie Night 2!"
 		},
 		"eventInfo": []
+	}
 
 
 ]
