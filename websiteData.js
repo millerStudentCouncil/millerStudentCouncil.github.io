@@ -4,7 +4,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "#OMN",
-			"text": "Outdoor Movie Night 2!",
+			"text": "Outdoor Movie Night 2!"
 		},
 		"eventInfo": []
 
