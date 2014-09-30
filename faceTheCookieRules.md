@@ -5,7 +5,7 @@
 ##Who: One representative from each homeroom
 
 
-<h4 style="color:yellow">Objective: Get the oreo from your forehead to your mouth by using only your facial muscles.</h4>
+<h2 style="color:yellow">Objective: Get the oreo from your forehead to your mouth by using only your facial muscles.</h2>
 
 ##Rules:
 ###-You may not use your hands.
