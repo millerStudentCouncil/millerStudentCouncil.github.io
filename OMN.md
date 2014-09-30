@@ -1,17 +1,11 @@
 # Outdoor movie night!
 
-##Lego Movie
-##The second Outdoor Movie Night is coming up!  
+##Movie: Lego Movie
+#When: Friday, October 3rd (7:30-9:30) 
+#Where: Miller Field
+#Who: Everyone
+#Price: Free!
 
-On Friday October 3,come to the miller field at 7:15 For a FREE Movie!
+Arrive at 7:15 to reserve your sport on the field.
 
-The movie will be starting at 7:30 and ending at 9:30
-
-Bring pillows and a blanket, might be chilly. 
-###Bring your own chair!###
-
-Great food and drinks will be sold, like PMT, popcorn,CUP NOODLES,and churros!
- 
- <h4 style="color:"yellow">Everyone is welcome!</h4>
-
-
+Bring blankets and a chair! Great food and drinks will be sold: Pearl Milk Tea, popcorn, cup noodles, and churros!
