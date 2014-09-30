@@ -4,7 +4,9 @@
 ##Where: Miller Quad
 ##Who: One representative from each homeroom
 
+
 ##Objective: Get the oreo from your forehead to the inside of your mouth.
+
 ##Rules:
 ###-You may not use your hands.
 ###-Only one representative from each homeroom.
