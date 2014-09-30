@@ -1,4 +1,4 @@
-#Face The Cookie 
+<h1 style="color:cyan">Face the Cookie</h4>
 
 ##When: October 3rd, at lunch
 ##Where: Miller Quad
