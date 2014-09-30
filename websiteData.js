@@ -7,7 +7,9 @@ var announcements = [
 			"text": "Outdoor Movie Night"
 		},
 		"eventInfo": []
+	}
 	
+	{
 	
 		"title": {
 			"link": "#FaceTheCookieRules",
