@@ -9,6 +9,7 @@ var announcements = [
 		"eventInfo": []
 	}
 	
+	
 	{
 	
 		"title": {
