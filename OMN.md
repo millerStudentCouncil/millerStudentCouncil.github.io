@@ -1,4 +1,4 @@
-# Outdoor movie night!
+# Outdoor Movie Night!
 
 ##Movie: Lego Movie
 ##When: Friday, October 3rd (7:30-9:30) 
