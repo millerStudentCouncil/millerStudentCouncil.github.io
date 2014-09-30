@@ -1,4 +1,8 @@
-#FaceTheCookieRules
+#Face The Cookie 
+
+##When: October 3rd, at lunch
+##Where: Miller Quad
+##Who: One representative from each homeroom
 
 ##Objective: Get the oreo from your forehead to the inside of your mouth.
 ##Rules:
