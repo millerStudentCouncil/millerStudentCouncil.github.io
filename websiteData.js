@@ -11,7 +11,7 @@ var announcements = [
 	{
 	
 		"title": {
-			"link": "#faceTheCookieRules",
+			"link": "#faceTheCookieRules.md",
 			"text": "Face the Cookie"
 		},
 		"eventInfo": []
