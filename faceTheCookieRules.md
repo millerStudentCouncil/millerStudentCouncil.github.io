@@ -1,6 +1,6 @@
 <h1 style="color:cyan">Face the Cookie</h4>
 
-##When: October 3rd, at lunch
+##When: October 17th, at lunch
 ##Where: Miller Quad
 ##Who: One representative from each homeroom
 
