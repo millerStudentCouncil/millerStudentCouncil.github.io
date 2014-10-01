@@ -1,6 +1,6 @@
 <h1 style="color:cyan">80's and 90's Spirit Day</h4>
 
-##When: October 10th
+##When: October 17th
 
 ##Rules:
 ###-Either two articles of clothing or two accessories 
