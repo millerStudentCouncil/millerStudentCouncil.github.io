@@ -9,6 +9,12 @@ var announcements = [
 		"eventInfo": []
 	},
 	{
+		"title": {
+			"link": "#millerSpiritDay"
+			"text": "Miller Spirit Day"
+		},
+	},
+	{
 	
 		"title": {
 			"link": "#faceTheCookieRules",
