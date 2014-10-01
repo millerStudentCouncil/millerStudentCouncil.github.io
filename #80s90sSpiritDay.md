@@ -4,8 +4,8 @@
 
 ##Rules:
 ###-Either two articles of clothing or two accessories 
-  ####Examples of acceptable clothing: leather/jean jackets, overalls, camo pants, tie-dye, tutus, neon clothing, ripped jeans
-  ####Examples of acceptable accessories: side ponytails, fingerless gloves, hoop earrings, leg warmers, hair bows, bandanas, slap bracelets, high tops/basketball shoes, mood rings, high socks
+####-Examples of acceptable clothing: leather/jean jackets, overalls, camo pants, tie-dye, tutus, neon clothing, ripped jeans
+####-Examples of acceptable accessories: side ponytails, fingerless gloves, hoop earrings, leg warmers, hair bows, bandanas, slap bracelets, high tops/basketball shoes, mood rings, high socks
 ###-Clothing must follow the dress code
 ###-Students must wear their outfit for the whole day
 
