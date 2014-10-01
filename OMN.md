@@ -7,6 +7,6 @@
 ##Price: Free!
 
 
-Arrive at 7:00 to reserve your spot in the Miller gym.
+Arrive at 7:00 to reserve your spot in the Miller gym. The movie will start once it is dark enough.
 
 Bring blankets, but no chairs! Great food and drinks will be sold: Pearl Milk Tea, popcorn, cup noodles, and churros!
