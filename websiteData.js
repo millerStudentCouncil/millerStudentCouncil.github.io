@@ -16,6 +16,13 @@ var announcements = [
 		"eventInfo": []
 	},
 	{
+		"title": {
+			"link": "#80s90sSpiritDay",
+			"text": "80's and 90's Spirit Day"
+		},
+		"eventInfo": []
+	},
+	{
 	
 		"title": {
 			"link": "#faceTheCookieRules",
