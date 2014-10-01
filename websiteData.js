@@ -10,9 +10,10 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#millerSpiritDay"
+			"link": "#millerSpiritDay",
 			"text": "Miller Spirit Day"
 		},
+		"eventInfo": []
 	},
 	{
 	
