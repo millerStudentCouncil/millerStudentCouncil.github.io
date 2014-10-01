@@ -9,3 +9,6 @@
 ###-Clothing must follow the dress code
 ###-Students must wear their outfit for the whole day
 
+<h3 style="color:yellow">More examples at tinyurl.com/80sand90sclothes</h3>
+
+
