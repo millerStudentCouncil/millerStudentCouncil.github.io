@@ -7,6 +7,14 @@
 
 <h2 style="color:yellow">Objective: Get the oreo from your forehead to your mouth by using only your facial muscles.</h2>
 
+{
+		"title": {
+			"link": "#http://www.youtube.com/watch?v=5RH6rMBgX9k",
+			"text": "Face the Cookie Example"
+		},
+		"eventInfo": []
+},
+
 ##Rules:
 ###-You may not use your hands.
 ###-Only one representative from each homeroom.
