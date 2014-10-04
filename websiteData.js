@@ -30,6 +30,13 @@ var announcements = [
 		},
 		"eventInfo": []
 	},
+	{
+		"title": {
+			"link": "#secondDance",
+			"text": "Second Dance"
+		},
+		"eventInfo": []
+	},
 
 
 ]
