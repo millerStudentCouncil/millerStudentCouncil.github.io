@@ -37,7 +37,7 @@ function formSubmit () {
 	if (submitted == true) {
 		var alertObject = document.getElementById("loadAlert")
 		alertObject.className = "alert alert-success alert-dismissable";
-		alertObject.innerHTML = "<button type=\"button\" class=\"close\" data-dismiss=\"alert\">×</button> Your spirit day results have been submitted"
+		alertObject.innerHTML = "<button type=\"button\" class=\"close\" data-dismiss=\"alert\">×</button> Your form results have been submitted"
 		submitted = false
 	}
 }
