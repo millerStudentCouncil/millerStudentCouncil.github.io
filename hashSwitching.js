@@ -226,6 +226,11 @@ function processHTML(data, hash) {
 				$("form").validator()
 			})
 		}
+	} else if ($.inArray(hash, formHashes) === 0) {
+		$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
+			beautifyForm()
+			$("form").validator()
+		})
 	}
 
 	window.scrollTo(0,0)
