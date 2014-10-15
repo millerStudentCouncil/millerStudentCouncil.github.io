@@ -15,6 +15,12 @@ var announcements = [
 		},
 		"eventInfo": []
 	},
+	{
+		"title": {
+			"link": "http://goo.gl/forms/xV1JZkpyJP"
+			"2nd Movie Night Survey"
+		},
+	},
 
 
 ]
