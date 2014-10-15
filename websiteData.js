@@ -17,7 +17,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "http://goo.gl/forms/xV1JZkpyJP"
+			"link": "http://goo.gl/forms/xV1JZkpyJP",
 			"2nd Movie Night Survey"
 		},
 	},
