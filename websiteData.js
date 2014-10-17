@@ -21,6 +21,27 @@ var announcements = [
 			"text": "2nd Movie Night Survey"
 		},
 	},
+	{
+		
+		"title": {
+			"link": "#warheadChallenge",
+			"text": "Warhead Sour Candy Challenge"
+		},
+	},
+	{
+		
+		"title": {
+			"link": "#weScareHunger",
+			"text": "We Scare Hunger"
+		},
+	},
+	{
+		
+		"title": {
+			"link": "#halloweenParade",
+			"text": "Halloween Parade"
+		},
+	},
 
 
 ]
