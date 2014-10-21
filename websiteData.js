@@ -3,20 +3,6 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "#80s90sSpiritDay",
-			"text": "80's and 90's Spirit Day"
-		},
-		"eventInfo": []
-	},
-	{
-		"title": {
-			"link": "#secondDance",
-			"text": "Fright Night Dance"
-		},
-		"eventInfo": []
-	},
-	{
-		"title": {
 			"link": "http://goo.gl/forms/xV1JZkpyJP",
 			"text": "2nd Movie Night Survey"
 		},
