@@ -44,3 +44,5 @@ var upcomingEvents = [
 var spiritDay = "" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
+
+var formHashes = ["eventForm"]
