@@ -3,7 +3,7 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "http://goo.gl/forms/xV1JZkpyJP",
+			"link": "#eventForm",
 			"text": "2nd Movie Night Survey"
 		},
 	},
