@@ -3,7 +3,7 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "firstQuarterHomeroomPoints",
+			"link": "#firstQuarterHomeroomPoints",
 			"text": "The First Quarter Homeroom Points are final!"
 		},
 	},
