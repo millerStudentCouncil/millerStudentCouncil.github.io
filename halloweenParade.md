@@ -5,12 +5,12 @@
 ##Who: Anyone at Miller
 
 ##Categories:
-##-Scary
-##-Funny
-##-Group (2 or more students)
-##-Cultural
-##-Teacher
-##-Homemade (not storebought!)
+###-Scary
+###-Funny
+###-Group (2 or more students)
+###-Cultural
+###-Teacher
+###-Homemade (not storebought!)
 
-#Winners do NOT receive homeroom points, but they will receive cool prizes!
+##Winners do NOT receive homeroom points, but they will receive cool prizes!
 
