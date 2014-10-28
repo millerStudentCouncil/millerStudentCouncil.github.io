@@ -3,6 +3,12 @@ var announcements = [
 
 	{
 		"title": {
+			"link": "firstQuarterHomeroomPoints",
+			"text": "The First Quarter Homeroom Points are final!"
+		},
+	},
+	{
+		"title": {
 			"link": "#eventForm",
 			"text": "2nd Movie Night Survey"
 		},
