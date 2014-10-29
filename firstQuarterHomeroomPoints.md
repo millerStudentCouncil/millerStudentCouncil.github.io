@@ -13,8 +13,8 @@
 ###10th Place- Emerson
 
 <h4 style="color:magenta">1st Place= $75</h4>
-<h4 style="color:cyan">3rd Place= $50</h4>
-<h4 style="color:green">2nd Place= $25</h4>
+<h4 style="color:cyan">2nd Place= $50</h4>
+<h4 style="color:green">3rd Place= $25</h4>
 
 
 <h4 style="color:orange">Great Job, Homerooms! Be sure to participate in upcoming lunchtime activities and spirit days to earn your way to the top!</h4>
