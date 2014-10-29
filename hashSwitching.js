@@ -226,7 +226,7 @@ function processHTML(data, hash) {
 				$("form").validator()
 			})
 		}
-	} else if ($.inArray(hash, formHashes) === 0) {
+	} else if ($.inArray(hash, formHashes) >= 0) {
 		$('#main').load("./" + hash + ".html .ss-form-container", function (response, status, xhr) {
 			beautifyForm()
 			$("form").validator()
@@ -249,7 +249,7 @@ function replaceFragment(hash) {
 	if (!hash) {
 		hash = defaultFragment
 	}
-	
+
 	if (hash == "hr") {
 		homeroomRep = true
 		var alertObject = document.createElement("div")
@@ -269,7 +269,7 @@ function replaceFragment(hash) {
 			replaceFragment(defaultFragment)
 		});
 	});
-	
+
 	makeHrVisible()
 }
 
