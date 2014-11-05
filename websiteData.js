@@ -8,23 +8,10 @@ var announcements = [
 		},
 	},
 	{
-		"title": {
-			"link": "#eventForm",
-			"text": "2nd Movie Night Survey"
-		},
-	},
-	{
 		
 		"title": {
 			"link": "#weScareHunger",
 			"text": "We Scare Hunger"
-		},
-	},
-	{
-		
-		"title": {
-			"link": "#halloweenParade",
-			"text": "Halloween Parade"
 		},
 	},
 
