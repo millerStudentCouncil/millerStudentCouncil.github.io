@@ -3,6 +3,12 @@ var announcements = [
 
 	{
 		"title": {
+			"link": "#usaDay",
+			"text": "USA Day is this Friday!"
+		},
+	},
+	{
+		"title": {
 			"link": "#firstQuarterHomeroomPoints",
 			"text": "The First Quarter Homeroom Points are final!"
 		},
