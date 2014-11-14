@@ -13,6 +13,12 @@ var announcements = [
 			"text": "Disney Day is next Friday!"
 		},
 	},
+		{
+		"title": {
+			"link": "http://tinyurl.com/omnthree",
+			"text": "Vote for what kind of movie you want at the next Movie Night!"
+		},
+	},
 	{
 		"title": {
 			"link": "#firstQuarterHomeroomPoints",
