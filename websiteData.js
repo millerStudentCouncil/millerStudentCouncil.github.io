@@ -24,11 +24,9 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://njmomsguide.com/hudson/wp-content/uploads/2014/05/stock-illustration-10474808-happy-patriotic-american-children-with-usa-flag-cartoon-image.jpg","title":"To honor our veterans, USA Day is this Friday!","info":"Wear 2 out of the 3 colors: red, white, and blue."},
-	{"img":"http://fc06.deviantart.net/fs16/i/2007/217/4/a/Movie_Night_by_jpox.jpg","title":"Did you go to the last Movie Night on October 3rd?","info":"If so, please help Leadership plan an even better Movie Night by filling out this short survey!"},
-	{"img":"http://www.weday.com/files/2012/08/WSH.jpg","title":"Help families in poverty by bringing donation non-perishable food items!","info":"Trick-or-Treat for canned goods instead of candy!"},
-	{"img":"http://morethanthecurve.com/wp-content/uploads/2013/10/Halloween-Parade-Cartoon-631x420.jpg","title":"Participate in the Halloween Parade or the Halloween Spirit Day on October 31st!","info":"Remember... No masks, weaponry, or anything that does not follow the dress code.  You may wear black and orange, too!"},
-
+	{"img":"http://img1.wikia.nocookie.net/__cb20140319013313/disney/images/c/c0/7951-disney-disney-characters.jpg","title":"Who loves Disney?","info":"Show your spirit next Friday by wearing a disney costume or 2 accessories related to Disney characters!"},
+	{"img":"http://i2.ytimg.com/vi/up5FfSpTWeo/mqdefault.jpg","title":"Rafikis from Free the Children will be sold at the Student Store soon!","info":"Each rafiki is $8, with $5 going toward empowering Masai Mamas in Africa!"},
+	{"img":"http://www.hdwallpapers-3d.com/wp-content/uploads/2014/09/cool-lights-hd-wallpaper-1.jpg","title":"The Light Up the Night Dance will be on December 12th!","info":"Prepare yourself for an amazing night with your friends that will be unforgettable!"},
 
 ]
 
