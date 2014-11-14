@@ -25,7 +25,7 @@ var announcements = [
 
 var upcomingEvents = [
 	{"img":"http://img1.wikia.nocookie.net/__cb20140319013313/disney/images/c/c0/7951-disney-disney-characters.jpg","title":"Who loves Disney?","info":"Show your spirit next Friday by wearing a disney costume or 2 accessories related to Disney characters!"},
-	{"img":"http://i2.ytimg.com/vi/up5FfSpTWeo/mqdefault.jpg","title":"Rafikis from Free the Children will be sold at the Student Store soon!","info":"Each rafiki is $8, with $5 going toward empowering Masai Mamas in Africa!"},
+	{"img":"http://www.freethechildren.com/wp-content/uploads/2014/09/rafikis_banner.jpg","title":"Rafikis from Free the Children will be sold at the Student Store soon!","info":"Each rafiki is $8, with $5 going toward empowering Maasai Mamas in Africa!"},
 	{"img":"http://www.hdwallpapers-3d.com/wp-content/uploads/2014/09/cool-lights-hd-wallpaper-1.jpg","title":"The Light Up the Night Dance will be on December 12th!","info":"Prepare yourself for an amazing night with your friends that will be unforgettable!"},
 
 ]
