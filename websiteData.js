@@ -3,21 +3,20 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "#usaDay",
-			"text": "USA Day is this Friday!"
+			"link": "#frozenTshirtChallenge",
+			"text": "The Frozen T-Shirt Challenge is this Friday!"
+		},
+	},
+	{
+		"title": {
+			"link": "#disneyDay",
+			"text": "Disney Day is next Friday!"
 		},
 	},
 	{
 		"title": {
 			"link": "#firstQuarterHomeroomPoints",
 			"text": "The First Quarter Homeroom Points are final!"
-		},
-	},
-	{
-		
-		"title": {
-			"link": "#weScareHunger",
-			"text": "We Scare Hunger"
 		},
 	},
 
