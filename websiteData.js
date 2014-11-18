@@ -7,6 +7,12 @@ var announcements = [
 			"text": "Disney Day is next Friday!"
 		},
 	},
+	{
+		"title": {
+			"link": "#songRequestForm",
+			"text": "Request Songs for the Light Up the Night Dance!"
+		},
+	},
 		{
 		"title": {
 			"link": "http://tinyurl.com/omnthree",
