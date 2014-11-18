@@ -9,7 +9,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#songRequestForm",
+			"link": "tinyurl.com/lutnsongs",
 			"text": "Request Songs for the Light Up the Night Dance!"
 		},
 	},
