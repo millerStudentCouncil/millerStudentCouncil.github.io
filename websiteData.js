@@ -4,7 +4,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "#disneyDay",
-			"text": "Disney Day is next Friday!"
+			"text": "Disney Day is this Friday!"
 		},
 	},
 	{
