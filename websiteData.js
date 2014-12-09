@@ -3,8 +3,8 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "#disneyDay",
-			"text": "Disney Day is this Friday!"
+			"link": "#lightUpTheNightDance",
+			"text": "The Light Up the Night Dance is this Friday!"
 		},
 	},
 	{
