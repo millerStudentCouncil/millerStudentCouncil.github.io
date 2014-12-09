@@ -3,7 +3,7 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "#lightUpTheNightDay",
+			"link": "#lightItUpDay",
 			"text": "To promote the Light Up the Night Dance, wear Neon on Friday!"
 		},
 	},
@@ -41,7 +41,7 @@ var upcomingEvents = [
 
 ]
 
-var spiritDay = "Disney" //Leave empty when there is no spirit day
+var spiritDay = "Light It Up Spirit Day" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm","eventForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
 var formHashes = ["songRequestForm","eventForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
