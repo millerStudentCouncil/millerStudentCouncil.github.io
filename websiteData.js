@@ -3,8 +3,7 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "http://tinyurl.com/omnthree",
-			"text": "Vote for what kind of movie you want at the next Movie Night!"
+			"text": "Earth to Echo will be playing at the next Movie Night!"
 		},
 	},
 	{
