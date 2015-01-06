@@ -7,6 +7,12 @@ var announcements = [
 			"text": "Pajama Day on January 9th!"
 		},
 	},
+	{
+		"title": {
+			"link": "http://millersc.org/#calendar",
+			"text": "Homeroom Representatives: The next Student Council Meeting is next Wednesday, January 14th!"
+		},
+	},
 
 
 ]
