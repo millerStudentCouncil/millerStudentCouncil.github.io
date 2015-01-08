@@ -3,7 +3,7 @@ var announcements = [
 
 	{
 		"title": {
-			"link": "#pajamaDay",
+			"link": "https://docs.google.com/document/d/17igeuiYITeCmZFNgPDmZiI-XyAMXvCAp60qx065-4_w/edit?usp=sharing",
 			"text": "Pajama Day on January 9th!"
 		},
 	},
