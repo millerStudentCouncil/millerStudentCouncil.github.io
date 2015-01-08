@@ -13,6 +13,12 @@ var announcements = [
 			"text": "Homeroom Representatives: The next Student Council Meeting is next Wednesday, January 14th!"
 		},
 	},
+	{
+		"title": {
+			"link": "#dodgeball",
+			"text": "Sign up here to play in the ANNUAL DODGEBALL TOURNAMENT!!! "
+		},
+	},
 
 
 ]
