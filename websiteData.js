@@ -15,7 +15,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#dodgeball",
+			"link": "http://millersc.org/#dodgeball",
 			"text": "Sign up here to play in the ANNUAL DODGEBALL TOURNAMENT!!! "
 		},
 	},
