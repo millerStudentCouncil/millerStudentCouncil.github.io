@@ -1,7 +1,7 @@
 #Social Media Accounts
 
-##Instagram: miller_sc_
-##Twitter: miller_sc_
+##Instagram: Miller_SC
+##Twitter: miller_SC
 ##Snapchat: miller.sc
 ##Facebook: Miller SC
 ##Google+: Miller Student Council
