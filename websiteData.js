@@ -21,6 +21,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": "#movieNight3",
+			"text": "Earth to Echo is showing at the next Movie Night!"
+		},
+	},
+	{
+		"title": {
 			"link": "tinyurl.com/fancydancesurvey2015",
 			"text": "8th graders- Please fill out this survey for this year's Fancy Dance!"
 		},
