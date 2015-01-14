@@ -6,13 +6,13 @@ var announcements = [
 			"link": "http://millersc.org/#dodgeball",
 			"text": "Sign up here to play in the ANNUAL DODGEBALL TOURNAMENT!!!"
 		},
+	},
 	{
 		"title": {
 			"link": "tinyurl.com/fancydancesurvey2015",
 			"text": "8th graders- Please fill out this survey for this year's Fancy Dance!"
 		},
-},
-
+	},
 
 ]
 
