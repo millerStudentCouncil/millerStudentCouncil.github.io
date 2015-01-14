@@ -9,6 +9,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": "tinyurl.com/hdsrequests",
+			"text": "Submit Song Requests for the Hollywood Dance!"
+		},
+	},
+	{
+		"title": {
 			"link": "#leadershipRecruitmentParty",
 			"text": "6th and 7th graders- The Leadership Recruitment Party is on its way!"
 		},
