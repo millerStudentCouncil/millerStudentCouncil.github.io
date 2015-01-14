@@ -9,6 +9,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": "#leadershipRecruitmentParty",
+			"text": "6th and 7th graders- The Leadership Recruitment Party is on its way!"
+		},
+	},
+	{
+		"title": {
 			"link": "tinyurl.com/fancydancesurvey2015",
 			"text": "8th graders- Please fill out this survey for this year's Fancy Dance!"
 		},
