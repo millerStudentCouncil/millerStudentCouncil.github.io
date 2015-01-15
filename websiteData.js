@@ -39,7 +39,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"#projectPurple"
+			"link":"#projectPurple",
 			"text":"Support Project Purple by wearing purple for a week!"
 		},
 	},
