@@ -13,16 +13,16 @@ var announcements = [
 			"text": "Submit Song Requests for the Hollywood Dance!"
 		},
 	},
-	{
+		{
 		"title": {
-			"link": "#leadershipRecruitmentParty",
-			"text": "6th and 7th graders- The Leadership Recruitment Party is on its way!"
+			"link": "#movieNight3",
+			"text": "Earth to Echo is showing at the next Movie Night!"
 		},
 	},
 	{
 		"title": {
-			"link": "#movieNight3",
-			"text": "Earth to Echo is showing at the next Movie Night!"
+			"link": "#fancyDanceCooking",
+			"text": "Did you always want to be a waiter or chef? Sign up to be on for the Fancy Dance!"
 		},
 	},
 	{
