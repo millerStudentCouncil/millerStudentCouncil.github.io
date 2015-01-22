@@ -22,7 +22,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "#fancyDanceCooking",
-			"text": "Did you always want to be a waiter or chef? Sign up to be on for the Fancy Dance!"
+			"text": "Did you always want to be a waiter or chef? Sign up to be one for the Fancy Dance!"
 		},
 	},
 	{
