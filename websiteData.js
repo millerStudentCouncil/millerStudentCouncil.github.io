@@ -56,6 +56,6 @@ var upcomingEvents = [
 	{"img":"http://outerbanksdaredevils.com/wp-content/uploads/2013/06/aaa-project-purple-LOGO.jpg","title":"What's better than wearing purple all week? Nothing!","info":"Support Project Purple from January 26-29 by wearing purple each day!"},
 ]
 
-var spiritDay = "" //Leave empty when there is no spirit day
+var spiritDay = "Project Purple Week" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
