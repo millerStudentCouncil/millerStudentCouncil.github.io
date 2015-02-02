@@ -13,7 +13,12 @@ var announcements = [
 			"text": "Submit Song Requests for the Hollywood Dance!"
 		},
 	},
-	
+	{
+		"title": {
+			"link": "www.schoola.com/",
+			"text": "Schoola Clothing Drive"
+		},
+	},
 	{
 		"title": {
 			"link": "#fancyDanceCooking",
