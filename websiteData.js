@@ -13,12 +13,7 @@ var announcements = [
 			"text": "Submit Song Requests for the Hollywood Dance!"
 		},
 	},
-		{
-		"title": {
-			"link": "#movieNight3",
-			"text": "Earth to Echo is showing at the next Movie Night!"
-		},
-	},
+	
 	{
 		"title": {
 			"link": "#fancyDanceCooking",
