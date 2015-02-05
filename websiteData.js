@@ -33,12 +33,6 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "tinyurl.com/fancydancesurvey2015",
-			"text": "8th graders- Please fill out this survey for this year's Fancy Dance!"
-		},
-	},
-	{
-		"title": {
 			"link": "#pennyWars",
 			"text": "Prepare yourselves for Miller's first ever Penny Wars!"
 		},
