@@ -15,6 +15,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": "#oscarForm",
+			"text": "Register for the annual Miller OSCARS!!!"
+		},
+	},
+	{
+		"title": {
 			"link": "www.schoola.com/",
 			"text": "Schoola Clothing Drive"
 		},
@@ -46,4 +52,4 @@ var upcomingEvents = [
 var spiritDay = "Hollywood Spirit Day" //Leave empty when there is no spirit day
 var spiritDay = "Valentine's Spirit Day"
 
-var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
+var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
