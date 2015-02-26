@@ -4,7 +4,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "tinyurl.com/fancydanceinfo2015",
-			"text": "8th Graders: Find all the information, links, and ticket sign-up forms for the Fancy Dance here!"
+			"text": "8th Graders: Find out about the Fancy Dance here! WE MUST SELL 150 TICKETS BY THE END OF LUNCH ON FRIDAY, OR THE DANCE WILL BE CANCELED."
 		},
 	},
 	{
