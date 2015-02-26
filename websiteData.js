@@ -49,7 +49,6 @@ var upcomingEvents = [
 	{"img":"https://agirlandherdot.files.wordpress.com/2010/11/fancy-copy.jpg","title":"Fancy Dance Tickets sold in the Quad at lunch from February 2-March 13!  Buy an Early Bird ticket for $15 before February 27, or you will be required to pay $20 after that."},
 ]
 
-var spiritDay = "Hollywood Spirit Day" //Leave empty when there is no spirit day
-var spiritDay = "Valentine's Spirit Day"
+var spiritDay = "" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
