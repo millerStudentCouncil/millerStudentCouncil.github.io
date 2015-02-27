@@ -21,7 +21,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "www.schoola.com/",
+			"link": "http://www.schoola.com/schools/joaquin-miller-middle-san-jose-ca",
 			"text": "Schoola Clothing Drive"
 		},
 	},
