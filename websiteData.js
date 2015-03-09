@@ -47,6 +47,7 @@ var upcomingEvents = [
 	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 	{"img":"http://king.jpschools.org/wp-content/uploads/sites/128/2014/11/Penny.png","title":"Compete against all grade levels in Miller's first Penny Wars Competition!","info":"The winning grade level receives a mini-dance party! Remember... Coins are positive and Dollar bills are negative!"},
 	{"img":"https://agirlandherdot.files.wordpress.com/2010/11/fancy-copy.jpg","title":"Fancy Dance Tickets sold in the Quad at lunch from February 2-March 13!  Buy an Early Bird ticket for $15 before February 27, or you will be required to pay $20 after that."},
+	{"img":"http://www.graphics18.com/wp-content/uploads/2010/03/happystpatdaygarfieldblinks.gif","title":"Don't get pinched... wear green!","info":"Friday, March 20"},
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
