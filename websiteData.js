@@ -46,7 +46,7 @@ var upcomingEvents = [
 	{"img":"https://akamai-activenet009.active.com/mammothrecreation/servlet/downloadFile.sdi?uploadedfile_id=140","title":"Compete against your fellow classmates in Miller's Dodgeball Tournament!","info":"Under SSC click Sign up to sign up your team!"},
 	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 	{"img":"http://king.jpschools.org/wp-content/uploads/sites/128/2014/11/Penny.png","title":"Compete against all grade levels in Miller's first Penny Wars Competition!","info":"The winning grade level receives a mini-dance party! Remember... Coins are positive and Dollar bills are negative!"},
-	{"img":"https://agirlandherdot.files.wordpress.com/2010/11/fancy-copy.jpg","title":"Fancy Dance Tickets sold in the Quad at lunch from February 2-March 13!  Buy an Early Bird ticket for $15 before February 27, or you will be required to pay $20 after that."},
+	{"img":"https://agirlandherdot.files.wordpress.com/2010/11/fancy-copy.jpg","title":"Hurry up and buy your Fancy Dance tickets!","info":"Friday, March 13th, is the last day you can purchase a ticket!"},
 	{"img":"http://www.graphics18.com/wp-content/uploads/2010/03/happystpatdaygarfieldblinks.gif","title":"Don't get pinched... wear green!","info":"Friday, March 20"},
 	{"img":"http://www.theurbanprince.com/wp-content/uploads/2012/03/cpwilsoniii-the-avengers-meet-winnie-the-pooh.jpeg","title":"What superhero or villian will you be dressing up as?","info":"Decide soon before the Comic Battle Dance on April 24th!"},
 ]
