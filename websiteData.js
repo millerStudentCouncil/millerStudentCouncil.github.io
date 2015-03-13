@@ -51,6 +51,6 @@ var upcomingEvents = [
 	{"img":"http://www.theurbanprince.com/wp-content/uploads/2012/03/cpwilsoniii-the-avengers-meet-winnie-the-pooh.jpeg","title":"What superhero or villian will you be dressing up as?","info":"Decide soon before the Comic Battle Dance on April 24th!"},
 ]
 
-var spiritDay = "Crazy Hair Day" //Leave empty when there is no spirit day
+var spiritDay = "" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
