@@ -61,6 +61,7 @@ var upcomingEvents = [
 	{"img":"https://agirlandherdot.files.wordpress.com/2010/11/fancy-copy.jpg","title":"Hurry up and buy your Fancy Dance tickets!","info":"Friday, March 13th, is the last day you can purchase a ticket!"},
 	{"img":"http://www.graphics18.com/wp-content/uploads/2010/03/happystpatdaygarfieldblinks.gif","title":"Don't get pinched... wear green!","info":"Tuesday, March 17"},
 	{"img":"http://www.theurbanprince.com/wp-content/uploads/2012/03/cpwilsoniii-the-avengers-meet-winnie-the-pooh.jpeg","title":"What superhero or villian will you be dressing up as?","info":"Decide soon before the Comic Battle Dance on April 24th!"},
+	{"img":"https://natalieisgoode.files.wordpress.com/2014/04/hush2.jpg","title":"Join millions of people around the world and vow to be silent for We Are Silent!","info":"On Thursday, April 23rd, stay silent to support children around the world that are denied of their basic rights!"},
 ]
 
 var spiritDay = "" //Leave empty when there is no spirit day
