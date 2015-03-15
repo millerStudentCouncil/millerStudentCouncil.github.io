@@ -3,6 +3,12 @@ var announcements = [
 
 	{
 		"title": {
+			"link": "#terracycle",
+			"text": "Get ready for this year's Terracycle!"
+		},
+	},
+	{
+		"title": {
 			"link": "tinyurl.com/fancydanceinfo2015",
 			"text": "8th Graders: March 13th, this Friday, is the last day to buy fancy dance tickets! Hurry!"
 		},
