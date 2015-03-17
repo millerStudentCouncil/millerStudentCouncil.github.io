@@ -68,6 +68,6 @@ var upcomingEvents = [
 	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 ]
 
-var spiritDay = "" //Leave empty when there is no spirit day
+var spiritDay = "St. Patrick's Day" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
