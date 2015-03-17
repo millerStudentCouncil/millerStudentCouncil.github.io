@@ -3,6 +3,12 @@ var announcements = [
 
 	{
 		"title": {
+			"link": "#millerIdolChampVotingForm",
+			"text": "Vote for this year's Miller Idol Champion!"
+		},
+	},
+	{
+		"title": {
 			"link": "#terracycle",
 			"text": "Get ready for this year's Terracycle!"
 		},
