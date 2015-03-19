@@ -1,12 +1,7 @@
 var announcements = [
 	
 
-	{
-		"title": {
-			"link": "#millerIdolChampVotingForm",
-			"text": "Vote for this year's Miller Idol Champion!"
-		},
-	},
+	
 	{
 		"title": {
 			"link": "#oscarForm",
