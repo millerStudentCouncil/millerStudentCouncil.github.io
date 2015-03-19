@@ -9,6 +9,11 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link": "#oscarForm",
+			"text": "Register for the annual Miller OSCARS!!!"
+		},
+	{
+		"title": {
 			"link": "#indoorMovieNight",
 			"text": "Big Hero 6 will be shown at the next Indoor Movie Night!"
 		},
@@ -37,11 +42,6 @@ var announcements = [
 			"text": "Sign up here to play in the annual Dodgeball Tournament!"
 		},
 	},
-	{
-		"title": {
-			"link": "#oscarForm",
-			"text": "Register for the annual Miller OSCARS!!!"
-		},
 	},
 	{
 		"title": {
