@@ -34,12 +34,6 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "http://millersc.org/#dodgeball",
-			"text": "Sign up here to play in the annual Dodgeball Tournament!"
-		},
-	},
-	{
-		"title": {
 			"link": "http://www.schoola.com/schools/joaquin-miller-middle-san-jose-ca",
 			"text": "Schoola Clothing Drive"
 		},
