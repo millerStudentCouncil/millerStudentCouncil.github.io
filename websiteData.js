@@ -12,6 +12,7 @@ var announcements = [
 			"link": "#oscarForm",
 			"text": "Register for the annual Miller OSCARS!!!"
 		},
+	},
 	{
 		"title": {
 			"link": "#indoorMovieNight",
