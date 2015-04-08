@@ -1,12 +1,12 @@
 # We Are Silent
 
-<h2 style="color:yellow">When: Thursday, April 23rd</h4>
-##What: An event where students pledge to stay silent to stand up for children around the world that are being denied their basic rights
-<h2 style="color:yellow">How: Donations not necessary; pledge forms</h4>
-<h3 style="color:yellow">*Checks must be payable to Freee the Children!*</h4>
+<h4 style="color:yellow">When: Thursday, April 23rd</h4>
+####What: An event where students pledge to stay silent to stand up for children around the world that are being denied their basic rights
+<h4 style="color:yellow">How: Donations not necessary; pledge forms</h4>
+<h5 style="color:yellow">*Checks must be payable to Freee the Children!*</h4>
 
-##Rewards: Homeroom points & FOOD!
-<h2 style="color:mediumspringgreen">Donuts for highest participating homeroom class!</h4>
+####Rewards: Homeroom points & FOOD!
+<h4 style="color:mediumspringgreen">Donuts for highest participating homeroom class!</h4>
 
 _What is We Are Silent?_
 We Are Silent is an initiative of Free The Children to ensure all voices are heard around the world. Some of those voices that are not heard include children who are being bullied, denied, or exploited their basic rights. We Are Silent allows all of us to take a stand for the children around the world who don’t have a voice.  All donations go to Free the Children, an organization working to better the lives of children around the world. 
