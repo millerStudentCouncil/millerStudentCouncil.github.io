@@ -10,4 +10,4 @@
 
 #### Social Dances: <socialDances@millersc.org>
 
-### And more to come!
+### Green: <millergreenteam1234@gmail.com>
