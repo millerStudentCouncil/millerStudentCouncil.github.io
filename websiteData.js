@@ -4,12 +4,6 @@ var announcements = [
 	
 	{
 		"title": {
-			"link": "#oscarForm",
-			"text": "Register for Miller Oscars before this Friday!"
-		},
-	},
-	{
-		"title": {
 			"link": "#terracycle",
 			"text": "Get ready for this year's Terracycle!"
 		},
@@ -38,6 +32,6 @@ var upcomingEvents = [
 	{"img":"http://www.techfleece.com/wp-content/uploads/2015/02/The-Oscars-2015-logo.jpg","title":"Sign up for the Miller Oscars today!","info":"Team up with your friends to make an amazing movie! Go to the signup form to learn more!"},
 ]
 
-var spiritDay = "" //Leave empty when there is no spirit day
+var spiritDay = "Superhero VS Supervillain Day" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
