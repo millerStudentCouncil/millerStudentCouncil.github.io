@@ -21,7 +21,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link": "#Oscar",
+			"link": "#oscar",
 			"text": "Oscars is coming to Miller!"
 		},
 	},
