@@ -3,6 +3,12 @@ var announcements = [
 
 	{
 		"title": {
+			"link":"#newspaperFashionShow",
+			"text":"Compete with your friend's in the Newspaper Fashion Show!"
+		},
+	},
+	{
+		"title": {
 			"link":"https://docs.google.com/document/d/1yQPrMvYSuQaTuekmySXWBuIacb-JEJKl-de5U6kxJbo/edit?usp=sharing",
 			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
 		},
@@ -13,24 +19,12 @@ var announcements = [
 			"text": "Get ready for this year's Terracycle!"
 		},
 	},
-	{
-		"title": {
-			"link": "#weAreSilent",
-			"text": "Prepare yourselves for We Are Silent!"
-		},
-	},
-	{
-		"title": {
-			"link": "http://www.schoola.com/schools/joaquin-miller-middle-san-jose-ca",
-			"text": "Schoola Clothing Drive"
-		},
-	},
 
 
 ]
 
 var upcomingEvents = [
-	{"img":"https://s-media-cache-ak0.pinimg.com/236x/51/e0/e9/51e0e9f1269d3ba62c3b6b56dbebc6ec.jpg","title":"Is your dream to be a clothes designer?","info":"Either way, compete in the Newspaper Fashion Show and show off your fashion skills!"},
+	{"img":"https://s-media-cache-ak0.pinimg.com/236x/51/e0/e9/51e0e9f1269d3ba62c3b6b56dbebc6ec.jpg","title":"Is your dream to become a world-famous clothes designer?","info":"Either way, compete in the Newspaper Fashion Show and show off your fashion skills!"},
 	{"img":"http://www.banthebottle.net/wp-content/uploads/2012/05/RecycleSymbol_wPlasticBottles.jpg","title":"The Plastic to Pennies Drive is coming soon!","info":"Recycle your empty plastic water bottles in exchange for pennies!"},
 	{"img":"https://kidology.org/store/images/products/real_fun/smarter_md.jpg","title":"Are you smarter than a teacher?","info":"Come watch your classmates in the quad at lunch on April 27th to April 30th and on May 5th!"},
 	{"img":"http://mountainparkes.org/wp-content/uploads/teacher-appreciation.jpg","title":"Give back to our wonderful teachers for Teacher's Appreciation Week!","info":"Secretly create a card with your homeroom!"},
