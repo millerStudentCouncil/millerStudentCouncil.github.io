@@ -1,7 +1,12 @@
 var announcements = [
 	
 
-	
+	{
+		"title": {
+			"link":"https://docs.google.com/document/d/1yQPrMvYSuQaTuekmySXWBuIacb-JEJKl-de5U6kxJbo/edit?usp=sharing",
+			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
+		},
+	},	
 	{
 		"title": {
 			"link": "#terracycle",
@@ -25,6 +30,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
+	{"img":"http://www.banthebottle.net/wp-content/uploads/2012/05/RecycleSymbol_wPlasticBottles.jpg","title":"The Plastic to Pennies Drive is coming soon!","info":"Recycle your empty plastic water bottles in exchange for pennies!"},
 	{"img":"https://kidology.org/store/images/products/real_fun/smarter_md.jpg","title":"Are you smarter than a teacher?","info":"Come watch your classmates in the quad at lunch on April 27th to April 30th and on May 5th!"},
 	{"img":"http://mountainparkes.org/wp-content/uploads/teacher-appreciation.jpg","title":"Give back to our wonderful teachers for Teacher's Appreciation Week!","info":"Secretly create a card with your homeroom!"},
 	{"img":"http://www.tccnh.org/wp-content/uploads/2013/07/Mothers_Day-1024x768.jpg","title":"Buy a mother's day gram (carnation) for your amazing mothers for only $5!","info":"In the Student Store from April 27th to May 7th!"},
