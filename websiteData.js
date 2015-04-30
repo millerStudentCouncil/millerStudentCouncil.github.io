@@ -19,6 +19,12 @@ var announcements = [
 			"text": "Get ready for this year's Terracycle!"
 		},
 	},
+	{
+		"title": {
+			"link": "#Oscer",
+			"text": "Oscars is coming to Miller!"
+		},
+	},
 
 
 ]
