@@ -43,6 +43,6 @@ var upcomingEvents = [
 	{"img":"http://www.techfleece.com/wp-content/uploads/2015/02/The-Oscars-2015-logo.jpg","title":"Oscar Night videos are due on May 8th!","info":"The winners of each category receive a cool trophy and other prizes!"},
 ]
 
-var spiritDay = "Superhero VS Supervillain Day" //Leave empty when there is no spirit day
+var spiritDay = "" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
