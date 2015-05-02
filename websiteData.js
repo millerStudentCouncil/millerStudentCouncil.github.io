@@ -9,7 +9,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"https://docs.google.com/document/d/1yQPrMvYSuQaTuekmySXWBuIacb-JEJKl-de5U6kxJbo/edit?usp=sharing",
+			"link":"#plasticToPennies",
 			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
 		},
 	},	
