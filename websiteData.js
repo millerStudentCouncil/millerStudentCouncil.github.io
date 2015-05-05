@@ -4,7 +4,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#newspaperFashionShow",
-			"text":"Compete with your friend's in the Newspaper Fashion Show!"
+			"text":"Compete with your friends in the Newspaper Fashion Show!"
 		},
 	},
 	{
@@ -22,7 +22,7 @@ var announcements = [
 	{
 		"title": {
 			"link": "#oscar",
-			"text": "Oscars is coming to Miller!"
+			"text": "Oscar night is coming to Miller!"
 		},
 	},
 
@@ -40,6 +40,6 @@ var upcomingEvents = [
 	{"img":"http://www.techfleece.com/wp-content/uploads/2015/02/The-Oscars-2015-logo.jpg","title":"Oscar Night videos are due on May 8th!","info":"The winners of each category receive a cool trophy and other prizes!"},
 ]
 
-var spiritDay = "" //Leave empty when there is no spirit day
+var spiritDay = "Twin Day" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
