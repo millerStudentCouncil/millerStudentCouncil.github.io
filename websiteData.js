@@ -9,6 +9,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link":"tinyurl.com/cbdfeedbackform",
+			"text":"Comic Battle Dance Feedback Form"
+		},
+	},
+	{
+		"title": {
 			"link":"#plasticToPennies",
 			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
 		},
