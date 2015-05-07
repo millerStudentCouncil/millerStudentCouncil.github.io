@@ -3,7 +3,7 @@ var announcements = [
 
 {
 		"title": {
-			"link":"#twinDayRules",
+			"link":"tinyurl.com/twindayrule",
 			"text":"Twin Day is this Friday! Click here for the rules!"
 		},
 	},
