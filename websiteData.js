@@ -57,6 +57,6 @@ var upcomingEvents = [
 	{"img":"http://www.techfleece.com/wp-content/uploads/2015/02/The-Oscars-2015-logo.jpg","title":"Oscar Night is on Tuesday, Wednesday, and Thursday at Lunch!","info":"Bring your friends to the gym and watch your classmates' productions!"},
 ]
 
-var spiritDay = "Twin Day" //Leave empty when there is no spirit day
+var spiritDay = "First Summer Outfit Spirit Day" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
