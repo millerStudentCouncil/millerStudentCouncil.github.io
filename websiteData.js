@@ -1,7 +1,12 @@
 var announcements = [
 	
-
 	{
+		"title": {
+			"link":"#sunsetDance",
+			"text":"Come to the Sunset Dance!"
+		},
+	},
+/*	{
 		"title": {
 			"link":"#boxTops",
 			"text":"The collection date for Box Tops is coming soon!"
@@ -24,7 +29,7 @@ var announcements = [
 			"link":"#plasticToPennies",
 			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
 		},
-	},	
+	},*/	
 
 
 ]
