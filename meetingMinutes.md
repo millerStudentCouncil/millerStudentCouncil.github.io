@@ -1,6 +1,4 @@
-<br>
 ## Meeting Minutes
-<br>
 ###Coming Soon!
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
