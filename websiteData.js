@@ -3,7 +3,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#sunsetDance",
-			"text":"adfsfa."
+			"text":"Come to the Sunset Dance! Click for more information."
 		},
 	},
 /*	{
