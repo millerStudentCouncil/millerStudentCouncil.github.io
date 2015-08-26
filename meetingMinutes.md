@@ -1,5 +1,3 @@
-
-
 ## Meeting Minutes 
 ###Coming Soon!
 <!---
