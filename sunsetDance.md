@@ -7,3 +7,5 @@
 ### More Details:
 >####- $5 admission fee
 >####- Bring extra money for food, drinks, and candy!
+
+## Have Fun! :)
