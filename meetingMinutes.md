@@ -1,5 +1,4 @@
 <br />
-<br />
 
 ## Meeting Minutes 
 <br>
