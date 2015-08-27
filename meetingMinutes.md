@@ -1,6 +1,6 @@
 <br />
 
-## Meeting Minutes 
+# Meeting Minutes 
 <br>
 >###-September 2 Full Meeting Coming Soon
 >###-September 16 Full Meeting Coming Soon
