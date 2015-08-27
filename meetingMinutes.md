@@ -1,10 +1,10 @@
 <br />
-
+<br />
 
 ## Meeting Minutes 
 <br>
->####-September 2 Full Meeting Coming Soon
->####-September 16 Full Meeting Coming Soon
+>###-September 2 Full Meeting Coming Soon
+>###-September 16 Full Meeting Coming Soon
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
 - [September 17 Full Meeting](./meetingMinutes/9.17FullMeetingMinutes.pdf)
