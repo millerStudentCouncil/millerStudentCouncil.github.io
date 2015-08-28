@@ -1,7 +1,7 @@
 <br />
 #Social Media Accounts
 
-##Instagram: Miller_SC_
+##Instagram: Miller_SC\_
 ##Twitter: miller_SC
 ##Snapchat: miller.sc
 ##Facebook: Miller SC
