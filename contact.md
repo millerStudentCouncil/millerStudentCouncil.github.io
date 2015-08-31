@@ -2,7 +2,8 @@
 <!--ask Maxwell for emails-->
 # Contact Us
 
-#### President: <president@millersc.org>
+<!--#### President: <president@millersc.org>-->
+[Example](mailto:wilson.ho2718@gmail.com)
 
 #### Vice President: <vp@millersc.org>
 
