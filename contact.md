@@ -3,7 +3,7 @@
 # Contact Us
 
 <!--#### President: <president@millersc.org>-->
-#### [Example] (mailto: wilson.ho2718@gmail.com)
+ [Example] (mailto: wilson.ho2718@gmail.com)
 
 #### Vice President: <vp@millersc.org>
 
