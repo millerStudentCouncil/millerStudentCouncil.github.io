@@ -1,11 +1,11 @@
 var announcements = [
 	
-/*	{
+	{
 		"title": {
-			"link":"#sunsetDance",
-			"text":"Come to the Sunset Dance! Click for more information."
+			//"link":"#sunsetDance",
+			"text":"Stay Tuned for More!"
 		},
-	},*/
+	},
 /*	{
 		"title": {
 			"link":"#boxTops",
