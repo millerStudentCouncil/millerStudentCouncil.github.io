@@ -106,7 +106,7 @@ function createUpcomingEvent(data) {
 	event.className = 'item'
 
 	var img = document.createElement('img')
-	img.style.height = '250px'
+	img.style.height = '200px'
 	img.style.display = 'inline-block'
 	img.setAttribute('src', cleanLink(data.img))
 	event.appendChild(img)
