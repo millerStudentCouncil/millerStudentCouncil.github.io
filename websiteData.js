@@ -35,7 +35,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-//	{"img":"http://7-themes.com/data_images/out/67/6999869-sunset-beach-waves.jpg","title":"The Sunset Dance is coming up on the 28th!","info":"From 7:00-9:30 p.m.! Make sure to come SEA all the great decorations and delicious food."},
+	{"img":"http://7-themes.com/data_images/out/67/6999869-sunset-beach-waves.jpg","title":"The Sunset Dance is coming up on the 28th!","info":"From 7:00-9:30 p.m.! Make sure to come SEA all the great decorations and delicious food."},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More coming soon!","info":"Stay Tuned!"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Continue collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
