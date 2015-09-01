@@ -1,5 +1,5 @@
-## Homeroom Competition Results
-### Paper Plane Toss!
+# Homeroom Competitions
+<!--### Paper Plane Toss!
 
 #### First Place:
  - Yosh
@@ -27,4 +27,4 @@
  - Hong
 
 #### Ninth Place:
- - Moser
+ - Moser-->
