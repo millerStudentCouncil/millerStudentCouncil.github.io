@@ -8,6 +8,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link":"#MARSHMALLOW",
+			"text":"The Marshmallow Minute!"
+		},
+	},
+	{
+		"title": {
 			"link":"#doesNotExist",
 			"text":"Stay Tuned for More!"
 		},
