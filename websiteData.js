@@ -2,7 +2,7 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#opinionForm",
+			"link":"#scForm",
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
