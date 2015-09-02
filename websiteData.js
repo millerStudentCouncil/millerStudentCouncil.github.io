@@ -35,7 +35,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"You'll Find All the Latest Info Here."},
+	{"img":"#Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"You'll Find All the Latest Info Here."},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Continue collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
