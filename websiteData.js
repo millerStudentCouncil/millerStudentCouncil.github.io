@@ -2,7 +2,7 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#SunsetDance",
+			"link":"#Drawing",
 			"text":"Stay Tuned for More!"
 		},
 	},
