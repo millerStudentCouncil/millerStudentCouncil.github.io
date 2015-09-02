@@ -5,13 +5,13 @@ var announcements = [
 			"link":"#giveOpinion",
 			"text":"Give Feedback to Help Improve this Website"
 		},
-	}
+	},
 	{
 		"title": {
 			"link":"#doesNotExist",
 			"text":"Stay Tuned for More!"
 		},
-	},,
+	},
 /*	{
 		"title": {
 			"link":"#boxTops",
