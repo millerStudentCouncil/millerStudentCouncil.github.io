@@ -2,7 +2,6 @@
 
 # Meeting Minutes 
 >###-[September 2 Full Meeting (Not Yet Approved)](./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf)
-<!--Y U DO DIS TO ME MICHAEL -->
 >###-September 16 Full Meeting (Coming Soon)
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
