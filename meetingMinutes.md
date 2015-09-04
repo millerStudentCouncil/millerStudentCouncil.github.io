@@ -1,8 +1,7 @@
 <br />
 
 # Meeting Minutes 
-<br>
->###-September 2 Full Meeting Coming Soon
+>###-[September 2 Full Meeting (Not Yet Approved)](./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf)
 >###-September 16 Full Meeting Coming Soon
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
