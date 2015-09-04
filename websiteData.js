@@ -47,7 +47,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Come Back Frequently For All Important Information"},
+	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Come Back Frequently For All Important Information"},
 	{"img":"http://lighthouse-sf.org/wp-content/uploads/cottonballscoop-336x252.jpg","title":"Minute To Win It Marshmallow Challenge!","info":"Compete with Other Homerooms in the First Competition of the Year."},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Continue collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date comes near!"},
