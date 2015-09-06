@@ -8,8 +8,8 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"#MARSHMALLOW",
-			"text":"The Marshmallow Minute!"
+			"link":"#doesNotExist",
+			"text":"The Competition is Over. Results Will Be Posted Soon!"
 		},
 	},
 	{
@@ -48,7 +48,7 @@ var announcements = [
 
 var upcomingEvents = [
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://lighthouse-sf.org/wp-content/uploads/cottonballscoop-336x252.jpg","title":"Minute To Win It Marshmallow Challenge!","info":"Compete with Other Homerooms in the First Competition of the Year."},
+//	{"img":"http://lighthouse-sf.org/wp-content/uploads/cottonballscoop-336x252.jpg","title":"Minute To Win It Marshmallow Challenge!","info":"Compete with Other Homerooms in the First Competition of the Year."},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Continue collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
