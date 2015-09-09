@@ -6,12 +6,6 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-		{
-		"title": {
-			"link":"#movieNightForm",
-			"text":"Vote for the First Indoor Movie Night Movie"
-		},
-	},
 	{
 		"title": {
 			"link":"#doesNotExist",
