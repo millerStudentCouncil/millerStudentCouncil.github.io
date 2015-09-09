@@ -9,7 +9,13 @@ var announcements = [
 	{
 		"title": {
 			"link":"#doesNotExist",
-			"text":"The Competition is Over. Results Will Be Posted Soon!"
+			"text":"The Marshmallow Competition is Over. Results Will Be Posted Soon!"
+		},
+	},
+		{
+		"title": {
+			"link":"#movieNightForm",
+			"text":"Vote for the First Indoor Movie Night Movie"
 		},
 	},
 	{
