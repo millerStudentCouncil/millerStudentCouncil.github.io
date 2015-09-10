@@ -6,12 +6,12 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-	{
+/*	{
 		"title": {
 			"link":"#doesNotExist",
 			"text":"The Marshmallow Competition is Over. Results Will Be Posted Soon!"
 		},
-	},
+	},*/
 	{
 		"title": {
 			"link":"#doesNotExist",
