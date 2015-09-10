@@ -184,7 +184,7 @@ function processHTML(data, hash) {
 
 	if (hash == "main") {
 		$("#upcoming-events").carousel({
-			interval: 5000
+			interval: 10000
 		})
 
 		var currentAnnouncement = 0
