@@ -1,6 +1,6 @@
 <br/>
 #Back to School Bash!
-##Will be held on September 17 from 5 p.m. to 7 p.m.
+##Held on September 17 from 5 p.m. to 7 p.m.
 ##Come and enjoy the many fun activites including:
 >### - Carnival Games
 >### - Rock Walls
