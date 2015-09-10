@@ -8,7 +8,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"#doesNotExist",
+			"link":"#bashSchooltoBack",
 			"text":"Come to the BACK TO SCHOOL BASH!"
 		},
 	},
