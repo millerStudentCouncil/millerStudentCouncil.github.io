@@ -1,3 +1,4 @@
+<br/>
 # Spirit Days
 <!--
 ## Terracycle is the chance to get green in your community!
