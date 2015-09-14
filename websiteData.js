@@ -12,12 +12,18 @@ var announcements = [
 			"text":"Come to the BACK TO SCHOOL BASH!"
 		},
 	},
-	{
+		{
 		"title": {
-			"link":"#doesNotExist",
-			"text":"Stay Tuned for More!"
+			"link":"#movieNightForm",
+			"text":"Vote for the First Movie Night Movie!"
 		},
 	},
+//	{
+		/*"title": {
+			"link":"#doesNotExist",
+			"text":"Stay Tuned for More!"
+		},*/
+//	},
 /*	{
 		"title": {
 			"link":"#boxTops",
