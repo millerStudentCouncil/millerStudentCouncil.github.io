@@ -5,6 +5,7 @@
 ##Full Student Council Meetings
 >###-[September 2 Full Meeting (Not Yet Approved)](./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf)
 >###-September 16 Full Meeting (Coming Soon)
+>###-September 30 Full Meeting (Coming Soon)
 <br/>
 ##Officer Meetings
 <!---
