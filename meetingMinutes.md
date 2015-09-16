@@ -2,7 +2,7 @@
 
 # Meeting Minutes 
 <br/>
-##Full Student Council Meetings
+##**Full Student Council Meetings**
 <!--
 >###-[September 2 Full Meeting (Not Yet Approved)](./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf)
 >###-September 16 Full Meeting (Coming Soon)
@@ -13,7 +13,7 @@
   <h3><li>September 30 Full Meeting (Coming Soon)</li></h3>
 </ul>
 <br/>
-##Officer Meetings
+##**Officer Meetings**
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
 - [September 17 Full Meeting](./meetingMinutes/9.17FullMeetingMinutes.pdf)
