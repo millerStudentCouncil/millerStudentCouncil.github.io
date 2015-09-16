@@ -10,6 +10,11 @@
 </blockquote>
 <br/>
 ##Officer Meetings
+<blockquote>
+  <h3>- <a href="./meetingMinutes/15.08.19OfficerMeetingMinutes.pdf" target="_blank">August 19 Officer Meeting</a></li></h3>
+  <h3>- <a href="./meetingMinutes/15.08.26OfficerMeetingMinutes.pdf" target="_blank">August 26 Officer Meeting</a></li></h3>
+  <h3>- <a href="./meetingMinutes/15.09.09OfficerMeetingMinutes.pdf" target="_blank">September 9 Officer Meeting</a></li></h3>
+</blockquote>
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
 - [September 17 Full Meeting](./meetingMinutes/9.17FullMeetingMinutes.pdf)
