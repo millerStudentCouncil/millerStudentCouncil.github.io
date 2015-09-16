@@ -5,7 +5,7 @@
 ##Full Student Council Meetings
 <blockquote>
   <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
-  <h3>- September 16 Full Meeting (Coming Soon)</li></h3>
+  <h3>- <a href="./meetingMinutes/15.09.16MeetingMinutes.pdf" target="_blank">September 16 Full Meeting (Not Approved)</a></li></h3>
   <h3>- September 30 Full Meeting (Coming Soon)</li></h3>
 </blockquote>
 <br/>
