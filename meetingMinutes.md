@@ -3,11 +3,6 @@
 # Meeting Minutes 
 <br/>
 ##Full Student Council Meetings
-<!--
->###-[September 2 Full Meeting (Not Yet Approved)](./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf)
->###-September 16 Full Meeting (Coming Soon)
->###-September 30 Full Meeting (Coming Soon)-->
-
 <blockquote>
   <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting (Not Yet Approved)</a></li></h3>
   <h3>- September 16 Full Meeting (Coming Soon)</li></h3>
