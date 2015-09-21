@@ -6,12 +6,6 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-	{
-		"title": {
-			"link":"#bashSchooltoBack",
-			"text":"Come to the BACK TO SCHOOL BASH!"
-		},
-	},
 		{
 		"title": {
 			"link":"#movieNightForm",
@@ -60,7 +54,6 @@ var announcements = [
 
 var upcomingEvents = [
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://millersc.org/BTSB2.jpg","title":"The Back to School Bash is Back!","info":"On September 17, enjoy fun carnival games, rock-walls, karaoke, wii games, cupcake walks, and great food."},
 	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
