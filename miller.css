@@ -3933,7 +3933,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #ffa500;
 }
 .navbar-default .navbar-brand {
-  color: #ffff00;
+  color: #000000;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -3944,7 +3944,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #000000;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #888888;
+  color: #000000;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
