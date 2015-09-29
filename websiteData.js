@@ -51,9 +51,12 @@ var announcements = [
 
 
 ]
+function imageClick(url) {
+    window.location = url;
+}
 
 var upcomingEvents = [
-	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"}, "link":"http://millersc.org/#main",
+	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
@@ -62,7 +65,7 @@ var upcomingEvents = [
 //	{"img":"http://www.banthebottle.net/wp-content/uploads/2012/05/RecycleSymbol_wPlasticBottles.jpg","title":"The Plastic to Pennies Drive is coming soon!","info":"Recycle your empty plastic water bottles in exchange for pennies!"},
 //	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+ account?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 ]
-
+img src="http://millersc.org/Drawing.png" alt="Miller Student Council" class="thumbnails" onclick="imageClick('www.millersc.org/#main')"
 var spiritDay = "Spirit Days (Only For Homeroom Representatives)" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm", "feedbackForm", "spiritDayForm", "socialForm", "movieNightForm", "danceFeedbackForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
