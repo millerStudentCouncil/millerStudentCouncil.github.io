@@ -65,7 +65,7 @@ var upcomingEvents = [
 //	{"img":"http://www.banthebottle.net/wp-content/uploads/2012/05/RecycleSymbol_wPlasticBottles.jpg","title":"The Plastic to Pennies Drive is coming soon!","info":"Recycle your empty plastic water bottles in exchange for pennies!"},
 //	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+ account?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 ]
-img src="http://millersc.org/Drawing.png" alt="Miller Student Council" class="thumbnails" onclick="imageClick('www.millersc.org/#main')"
+//img src="http://millersc.org/Drawing.png" alt="Miller Student Council" class="thumbnails" onclick="imageClick('www.millersc.org/#main')"
 var spiritDay = "Spirit Days (Only For Homeroom Representatives)" //Leave empty when there is no spirit day
 
 var formHashes = ["techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm", "feedbackForm", "spiritDayForm", "socialForm", "movieNightForm", "danceFeedbackForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
