@@ -18,6 +18,12 @@ var announcements = [
 			"text":"Start Collecting Box Tops!"
 		},
 	},
+	{
+		"title": {
+			"link":"http://tinyurl.com/gradecolorday",
+			"text":"Grade Color Spirit Day"
+		}
+	},
 //	{
 		/*"title": {
 			"link":"#doesNotExist",
