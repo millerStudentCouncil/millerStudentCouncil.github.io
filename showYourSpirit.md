@@ -1,5 +1,8 @@
 <br/>
-# Spirit Days
+# Spirit Day
+### The next spirit day, Twin Day, is on October 16th.
+### Find someone else to wear the same outfit as you in order to earn homeroom points!
+
 <!--
 ## Terracycle is the chance to get green in your community!
 ## We are collecting personal beauty care items
