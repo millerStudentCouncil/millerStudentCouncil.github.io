@@ -1,7 +1,7 @@
 <br/>
 #Dances
-###The next dance is on Oct. 16th, from 7:00 to 9:00 as always.
-###The theme is Under the Stars, and be sure to come!
+###The next dance is on Oct. 16th, from 7:00 to 9:30.
+###The theme is Under the Stars, so be sure to come!
 
 ###The next dances are on:
 >#### - December 4th
