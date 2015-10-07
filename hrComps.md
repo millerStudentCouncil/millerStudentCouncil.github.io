@@ -3,6 +3,7 @@
 ###The Water Balloon Competition is coming up this Friday, on October 9th!
 ###Details below:
 >### - *under construction*
+
 <!--# Look At the Books Drive
 
 ### When: 5/20-6/3
