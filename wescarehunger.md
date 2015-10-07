@@ -5,7 +5,7 @@
 >### - Non-perishable food (ex. canned items, powdered milk)
 >### - No glass containers
 ##Food will be collected on the collection dates
->### - *currently unknown, please check later*
+>### - 10/22, 11/3, and 11/13
 
 <!--# We Are Silentasdfasdfasdf
 
