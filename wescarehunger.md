@@ -1,6 +1,6 @@
 <br/>
 #We Scare Hunger!
-##From October 6th to November**
+##From October 6th to November 13
 ##Please follow the guidelines below:
 >### - Non-perishable food (ex. canned items, powdered milk)
 >### - No glass containers
