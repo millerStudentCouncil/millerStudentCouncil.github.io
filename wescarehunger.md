@@ -1,11 +1,11 @@
 <br/>
-#Back to School Bash!
-##Held on **September 17 from 5 p.m. to 7 p.m.**
-##Come and enjoy the many fun activites including:
->### - Carnival Games
->### - Rock Walls
->### - Karaoke
->### - And Much More!
+#We Scare Hunger!
+##From October 6th to November**
+##Please follow the guidelines below:
+>### - Non-perishable food (ex. canned items, powdered milk)
+>### - No glass containers
+##Food will be collected on the collection dates
+>### - *currently unknown, please check later*
 
 <!--# We Are Silentasdfasdfasdf
 
