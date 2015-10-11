@@ -8,12 +8,6 @@ var announcements = [
 	},
 		{
 		"title": {
-			"link":"#movieNightForm",
-			"text":"Vote for the First Movie Night Movie!"
-		},
-	},
-		{
-		"title": {
 			"link":"#doesNotExistYET",
 			"text":"Start Collecting Box Tops!"
 		},
