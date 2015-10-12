@@ -18,6 +18,12 @@ var announcements = [
 			"text":"We Scare Hunger"
 		},
 	},
+		{
+		"title": {
+			"link":"#doesNotExisteYET",
+			"text":"Twin Day This Friday"
+		},
+	},
 //	{
 		/*"title": {
 			"link":"#doesNotExist",
