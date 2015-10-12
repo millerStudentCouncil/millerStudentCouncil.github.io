@@ -20,7 +20,7 @@ var announcements = [
 	},
 		{
 		"title": {
-			"link":"https://docs.google.com/document/d/1O0j26FImBxK06IvpF7KTG8SnZ3K46yVfAYBt-Z32sQk/edit",
+			"link":"https://docs.google.com/document/d/1O0j26FImBxK06IvpF7KTG8SnZ3K46yVfAYBt-Z32sQk/edit?usp=sharing",
 			"text":"Twin Day This Friday"
 		},
 	},
