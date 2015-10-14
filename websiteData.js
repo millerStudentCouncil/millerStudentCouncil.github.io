@@ -66,6 +66,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
+	{"img":"http://raverrafting.com/wp-content/uploads/2014/03/artworks-000074103599-02zg6g-t500x5001.jpg","title":"Under the Stars Dance this Friday!","info":"From 7-9:30"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
