@@ -24,6 +24,13 @@ var announcements = [
 			"text":"Twin Day This Friday"
 		},
 	},
+		{
+		"title": {
+			"link":"#danceLikeNobodyIsWatching",
+			"text":"Under the Stars Dance on October 16"
+		},
+	},
+		
 //	{
 		/*"title": {
 			"link":"#doesNotExist",
