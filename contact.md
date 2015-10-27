@@ -2,14 +2,14 @@
 <!--ask Maxwell for emails-->
 # Contact Us
 
-#### President: <president@millersc.org>
+#### President (Akhil Aggarwal): <president@millersc.org>
 
-#### Vice President: <vp@millersc.org>
+#### Vice President (Anna Chiang): <vp@millersc.org>
 
-#### Secretary: <secretary@millersc.org>
+#### Secretary (Michael Zhao): <secretary@millersc.org>
 
-#### Treasurer: <treasurer@millersc.org>
+#### Treasurer (Alyssa Kim): <treasurer@millersc.org>
 
-#### Social Dances: <socialDances@millersc.org>
+#### Social Dances (Elise Jang): <socialDances@millersc.org>
 
-#### Green: <millergreenteam1234@gmail.com>
+#### Green (Aayushi Jani): <millergreenteam1234@gmail.com>
