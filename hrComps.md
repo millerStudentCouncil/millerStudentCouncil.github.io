@@ -1,8 +1,7 @@
 <br/>
 #Homeroom Competitions
-###The Water Balloon Competition is coming up this Friday, on October 9th!
-###Details below:
->### - *under construction*
+###The next homeroom competition is on November 6th.
+###Homeroom reps, don't forget to choose representatives for the competition.
 
 <!--# Look At the Books Drive
 
