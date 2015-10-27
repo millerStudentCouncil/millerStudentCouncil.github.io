@@ -8,10 +8,5 @@
 >### - Cultural
 >### - Teacher
 >### - Homemade (a costume that you made at home and didn’t store buy)
-<br/>
-##Spirit Day Info:
->### - Can wear black and/or orange this Friday or a costume
->### - Color must be 50% of the clothing
->### - Can't tape on paper and count it
->### - Accessories, shoes, and small designs on a shirt do not count.
->### - Homeroom point calculations stay the same
+
+##Cheer on your friends at the parade, and have fun!
