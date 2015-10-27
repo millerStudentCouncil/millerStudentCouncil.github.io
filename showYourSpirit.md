@@ -1,7 +1,8 @@
 <br/>
 # Spirit Day
-### The next spirit day, Twin Day, is on October 16th.
-### Find someone else to wear the same outfit as you in order to earn homeroom points!
+### The next spirit day is on October 30th. (Halloween Spirit Day)
+### Dress up in your costume, or wear orange and black to count as a participant.
+### Homeroom reps, don't forget to submit the results onto the website ASAP.
 
 <!--
 ## Terracycle is the chance to get green in your community!
