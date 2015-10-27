@@ -4,6 +4,13 @@
 ### Dress up in your costume, or wear orange and black to count as a participant.
 ### Homeroom reps, don't forget to submit the results onto the website ASAP.
 
+##More Halloween Spirit Day Info:
+>#### Can wear black and/or orange this Friday or a costume
+>#### Color must be 50% of the clothing
+>#### Can't tape on paper and count it
+>#### Accessories, shoes, and small designs on a shirt do not count.
+>#### Homeroom point calculations stay the same. 
+ 
 <!--
 ## Terracycle is the chance to get green in your community!
 ## We are collecting personal beauty care items
