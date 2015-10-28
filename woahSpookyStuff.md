@@ -11,4 +11,4 @@
 
 ##Cheer on your friends at the parade, and have fun!
 
-##[Click for Information on the Spirit Day (Directs You to the Main Spirit Day Page)](#showYourSpirit.md)
+##[Click for Information on the Spirit Day (Directs You to the Main Spirit Day Page)](#showYourSpirit)
