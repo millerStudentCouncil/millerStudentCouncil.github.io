@@ -7,15 +7,8 @@
   <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.16MeetingMinutes.pdf" target="_blank">September 16 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.30FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 30 Full Meeting</a></li></h3>
-  <h3>- <a href="./meetingMinutes/15.10.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">October 14 Full Meeting</li></h3>
-</blockquote>
-<br/>
-##Officer Meetings
-<blockquote>
-  <h3>- <a href="./meetingMinutes/15.08.19OfficerMeetingMinutes.pdf" target="_blank">August 19 Officer Meeting</a></li></h3>
-  <h3>- <a href="./meetingMinutes/15.08.26OfficerMeetingMinutes.pdf" target="_blank">August 26 Officer Meeting</a></li></h3>
-  <h3>- <a href="./meetingMinutes/15.09.09OfficerMeetingMinutes.pdf" target="_blank">September 9 Officer Meeting</a></li></h3>
-</blockquote>
+  <h3>- <a href="./meetingMinutes/15.10.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">October 14 Full Meeting</a></li></h3>
+
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
 - [September 17 Full Meeting](./meetingMinutes/9.17FullMeetingMinutes.pdf)
