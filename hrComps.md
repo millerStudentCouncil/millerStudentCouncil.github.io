@@ -1,6 +1,6 @@
 <br/>
 #Homeroom Competitions
-###The next homeroom competition is on November 6th.
+###The next homeroom competition is on November 6th. (Frozen T-Shirt Homeroom Competition)
 ###Homeroom reps, don't forget to choose representatives for the competition.
 
 <!--# Look At the Books Drive
