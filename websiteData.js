@@ -8,12 +8,6 @@ var announcements = [
 	},
 		{
 		"title": {
-			"link":"#woahSpookyStuff",
-			"text":"Halloween Parade and Spirit Day This Friday!"
-		},
-	},
-		{
-		"title": {
 			"link":"https://docs.google.com/forms/d/19DRs_86NtdTjmU5NTGzo2TbaYl3Bkg0fgqB7FNHn27o/viewform?c=0&w=1",
 			"text":"Feedback for the Second Dance (Homeroom Reps Only)"
 		},
@@ -60,7 +54,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://images2.alphacoders.com/172/17282.jpg","title":"Halloween Parade and Spirit Day on Friday", "info":"Click on the Link to the Left for More Info"},
+//	{"img":"http://images2.alphacoders.com/172/17282.jpg","title":"Halloween Parade and Spirit Day on Friday", "info":"Click on the Link to the Left for More Info"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
