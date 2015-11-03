@@ -1,10 +1,9 @@
 <br/>
 #Dances
-###The next dance is on Oct. 16th, from 7:00 to 9:30.
-###The theme is Under the Stars, and be sure to come!
+###The next dance is on December 4th, from 7:00 to 9:30.
+###The theme is currently undecided, and when the form comes out, don't forget to vote!
 
 ###The next dances are on:
->#### - December 4th
 >#### - January 29th
 >#### - March 18th (the Fancy Dance!)
 >#### - April 29th 
