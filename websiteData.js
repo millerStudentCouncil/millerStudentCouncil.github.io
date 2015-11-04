@@ -14,7 +14,7 @@ var announcements = [
 	},
 			{
 		"title": {
-			"link":"https://docs.google.com/forms/d/19DRs_86NtdTjmU5NTGzo2TbaYl3Bkg0fgqB7FNHn27o/viewform?c=0&w=1",
+			"link":"#TechTalksTT",
 			"text":"Miller TechTalk This Friday!"
 		},
 	},
