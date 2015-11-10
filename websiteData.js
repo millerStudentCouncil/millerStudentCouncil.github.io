@@ -12,12 +12,6 @@ var announcements = [
 			"text":"Feedback for the Second Dance (Homeroom Reps Only)"
 		},
 	},
-			{
-		"title": {
-			"link":"#TechTalksTT",
-			"text":"Miller TechTalk This Friday!"
-		},
-	},
 		{
 		"title": {
 			"link":"#wescarehunger",
@@ -60,7 +54,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkejOmQ31EX_wiIw4epDZasG7OnX7Lgo5yrQcxLqQGCQR7ggoo3w","title":"Miller TechTalk on Friday", "info":"From 3:15-4:30 after school."},
+
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
