@@ -60,9 +60,8 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-
+	{"img":"http://www.wallpapermade.com/images/wallpapers/originals/inside-out-anger-fear-disgust-sadness-joy-wallpaper-4789.jpg","title":"Movie Night on Friday","info":"The Movie is INSIDE OUT!"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5dYU9uciUmuhkTYzm5PmlcHeaMsZj6WVYFM3FceARv1LqcCGwfg","title":"Movie Night on Friday","info":"The Movie is INSIDE OUT!"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
