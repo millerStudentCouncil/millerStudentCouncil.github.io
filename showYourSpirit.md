@@ -1,16 +1,14 @@
 <br/>
 # Spirit Day
-### The next spirit day is on October 30th. (Halloween Spirit Day)
-### Dress up in your costume, or wear orange and black to count as a participant.
 ### Homeroom reps, don't forget to submit the results onto the website ASAP.
-
-###More Halloween Spirit Day Info:
->#### Can wear black and/or orange this Friday or a costume
->#### Color must be 50% of the clothing
->#### Can't tape on paper and count it
->#### Accessories, shoes, and small designs on a shirt do not count.
->#### Homeroom point calculations stay the same. 
- 
+### The next spirit day is on November 13. (Inside Out Day)
+###More Inside Out Spirit Day Info:
+>#### Students cannot come to school and then change their clothes
+>#### You will not get extra points if you wear both pants and shirts
+>#### There are no two accessories to wear inside out you have to wear your shirt pant or shoes inside out
+>#### Wearing shoes backward would be like putting your right shoe or your left foot and vise versa
+>#### You cannot wear your shoes backward for P.E.
+>#### Shirts pants and shoes are the only clothing apparel that will count
 <!--
 ## Terracycle is the chance to get green in your community!
 ## We are collecting personal beauty care items
