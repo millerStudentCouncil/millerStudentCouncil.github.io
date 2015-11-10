@@ -12,6 +12,13 @@ var announcements = [
 			"text":"We Scare Hunger"
 		},
 	},
+	
+		{
+		"title": {
+			"link":"#showYourSpirit",
+			"text":"Inside Out Spirit Day on Friday"
+		},
+	},
 		
 //	{
 		/*"title": {
