@@ -7,12 +7,12 @@ var announcements = [
 		},
 	},
 		
-//	{
-		/*"title": {
-			"link":"#doesNotExist",
-			"text":"Stay Tuned for More!"
-		},*/
-//	},
+		{
+		"title": {
+			"link":"##hrComps",
+			"text":"Sour Candy Challenge Homeroom Competition"
+		},
+	},
 /*	{
 		"title": {
 			"link":"#boxTops",
