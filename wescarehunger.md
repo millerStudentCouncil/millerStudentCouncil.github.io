@@ -1,11 +1,9 @@
 <br/>
 #We Scare Hunger!
-##From October 6th to November 13
-##Please follow the guidelines below:
->### - Non-perishable food (ex. canned items, powdered milk)
->### - No glass containers
-##Food will be collected on the collection dates
->### - 10/22, 11/3, and 11/13
+##Results:
+>###1. Orcutt - 443 items
+>###2. Oncay - 329 items
+>###3. Cypert - 281 items
 
 <!--# We Are Silentasdfasdfasdf
 
