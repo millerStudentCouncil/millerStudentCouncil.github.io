@@ -13,13 +13,13 @@ var announcements = [
 			"text":"Sour Candy Challenge Homeroom Competition"
 		},
 	},
-/*	{
+	{
 		"title": {
-			"link":"#boxTops",
-			"text":"The collection date for Box Tops is coming soon!"
+			"link":"#wescarehunger",
+			"text":"We Scare Hunger Results"
 		},
 	},
-	{
+/*	{
 		"title": {
 			"link":"#lookAtTheBooks",
 			"text":"Learn more about Miller's first ever Look At the Books Drive!"
