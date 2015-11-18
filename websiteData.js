@@ -9,7 +9,7 @@ var announcements = [
 		
 		{
 		"title": {
-			"link":"##hrComps",
+			"link":"#hrComps",
 			"text":"Sour Candy Challenge Homeroom Competition"
 		},
 	},
