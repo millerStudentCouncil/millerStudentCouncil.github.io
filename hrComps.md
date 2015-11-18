@@ -1,6 +1,10 @@
 <br/>
 #Homeroom Competitions
-###The next homeroom competition is on November 6th. (Frozen T-Shirt Homeroom Competition)
+###The next homeroom competition is on November 20th: Sour Candy Challenge
+####Rules:
+>####Time Limit: 1 (Min.)
+>####Fastest rep to eat all their candy (Sour Patch Kids) will move on to the final round.
+>####All who advance to the final will receive homeroom points
 ###Homeroom reps, don't forget to choose representatives for the competition.
 
 <!--# Look At the Books Drive
