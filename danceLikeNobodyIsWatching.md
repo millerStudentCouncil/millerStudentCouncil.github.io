@@ -1,7 +1,7 @@
 <br/>
 #Dances
 ###The next dance is on December 4th, from 7:00 to 9:30.
-###The theme is currently undecided, and when the form comes out, don't forget to vote!
+###The theme is GLOW IN THE DARK 3.0
 
 ###The next dances are on:
 >#### - January 29th
