@@ -9,8 +9,8 @@ var announcements = [
 		
 		{
 		"title": {
-			"link":"#hrComps",
-			"text":"Sour Candy Challenge Homeroom Competition"
+			"link":"#danceLikeNobodyIsWatching",
+			"text":"Glow Dance 3.0 on Friday, Dec. 4!"
 		},
 	},
 	{
