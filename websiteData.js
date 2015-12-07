@@ -9,8 +9,8 @@ var announcements = [
 		
 		{
 		"title": {
-			"link":"#danceLikeNobodyIsWatching",
-			"text":"Glow Dance 3.0 on Friday, Dec. 4!"
+			"link":"https://docs.google.com/forms/d/11Ag5VZbry7oDDQv8Y1ZYpCbdCWg3sylSBu7WYGqotwY/viewform",
+			"text":"Glow Dance 3.0 Feedback Form (HR Reps)"
 		},
 	},
 	{
