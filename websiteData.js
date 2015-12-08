@@ -13,12 +13,12 @@ var announcements = [
 			"text":"Glow Dance 3.0 Feedback Form (HR Reps)"
 		},
 	},
-	{
+/*	{
 		"title": {
 			"link":"#wescarehunger",
 			"text":"We Scare Hunger Results"
 		},
-	},
+	},*/
 /*	{
 		"title": {
 			"link":"#lookAtTheBooks",
