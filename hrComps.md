@@ -1,10 +1,13 @@
 <br/>
 #Homeroom Competitions
-###The next homeroom competition is on November 20th: Sour Candy Challenge
+###The next homeroom competition is on December 11th: 3 Man 4 Legged Race
+###At the Soccer Field (Gym if raining)
 ####Rules:
->####Time Limit: 1 (Min.)
->####Fastest rep to eat all their candy (Sour Patch Kids) will move on to the final round.
->####All who advance to the final will receive homeroom points
+>####3 participants per homeroom
+>####Handkerchiefs will be tied around the participants' legs
+>####The handkerchief must be on until you finish the race
+>####The race will be 10 meters long
+>####You will have to go to the cone on the other side and then come back
 ###Homeroom reps, don't forget to choose representatives for the competition.
 
 <!--# Look At the Books Drive
