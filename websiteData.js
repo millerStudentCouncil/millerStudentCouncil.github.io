@@ -6,12 +6,12 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-/*	{
+	{
 		"title": {
-			"link":"#wescarehunger",
-			"text":"We Scare Hunger Results"
+			"link":"#idol",
+			"text":"Miller Idol Rules and Information"
 		},
-	},*/
+	},
 /*	{
 		"title": {
 			"link":"#lookAtTheBooks",
