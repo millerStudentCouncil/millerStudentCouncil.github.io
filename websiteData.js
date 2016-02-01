@@ -6,13 +6,6 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-		
-		{
-		"title": {
-			"link":"https://docs.google.com/forms/d/11Ag5VZbry7oDDQv8Y1ZYpCbdCWg3sylSBu7WYGqotwY/viewform",
-			"text":"Glow Dance 3.0 Feedback Form (HR Reps)"
-		},
-	},
 /*	{
 		"title": {
 			"link":"#wescarehunger",
@@ -42,7 +35,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs6_K67pTcazA-hJg3aiPtOGmMdvyyrwoFi1GuYsX4iaJEFI8v","title":"GLOW IN THE DARK 3.0 DANCE","info":"In the MP room on Dec. 4, 7:00-9:30 p.m "},
+	{"img":"http://mommybusiness.net/wp-content/uploads/2015/01/Microphone-American-Idol-post.jpg","title":"Miller Idol is here!","info":"More information will come soon."},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 //	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
