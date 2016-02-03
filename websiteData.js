@@ -15,7 +15,13 @@ var announcements = [
 	{
 			"title": {
 			"link":"https://docs.google.com/forms/d/17DGAfdU7nO0YMT75ncQ6XFqkJ4Zo1tgG5Ag4OQVw9EA/viewform",
-			"text":"Tree Maintenance Survey "
+			"text":"Tree Maintenance Survey"
+		},
+	},
+	{
+			"title": {
+			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
+			"text":"Fancy Dance Info"
 		},
 	},
 /*	{
