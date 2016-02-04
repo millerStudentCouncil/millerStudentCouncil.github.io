@@ -8,6 +8,12 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link":"#TechTalksTT",
+			"text":"TechTalk #2 With Jason Merrill"
+		},
+	},
+	{
+		"title": {
 			"link":"#idol",
 			"text":"Miller Idol Rules and Information"
 		},
