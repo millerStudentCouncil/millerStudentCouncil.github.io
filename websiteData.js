@@ -6,25 +6,8 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
+		
 	{
-		"title": {
-			"link":"#TechTalksTT",
-			"text":"TechTalk #2 With Jason Merrill"
-		},
-	},
-	{
-		"title": {
-			"link":"#idol",
-			"text":"Miller Idol Rules and Information"
-		},
-	},
-	{
-			"title": {
-			"link":"https://docs.google.com/forms/d/17DGAfdU7nO0YMT75ncQ6XFqkJ4Zo1tgG5Ag4OQVw9EA/viewform",
-			"text":"Tree Maintenance Survey"
-		},
-	},
-		{
 			"title": {
 			"link":"https://docs.google.com/forms/d/1ssw3IV1A5Ukht_VwRxhOa78b5fBjmeo5Pe2MG7veLmo/viewform?c=0&w=1",
 			"text":"8th Graders - Buy Your Fancy Dance Here"
@@ -34,6 +17,18 @@ var announcements = [
 			"title": {
 			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
 			"text":"Fancy Dance Info"
+		},
+	},
+	{
+			"title": {
+			"link":"https://docs.google.com/forms/d/17DGAfdU7nO0YMT75ncQ6XFqkJ4Zo1tgG5Ag4OQVw9EA/viewform",
+			"text":"Tree Maintenance Survey"
+		},
+	},
+	{
+		"title": {
+			"link":"#idol",
+			"text":"Miller Idol Rules and Information"
 		},
 	},
 
