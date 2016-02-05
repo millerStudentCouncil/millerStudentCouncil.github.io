@@ -24,12 +24,19 @@ var announcements = [
 			"text":"Tree Maintenance Survey"
 		},
 	},
+		{
+			"title": {
+			"link":"https://docs.google.com/forms/d/1ssw3IV1A5Ukht_VwRxhOa78b5fBjmeo5Pe2MG7veLmo/viewform?c=0&w=1",
+			"text":"8th Graders - Buy Your Fancy Dance Here"
+		},
+	},
 	{
 			"title": {
 			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
 			"text":"Fancy Dance Info"
 		},
 	},
+
 /*	{
 		"title": {
 			"link":"#lookAtTheBooks",
