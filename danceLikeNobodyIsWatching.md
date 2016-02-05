@@ -1,6 +1,6 @@
 <br/>
 #Dances
-##The next dance is on December 4th, from 7:00 to 9:30.
+<!--##The next dance is on December 4th, from 7:00 to 9:30.
 ##The theme is GLOW IN THE DARK 3.0
 ###GLOW DANCE details:
 >###In the MP room (NOT THE QUAD)
@@ -10,9 +10,8 @@
 >>####Jamba Juice
 >>####Cotton Candy
 >>####Popeyes Fried Chicken
-
+-->
 ###The next dances are on:
->#### - January 29th
 >#### - March 18th (the Fancy Dance!)
 >#### - April 29th 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
