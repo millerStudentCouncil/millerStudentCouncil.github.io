@@ -2,7 +2,7 @@
 #Miller TechTalks
 <br/>
 >##- Miller TechTalks are usually hour-long presentations given by a computer professional on some topic relating to technology.
->##- Tommorow, in the 2nd TechTalk, Jason Merrill will be presenting...
+>##- Jason Merrill will be featured in the 2nd TechTalk, which is on March 1st
 >##- The topic that will be covered is about Desmos and what they do
 >##- This will be through live video chat!
 >###    - He lives in Massechusetts!
