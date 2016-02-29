@@ -10,7 +10,7 @@ var announcements = [
 	{
 			"title": {
 			"link":"https://docs.google.com/forms/d/1ssw3IV1A5Ukht_VwRxhOa78b5fBjmeo5Pe2MG7veLmo/viewform?c=0&w=1",
-			"text":"8th Graders - Buy Your Fancy Dance Here"
+			"text":"8th Graders - Buy Your Fancy Dance Tickets Here"
 		},
 	},
 	{
@@ -23,6 +23,12 @@ var announcements = [
 		"title": {
 			"link":"#idol",
 			"text":"Miller Idol Rules and Information"
+		},
+	},
+		{
+		"title": {
+			"link":"#TechTalksTT",
+			"text":"Miller TechTalk on March 1st"
 		},
 	},
 	{
