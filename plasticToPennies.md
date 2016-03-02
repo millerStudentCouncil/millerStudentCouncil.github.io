@@ -8,7 +8,7 @@
 #### -Carbonated and noncarbonated fruit drinks that contain any percentage of fruit juice
 #### -Noncarbonated soft drinks and sport drinks
 #### -Coffee and tea drinks
-
+<br/>
 #### The following beverages are excluded from the program:
 #### -Any product sold in a container that is not aluminum, glass, plastic, or bimetal.
 #### -Alcoholic beverage containers 
