@@ -37,13 +37,13 @@ var announcements = [
 			"text":"We Are Silent Info"
 		},
 	},
-
-/*	{
+	{
 		"title": {
-			"link":"#lookAtTheBooks",
-			"text":"Learn more about Miller's first ever Look At the Books Drive!"
+			"link":"#plasticToPennies",
+			"text":"Plastic to Pennies Drive"
 		},
 	},
+/*	
 	{
 		"title": {
 			"link":"kahunaflowers.com",
