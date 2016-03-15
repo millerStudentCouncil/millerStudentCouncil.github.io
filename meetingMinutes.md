@@ -4,12 +4,13 @@
 <br/>
 ##Full Student Council Meetings
 <blockquote>
-  <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
+<!--  <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.16MeetingMinutes.pdf" target="_blank">September 16 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.30FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 30 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.10.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">October 14 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.10.28FullStudentCouncilMeetingMinutes.pdf" target="_blank">October 28 Full Meeting</a></li></h3>
-  <h3>- <a href="./meetingMinutes/15.11.18FullStudentCouncilMeetingMinutes.pdf" target="_blank">November 17 Full Meeting</a></li></h3>
+  <h3>- <a href="./meetingMinutes/15.11.18FullStudentCouncilMeetingMinutes.pdf" target="_blank">November 17 Full Meeting</a></li></h3>-->
+   <h3>- <a href="./meetingMinutes/16.03.09FullStudentCouncilMeetingMinutes.pdf" target="_blank">March 9 Full Meeting</a></li></h3>
 </blockquote>
 <!---
 - [September 3 Full Meeting](./meetingMinutes/9.03FullMeetingMinutes.pdf)
