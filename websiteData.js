@@ -9,12 +9,6 @@ var announcements = [
 		
 	{
 			"title": {
-			"link":"https://docs.google.com/forms/d/1ssw3IV1A5Ukht_VwRxhOa78b5fBjmeo5Pe2MG7veLmo/viewform?c=0&w=1",
-			"text":"8th Graders - Buy Your Fancy Dance Tickets Here"
-		},
-	},
-	{
-			"title": {
 			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
 			"text":"Fancy Dance Info"
 		},
@@ -25,10 +19,10 @@ var announcements = [
 			"text":"Miller Idol Rules and Information"
 		},
 	},
-		{
+	{
 		"title": {
-			"link":"#TechTalksTT",
-			"text":"Miller TechTalk on March 1st"
+			"link":"https://docs.google.com/forms/d/1_3LEn4XLUidDQtzzsF9HbTeqC-WpPfhO6a92hA8KpgI/viewform",
+			"text":"Miller Oscars Sign Up"
 		},
 	},
 	{
