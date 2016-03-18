@@ -6,7 +6,13 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-		
+	{
+			"title": {
+			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1LBe1TiyuuleHU712-NUoxzj1StGjl2lk-1zzxINac0E/viewform?edit_requested=true	",
+			"text":"Leadership Application Form"
+		},
+	},
+	
 	{
 			"title": {
 			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
