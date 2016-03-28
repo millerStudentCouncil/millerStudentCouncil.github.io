@@ -12,13 +12,6 @@ var announcements = [
 			"text":"Leadership Application Form (Must Use Your CUSDK8 Google Account)"
 		},
 	},
-	
-	{
-			"title": {
-			"link":"https://docs.google.com/document/d/1nDDXnL_DRF02mjtjXb5TWxm_uZxgM6QbhfAjV_FhzjA/edit",
-			"text":"Fancy Dance Info"
-		},
-	},
 	{
 		"title": {
 			"link":"#idol",
