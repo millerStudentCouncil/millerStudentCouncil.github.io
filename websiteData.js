@@ -14,7 +14,7 @@ var announcements = [
 	},
 		{
 		"title": {
-			"link":"https://docs.google.com/forms/d/1D-jtxg4peKQ5Tfu-FLhPFDgGD17D_wc0Rzc9JDLnK9M/edit",
+			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1qFrMwMxAIcivQOLpAy3wWtzFq46HTwzx1h3qwaApp6s/viewform?c=0&w=1&usp=mail_form_link",
 			"text":"Miller Idol Voting Form (Use Your CUSDK8 Google Account)"
 		},
 	},
