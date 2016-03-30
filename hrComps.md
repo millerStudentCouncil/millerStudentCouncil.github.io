@@ -1,6 +1,11 @@
 <br/>
 #Homeroom Competitions
-###Currently, none are scheduled for this week.
+###Hey Watcha' Doin? Homeroom Competition
+>###Example video: https://drive.google.com/?authuser=0#folders/0B2N9fINMa_zCR0l
+>###Verbs cannot be repeated
+>###You must perform the action the person before you said
+>###Top 5 homerooms will win homeroom points!
+
 <!--###At the Soccer Field (Gym if raining)
 ####Rules:
 >####3 participants per homeroom
