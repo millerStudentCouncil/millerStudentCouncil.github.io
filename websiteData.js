@@ -61,7 +61,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"http://mommybusiness.net/wp-content/uploads/2015/01/Microphone-American-Idol-post.jpg","title":"Miller Idol is coming!","info":" "},
+	{"img":"http://mommybusiness.net/wp-content/uploads/2015/01/Microphone-American-Idol-post.jpg","title":"Voting for Miller Idol is open!!","info":" "},
 	{"img":"https://i.ytimg.com/vi/ONZsTBU1Pro/maxresdefault.jpg","title":" ","info":"Coming up on April 21! Go silent to raise awareness for children whose voices are silenced. Homerooms with most hours silent, most number of students silent, and most amount of money raised will win prizes. Staying off of social media will give you extra points!"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 //	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
