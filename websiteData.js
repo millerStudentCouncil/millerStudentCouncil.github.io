@@ -43,14 +43,14 @@ var announcements = [
 			"text":"Plastic to Pennies Drive"
 		},
 	},
-/*	
+	
 	{
 		"title": {
-			"link":"kahunaflowers.com",
-			"text":"Attention 8th Graders! Order your graduation flowers for this year!"
+			"link":"#treeform",
+			"text":"Signups for tree maintenance!"
 		},
 	},
-	{
+/*	{
 		"title": {
 			"link":"#plasticToPennies",
 			"text":"Learn how to get involved with the Plastic to Pennies Drive!"
