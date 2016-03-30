@@ -46,7 +46,7 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#treeform",
+			"link":"www.tinyurl.com/treesignups",
 			"text":"Signups for tree maintenance!"
 		},
 	},
