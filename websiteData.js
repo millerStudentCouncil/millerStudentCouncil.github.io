@@ -12,13 +12,6 @@ var announcements = [
 			"text":"Leadership Application Form (Must Use Your CUSDK8 Google Account)"
 		},
 	},
-		{
-		"title": {
-			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1qFrMwMxAIcivQOLpAy3wWtzFq46HTwzx1h3qwaApp6s/viewform?c=0&w=1&usp=mail_form_link",
-			"text":"Miller Idol Voting Form (Use Your CUSDK8 Google Account)"
-		},
-	},
-	
 	{
 		"title": {
 			"link":"#idol",
