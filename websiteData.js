@@ -14,12 +14,6 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"#idol",
-			"text":"Miller Idol Rules and Information"
-		},
-	},
-	{
-		"title": {
 			"link":"https://docs.google.com/forms/d/1_3LEn4XLUidDQtzzsF9HbTeqC-WpPfhO6a92hA8KpgI/viewform",
 			"text":"Miller Oscars Sign Up"
 		},
