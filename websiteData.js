@@ -6,6 +6,12 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
+		{
+			"title": {
+			"link":"http://millersc.org/CommissionersRolesandResponsibilities.pdf",
+			"text":"Commissioners: Roles and Responsibilities"
+		},
+	},
 	{
 			"title": {
 			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1LBe1TiyuuleHU712-NUoxzj1StGjl2lk-1zzxINac0E/viewform?edit_requested=true	",
