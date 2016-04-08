@@ -37,12 +37,6 @@ var announcements = [
 		},
 	},
 	
-	{
-		"title": {
-			"link":"www.tinyurl.com/treesignups",
-			"text":"Signups for tree maintenance!"
-		},
-	},
 /*	{
 		"title": {
 			"link":"#plasticToPennies",
