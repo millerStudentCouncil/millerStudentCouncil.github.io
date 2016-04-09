@@ -12,12 +12,7 @@ var announcements = [
 			"text":"Commissioners: Roles and Responsibilities"
 		},
 	},
-	{
-			"title": {
-			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1LBe1TiyuuleHU712-NUoxzj1StGjl2lk-1zzxINac0E/viewform?edit_requested=true	",
-			"text":"Leadership Application Form (Must Use Your CUSDK8 Google Account)"
-		},
-	},
+	
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/1_3LEn4XLUidDQtzzsF9HbTeqC-WpPfhO6a92hA8KpgI/viewform",
