@@ -6,18 +6,21 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
+	
+		{
+			"title": {
+			"link":"#mysteryDance",
+			"text":"The Mystery Dance"
+		},
+	},
+
 		{
 			"title": {
 			"link":"http://millersc.org/CommissionersRolesandResponsibilities.pdf",
 			"text":"Commissioners: Roles and Responsibilities"
 		},
 	},
-		{
-			"title": {
-			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1t_dGUfHhSLzWeahxhybgVzupJkeupVhSPDjMcy4yjt8/viewform",
-			"text":"Applying for Commissioner (Must Use CUSDK8 Account)"
-		},
-	},
+
 
 /*	{
 		"title": {
@@ -25,12 +28,6 @@ var announcements = [
 			"text":"Miller Oscars Sign Up"
 		},
 	},*/
-	{
-		"title": {
-			"link":"#weAreSILENT",
-			"text":"We Are Silent Info"
-		},
-	},
 	{
 		"title": {
 			"link":"#plasticToPennies",
