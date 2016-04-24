@@ -46,8 +46,8 @@ var announcements = [
 ]
 
 var upcomingEvents = [
-	{"img":"https://i.ytimg.com/vi/ONZsTBU1Pro/maxresdefault.jpg","title":" ","info":"Coming up on April 21! Go silent to raise awareness for children whose voices are silenced. Homerooms with most hours silent, most number of students silent, and most amount of money raised will win prizes. Staying off of social media will give you extra points!"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+	{"img":"http://bio.academany.org/images/people/who.png","title":"The Mystery Dance","info":"April 29th, from 7:00-9:30 in the Quad"},
 //	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
