@@ -14,7 +14,7 @@
 ###The last dance is the Mystery Dance on 4/29.
 >###New foods, a mysterious theme, and whole lot of fun!
 >###$5 admission fee as always.
-[link](https://www.millersc.org/#mysterydance.com "More Information")
+[More Information](https://www.millersc.org/#mysterydance)
 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
 ####Come and watch the movies your friends have worked so hard to make
