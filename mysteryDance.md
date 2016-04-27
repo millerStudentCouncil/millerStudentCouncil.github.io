@@ -11,5 +11,6 @@
 >####- The students will have to look at the number on their tickets to see if it matches
 >####- The winners will then be given their prizes 
 ####There will also be 4 winners from Instagram, so make sure to go check and follow @miller_sc_
-###Informational Video
+</br>
+##Informational Video
 <iframe width="640" height="360" src="https://www.youtube.com/embed/O5ajfQOLepw" frameborder="0" allowfullscreen></iframe>
