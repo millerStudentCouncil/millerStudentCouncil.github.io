@@ -7,12 +7,7 @@ var announcements = [
 		},
 	},
 	
-		{
-			"title": {
-			"link":"#mysteryDance",
-			"text":"The Mystery Dance"
-		},
-	},
+
 
 		{
 			"title": {
@@ -28,12 +23,7 @@ var announcements = [
 			"text":"Miller Oscars Sign Up"
 		},
 	},*/
-	{
-		"title": {
-			"link":"#plasticToPennies",
-			"text":"Plastic to Pennies Drive"
-		},
-	},
+
 	
 /*	{
 		"title": {
