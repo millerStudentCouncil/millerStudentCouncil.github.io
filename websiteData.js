@@ -8,6 +8,12 @@ var announcements = [
 	},
 	
 
+		{
+			"title": {
+			"link":"#millerOscars",
+			"text":"Submit Videos for Miller Oscars"
+		},
+	},
 
 		{
 			"title": {
