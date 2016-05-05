@@ -42,7 +42,6 @@ var announcements = [
 ]
 
 var upcomingEvents = [	
-	{"img":"http://millersc.org/who.png","title":"The Mystery Dance","info":"April 29th, from 7:00-9:30 in the Quad"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 //	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
