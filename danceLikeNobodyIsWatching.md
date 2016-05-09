@@ -11,10 +11,8 @@
 >>####Cotton Candy
 >>####Popeyes Fried Chicken
 -->
-###The last dance is the Mystery Dance on 4/29.
->###New foods, a mysterious theme, and whole lot of fun!
->###$5 admission fee as always.
-###[More Information](https://millersc.org/#mysterydance)
+###There will be a graduation dance for the 8th graders only.
+###More information will come out soon.
 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
 ####Come and watch the movies your friends have worked so hard to make
