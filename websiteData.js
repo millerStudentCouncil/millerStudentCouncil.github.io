@@ -9,9 +9,15 @@ var announcements = [
 	
 
 		{
-			"title": {
+		"title": {
 			"link":"#millerOscars",
 			"text":"Submit Videos for Miller Oscars"
+		},
+	},
+		{
+		"title": {
+			"link":"#crossBus",
+			"text":"Bus Driver and Crossing Guard Appreciation"
 		},
 	},
 
