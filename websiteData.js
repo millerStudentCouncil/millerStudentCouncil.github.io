@@ -20,7 +20,12 @@ var announcements = [
 			"text":"Bus Driver and Crossing Guard Appreciation"
 		},
 	},
-
+{
+		"title": {
+			"link":"#principalAppreciation",
+			"text":"Principal Appreciation"
+		},
+	},
 		{
 			"title": {
 			"link":"http://millersc.org/CommissionersRolesandResponsibilities.pdf",
