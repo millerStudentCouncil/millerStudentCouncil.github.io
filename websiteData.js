@@ -7,11 +7,10 @@ var announcements = [
 		},
 	},
 	
-
-		{
+	{
 		"title": {
-			"link":"#millerOscars",
-			"text":"Submit Videos for Miller Oscars"
+			"link":"https://kahunaflowers.com/index.php/school/joaquin-miller-m-s.html?mode=list",
+			"text":"Click here to buy flowers and leis for your 8th grade graduates!"
 		},
 	},
 		{
