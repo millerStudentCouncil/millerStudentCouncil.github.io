@@ -1,5 +1,5 @@
 #Dances
-##Come to the Hawaiian dance on August 19th!
+##Come to the Hawaiian dance on August 19th from 7:30-9PM!
 ##Admission is $5 but make sure to bring more for the food that will be served!
 
 
