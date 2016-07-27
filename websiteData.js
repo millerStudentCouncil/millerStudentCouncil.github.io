@@ -9,8 +9,8 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"https://kahunaflowers.com/index.php/school/joaquin-miller-m-s.html?mode=list",
-			"text":"Click here to buy flowers and leis for your 8th grade graduates!"
+			"link":"#danceLikeNobodyIsWatching",
+			"text":"Click here to learn about the first dance of the year!"
 		},
 	},
 		{
