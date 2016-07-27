@@ -15,22 +15,11 @@ var announcements = [
 	},
 		{
 		"title": {
-			"link":"#crossBus",
-			"text":"Bus Driver and Crossing Guard Appreciation"
+			"link":"https://docs.google.com/document/d/18XiUyR8PK4h3ZcXcQfCMHy9uXwJ_bI1i4pbFQKZ2uUk/edit",
+			"text":"Click here to get to the student reimbursement form."
 		},
 	},
-{
-		"title": {
-			"link":"#principalAppreciation",
-			"text":"Principal Appreciation"
-		},
-	},
-		{
-			"title": {
-			"link":"http://millersc.org/CommissionersRolesandResponsibilities.pdf",
-			"text":"Commissioners: Roles and Responsibilities"
-		},
-	},
+
 
 
 /*	{
