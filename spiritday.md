@@ -1,4 +1,4 @@
 <br/>
 #Spirit Days
 ###Stay tuned!
->###More coming soon.
+>###More coming soon
