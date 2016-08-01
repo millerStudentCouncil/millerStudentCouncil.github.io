@@ -1,4 +1,4 @@
 <br/>
-#Spirit Days
-###Stay tuned!
->###More coming soon
+#Sunglasses/Hawaiian Sprit Day!
+>###Wear your sunglasses and optional Hawaiian clothes on August 19!
+
