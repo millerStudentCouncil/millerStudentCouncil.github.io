@@ -8,10 +8,7 @@ var announcements = [
 	},
 	
 	{
-		"title": {
-			"link":"#danceLikeNobodyIsWatching",
-			"text":"Click here to learn about the first dance of the year!"
-		},
+	
 	},
 		{
 		"title": {
