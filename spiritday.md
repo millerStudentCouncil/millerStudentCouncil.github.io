@@ -1,3 +1,3 @@
 <br/>
-# Coming Soon!
+# Miller Spirit Day is on September 23!
 >###
