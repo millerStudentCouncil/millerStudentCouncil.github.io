@@ -13,3 +13,5 @@
 #### Social Dances (Joyce Feng): <social.millersc@gmail.com>
 
 #### Green (Shreedevi Rao): <green.millersc@gmail.com>
+
+#### Public Relations (Naman Singhal): <pr.millersc@gmail.com>
