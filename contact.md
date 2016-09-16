@@ -18,9 +18,7 @@
 
 
 #### Follow us on social media at:
->##### Instagram: miller_sc_
 >##### Snapchat: miller.sc
->##### Twitter: miller_sc_
 >##### Google+: Miller Student Council
 >##### Facebook: Miller SC
 
