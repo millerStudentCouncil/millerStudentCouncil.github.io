@@ -16,6 +16,7 @@
 
 #### Public Relations (Naman Singhal): <pr.millersc@gmail.com>
 
+
 #### Follow us on social media at:
 >##### Instagram: miller_sc_
 >##### Snapchat: miller.sc
@@ -23,4 +24,4 @@
 >##### Google+: Miller Student Council
 >##### Facebook: Miller SC
 
-Our email is: millerscsocialmedia@gmail.com
+#####Our email is: millerscsocialmedia@gmail.com
