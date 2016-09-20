@@ -14,6 +14,13 @@ var announcements = [
 			"text":"Click here to get to the student reimbursement form."
 		},
 	},
+	
+		{
+		"title": {
+			"link":"#spiritday",
+			"text":"Click here to learn about Miller Spirit Day on September 23!"
+		},
+	},
 
 
 
