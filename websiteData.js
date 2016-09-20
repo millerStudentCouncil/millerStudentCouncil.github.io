@@ -1,11 +1,5 @@
 var announcements = [
-		{
-		"title": {
-			"link":"#spiritday",
-			"text":"Click here to learn about Miller Spirit Day on September 23"
-		},
-	}
-
+	
 	{
 		"title": {
 			"link":"#feedbackForm",
