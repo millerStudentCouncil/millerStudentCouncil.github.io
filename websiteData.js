@@ -8,12 +8,7 @@ var announcements = [
 	},
 	
 
-		{
-		"title": {
-			"link":"https://docs.google.com/document/d/18XiUyR8PK4h3ZcXcQfCMHy9uXwJ_bI1i4pbFQKZ2uUk/edit",
-			"text":"Click here to get to the student reimbursement form."
-		},
-	},
+	
 	
 		{
 		"title": {
