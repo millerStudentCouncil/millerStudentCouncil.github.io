@@ -16,7 +16,6 @@
 
 #### Public Relations (Naman Singhal): <pr.millersc@gmail.com>
 
->>>>>>>>>
 #### Follow us on social media at:
 >##### Instagram: miller\_sc\_
 >##### Snapchat: miller.sc
