@@ -18,8 +18,10 @@
 
 
 #### Follow us on social media at:
+>##### Instagram: miller\_sc\_
 >##### Snapchat: miller.sc
 >##### Google+: Miller Student Council
+>##### Twitter: miller\_sc\_
 >##### Facebook: Miller SC
 
 #####Our email is: millerscsocialmedia@gmail.com
