@@ -1,7 +1,6 @@
 <br/>
-#Homeroom Competitions
-###Stay tuned!
->###More coming soon
+#The Balancing Race Homeroom Competition Will be on September 30 in the Quad At Lunch!
+###You must complete an obstacle course with a spoon with a ping pong ball in your hand as quick as possible.
 
 <!--###At the Soccer Field (Gym if raining)
 ####Rules:
