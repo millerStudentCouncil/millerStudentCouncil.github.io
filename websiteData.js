@@ -17,6 +17,13 @@ var announcements = [
 		},
 	},
 
+	
+		{
+		"title": {
+			"link":"#hrComps",
+			"text":"Click here to learn about The Balancing Homeroom Competition on September 30!"
+		},
+	},
 
 
 /*	{
