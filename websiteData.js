@@ -13,7 +13,7 @@ var announcements = [
 		{
 		"title": {
 			"link":"#spiritday",
-			"text":"Click here to learn about Miller Spirit Day on September 23!"
+			"text":"Click here to learn about Grade Color on October 9!"
 		},
 	},
 
