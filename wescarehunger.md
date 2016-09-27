@@ -1,9 +1,11 @@
 <br/>
-#We Scare Hunger!
-##Results:
->###1. Orcutt - 443 items
->###2. Oncay - 329 items
->###3. Cypert - 281 items
+##We Scare Hunger will be from October 14 to November 10!
+####Students in winning grade will receive Mile Club laps. You can donate at the dance for free soda. Teachers can also donate.
+
+####Some examples of things you can donate are...
+>#####Meals in a can (stew, chili, soup), Tuna and canned meat, Peanut butter, Canned foods with pop-top lids, Low-sugar cereals, 100% fruit juices in single serving boxes, etc.
+
+
 
 <!--# We Are Silentasdfasdfasdf
 
