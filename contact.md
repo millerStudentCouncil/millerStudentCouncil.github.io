@@ -10,6 +10,8 @@
 
 #### Treasurer (Michael Yuan): <treasurer.millersc@gmail.com>
 
+#### Tech (Arjun Gupta): <tech.millersc@gmail.com>
+
 #### Social Dances (Joyce Feng): <social.millersc@gmail.com>
 
 #### Green (Shreedevi Rao): <green.millersc@gmail.com>
