@@ -9,6 +9,10 @@
 
 <h3>- <a href="./meetingMinutes/16.09.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 14 Full Meeting</a></li></h3>
 
+<h3>- <a href="./meetingMinutes/16.09.28FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 28 Full Meeting</a></li></h3>
+
+
+
 <!--  <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.16MeetingMinutes.pdf" target="_blank">September 16 Full Meeting</a></li></h3>
   <h3>- <a href="./meetingMinutes/15.09.30FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 30 Full Meeting</a></li></h3>
