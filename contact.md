@@ -10,8 +10,6 @@
 
 #### Treasurer (Michael Yuan): <treasurer.millersc@gmail.com>
 
-#### Tech (Arjun Gupta): <tech.millersc@gmail.com>
-
 #### Social Dances (Joyce Feng): <social.millersc@gmail.com>
 
 #### Green (Shreedevi Rao): <green.millersc@gmail.com>
@@ -19,6 +17,10 @@
 #### Public Relations (Naman Singhal): <pr.millersc@gmail.com>
 
 #### Charity (Anika Chinthakunta): <charity.millersc@gmail.com>
+
+#### Tech (Arjun Gupta): <tech.millersc@gmail.com>
+
+
 
 #### Follow us on social media at:
 >##### Instagram: miller\_sc\_
