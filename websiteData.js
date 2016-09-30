@@ -20,8 +20,8 @@ var announcements = [
 	
 		{
 		"title": {
-			"link":"#hrComps",
-			"text":"Click here to learn about The Balancing Homeroom Competition on September 30!"
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSelzBOAVNEYYjyh-tF3cPYMl4wl7bP8dB5Q95GKgtHNbt-QMg/viewform?c=0&w=1",
+			"text":"Click here to fill out the form for Walk or Bike to School Week!"
 		},
 	},
 
