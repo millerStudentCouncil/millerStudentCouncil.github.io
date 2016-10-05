@@ -1,5 +1,8 @@
 #Dances
-##More information Coming Soon!
+##The Hollywood dance will be on October 28 from 7-9:30!
+###It will be $5 for admission and make sure to bring your student ID card.
+###There will now be popcorn and cookies!
+
 
 
 
