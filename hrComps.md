@@ -1,6 +1,6 @@
 <br/>
 #Homeroom Competitions
-##The winners for the balancing Homerrom Competitions were:
+##The winners for the Balancing Homeroom Competitions were:
 ###1st Place: Mrs. Brunner
 ###2nd Place: Mrs. Emerson
 
