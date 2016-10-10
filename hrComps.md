@@ -1,8 +1,9 @@
 <br/>
 #Homeroom Competitions
-##The winners for the Balancing Homeroom Competitions were:
-###1st Place: Mrs. Brunner
-###2nd Place: Mrs. Emerson
+##The Hungry Hungry Human Teacher Competition Will be on October 14
+###Encourage your teacher to sign up!
+####Make sure to come and cheer your teacher on!
+
 
 
 
