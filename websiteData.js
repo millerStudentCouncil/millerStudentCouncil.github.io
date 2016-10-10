@@ -10,12 +10,6 @@ var announcements = [
 
 	
 	
-		{
-		"title": {
-			"link":"#spiritday",
-			"text":"Click here to learn about Grade Color on October 7!"
-		},
-	},
 
 	
 		{
