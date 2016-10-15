@@ -1,9 +1,11 @@
 <br/>
 #Homeroom Competitions
-##The Hungry Hungry Human Teacher Competition Will be on October 14
-###Encourage your teacher to sign up!
-####Make sure to come and cheer your teacher on!
-<a href="https://docs.google.com/document/d/1rNrSXuXOQ1qv6p4omCXiGq6KPoL4sMqYiZ3VsCJ1Po0/edit">Click here for the rules!</a> 
+##Great Job to all homerooms that participated in the Hungry Hungry Teacher Competition!
+###The homerooms that will be reiciving points are:
+#### Stull and Frey in 1st place with 10 hr points
+#### Dunlap and Oncay in 2nd place with 9 hr points
+#### Stinson and Lanthier in 3rd place with 8 hr points
+#### Yosh and Jezyk in 4th place with 5 hr points
 
 
 
