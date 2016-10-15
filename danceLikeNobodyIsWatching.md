@@ -2,7 +2,7 @@
 ##The Hollywood dance will be on October 28 from 7-9:30!
 ###It will be $5 for admission and make sure to bring your student ID card.
 ###There will now be popcorn and cookies!
-###The Selfie Challenge will be included in the dance. Tke a selfie of you and a friend carpooling for a prize!
+###The Selfie Challenge will be included in the dance. Take a selfie of you and a friend carpooling to the dance for a special prize!
 
 
 
