@@ -1,9 +1,9 @@
 <br/>
-##We Scare Hunger will be from October 14 to November 10!
-####Students in winning grade will recieve Mile Club laps. You can donate at the dance for free soda. Teachers can also donate.
+#We Scare Hunger will be from October 14 to November 10!
+### All Students in winning grade will recieve Mile Club laps. You can donate at the dance for free soda. Teachers can also donate.
 
-####Some examples of things you can donate are...
->#####Meals in a can (stew, chili, soup), Tuna and canned meat, Peanut butter, Canned foods with pop-top lids, Low-sugar cereals, 100% fruit juices in single serving boxes, Canned fruit packed in juice, Canned vegetables (low salt), Dried foods (ex. pasta and oatmeal), Spices/Condiments, Dried and Canned Dairy Products (ex. powdered milk, evaporated milk), Baby Food (ex. fruit veggie packets, low sodium crackers), No items in glass!
+###Some examples of things you can donate are...
+>####Meals in a can (stew, chili, soup), Tuna and canned meat, Peanut butter, Canned foods with pop-top lids, Low-sugar cereals, 100% fruit juices in single serving boxes, Canned fruit packed in juice, Canned vegetables (low salt), Dried foods (ex. pasta and oatmeal), Spices/Condiments, Dried and Canned Dairy Products (ex. powdered milk, evaporated milk), Baby Food (ex. fruit veggie packets, low sodium crackers), No items in glass
 
 
 <!--# We Are Silentasdfasdfasdf
