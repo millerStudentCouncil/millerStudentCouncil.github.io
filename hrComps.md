@@ -5,7 +5,7 @@
 #### Stull and Frey in 1st place with 10 hr points
 #### Dunlap and Oncay in 2nd place with 9 hr points
 #### Stinson and Lanthier in 3rd place with 8 hr points
-#### Yosh and Jezyk in 4th place with 5 hr points
+
 
 
 
