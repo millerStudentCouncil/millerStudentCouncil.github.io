@@ -45,7 +45,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.walkbiketoschool.org/sites/all/themes/walktoschool/img/logo.png","title":"Walk or bike to school on October 3 - October 7 !","info":"Make sure to get a stamp from a leadership student when you come to school!"},
+//	{"img":"http://www.walkbiketoschool.org/sites/all/themes/walktoschool/img/logo.png","title":"Walk or bike to school on October 3 - October 7 !","info":"Make sure to get a stamp from a leadership student when you come to school!"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
