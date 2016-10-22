@@ -17,10 +17,10 @@ var announcements = [
 	},
 
 	
-/*	{
+	{
 		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSelzBOAVNEYYjyh-tF3cPYMl4wl7bP8dB5Q95GKgtHNbt-QMg/viewform?c=0&w=1",
-			"text":"Click here to fill out the form for Walk or Bike to School Week!"
+			"link":"#danceLikeNobodyIsWatching",
+			"text":"Remember to come to the Hollywood Dance this friday 10/28 from 7-30pm!"
 		},
 	},
 
