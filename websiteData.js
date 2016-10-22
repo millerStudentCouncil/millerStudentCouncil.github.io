@@ -20,7 +20,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#danceLikeNobodyIsWatching",
-			"text":"Remember to come to the Hollywood Dance this friday 10/28 from 7-9:30pm!"
+			"text":"Remember to come to the Hollywood Dance this Friday 10/28 from  7-9:30pm!"
 		},
 	},
 
