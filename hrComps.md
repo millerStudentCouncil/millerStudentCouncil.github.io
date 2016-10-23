@@ -1,10 +1,8 @@
 <br/>
 #Homeroom Competitions
-##Great Job to all homerooms that participated in the Hungry Hungry Teacher Competition!
-###The homerooms that will be reiciving points are:
-#### Stull and Frey in 1st place with 10 hr points
-#### Dunlap and Oncay in 2nd place with 9 hr points
-#### Stinson and Lanthier in 3rd place with 8 hr points
+##The Lightning Homeroom Competition will be on November 4th in the gym!
+###Make sure to come to support your homeroom!
+####Winners will be recieving homeroom points.
 
 
 
