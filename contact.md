@@ -25,7 +25,7 @@
 #### SSC7 (Tim Jing): <ssc7.millersc@gmail.com> 
 <br>
 #### Follow us on social media at:
-##### Instagram: miller\_sc\_
+>##### Instagram: miller\_sc\_
 >##### Snapchat: miller.sc
 >##### Google+: Miller Student Council
 >##### Twitter: miller\_sc\_
