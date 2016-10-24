@@ -20,6 +20,10 @@
 
 #### Tech (Arjun Gupta): <tech.millersc@gmail.com>
 
+#### SSC8 (Kanav Tirumala): <ssc8.millersc@gmail.com>
+
+#### SSC7 (Tim Jing): <ssc7.millersc@gmail.com> 
+
 
 
 #### Follow us on social media at:
