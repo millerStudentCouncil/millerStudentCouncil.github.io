@@ -23,9 +23,9 @@
 #### SSC8 (Kanav Tirumala): <ssc8.millersc@gmail.com>
 
 #### SSC7 (Tim Jing): <ssc7.millersc@gmail.com> 
-<br/>
+<br>
 #### Follow us on social media at:
->##### Instagram: miller\_sc\_
+##### Instagram: miller\_sc\_
 >##### Snapchat: miller.sc
 >##### Google+: Miller Student Council
 >##### Twitter: miller\_sc\_
