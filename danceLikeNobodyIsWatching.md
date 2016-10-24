@@ -3,8 +3,7 @@
 ###It will be $5 for admission and make sure to bring your student ID card.
 ###There will now be popcorn and cookies!
 ###The Selfie Challenge will be included in the dance. Take a selfie of you and a friend carpooling to the dance for a special prize!
-###You can also donate for We Scare Hunger for a free soda!
-
+###You could get FREE admission to the dance, or a FREE soda during the dance! If you bring 5 CANS you could get FREE admission, 1 or more CANS for the soda and 6 or more for BOTH!
 
 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
