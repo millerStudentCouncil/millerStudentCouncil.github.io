@@ -1,9 +1,9 @@
 <br/>
 #Homeroom Competitions
 ##The Lightning Homeroom Competition will be on November 4th!
-###The homeroom competition will be in the gym.
+##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
-####Winners will be recieving homeroom points and prizes!
+###Winners will be recieving homeroom points and prizes!
 
 
 
