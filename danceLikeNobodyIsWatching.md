@@ -2,7 +2,7 @@
 ##The Hollywood dance will be on October 28 from 7-9:30!
 ###It will be $5 for admission and make sure to bring your student ID card.
 ###There will now be popcorn and cookies!
-###The Selfie Challenge will be included in the dance. Take a selfie of you and a friend carpooling to the dance for a special prize!
+###The Selfie Challenge will be included in the dance. Take a selfie of you and a friend carpooling to the dance for a special prize! You also have the chance to win a FREE Fujifilm Instant Print Camera if you Carpool!
 ###You could get FREE admission to the dance, or a FREE soda during the dance! If you bring 5 CANS you could get FREE admission, 1 or more CANS for the soda and 6 or more for BOTH!
 
 
