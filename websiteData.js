@@ -12,7 +12,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeMqfxpUnP5o4knzNO2y3N6T6AMblNNQ6itM5puYbhCAxn0Lg/viewform?c=0&w=1",
-			"text":"Fill out this form to vote for Miller Spiritwear!"
+			"text":"Fill out this form to vote for Miller Spiritwear/Student Store Inventory!"
 		},
 	},
 
