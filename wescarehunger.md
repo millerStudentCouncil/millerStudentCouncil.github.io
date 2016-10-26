@@ -1,7 +1,12 @@
 <br/>
 #We Scare Hunger will be from October 14 to November 10!
 ### All Students in winning grade will recieve Mile Club laps. You can donate at the dance for free soda. Teachers can also donate.
-
+<br/>
+###The current standings are:
+>####6th: 45 cans
+>####7th: TBD
+>####8th: 52 cans
+<br/>
 ###Some examples of things you can donate are...
 >###Meals in a can (stew, chili, soup), Tuna and canned meat, Peanut butter, Canned foods with pop-top lids, Low-sugar cereals, 100% fruit juices in single serving boxes, Canned fruit packed in juice, Canned vegetables (low salt), Dried foods (ex. pasta and oatmeal), Spices/Condiments, Dried and Canned Dairy Products (ex. powdered milk, evaporated milk), Baby Food (ex. fruit veggie packets, low sodium crackers), No items in glass</p>
 
@@ -9,11 +14,6 @@
 >###6th grade:Dunlap(Room 44),Chase(Room 46),Lanthier(Room 42),Lainez(Room 23)
 >###7th grade:Everhardt(Room 7),Lam(Room 16),Reed(Room 33)
 >###8th grade:Oncay(Room 1),Bandyopadhyay(Room 11),Brunner(Room 27),Orcutt(Room 14)
-<br/>
-###The current standings are:
->####6th: 45 cans
->####7th: TBD
->####8th: 52 cans
 
 
 
