@@ -3,7 +3,10 @@
 ##The Lightning Homeroom Competition will be on November 4th!
 ##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
-###Winners will be recieving homeroom points and prizes!
+###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
+<br/>
+###Here is a link to a video with the rules.
+<https://drive.google.com/file/d/0B6xis_0QYjlkVWJ4czg2WXhIT0F0Y3JzeXNRd2dQa3lCSDh3/view>
 
 
 
