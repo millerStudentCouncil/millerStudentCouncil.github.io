@@ -9,6 +9,12 @@
 >###6th grade:Dunlap(Room 44),Chase(Room 46),Lanthier(Room 42),Lainez(Room 23)
 >###7th grade:Everhardt(Room 7),Lam(Room 16),Reed(Room 33)
 >###8th grade:Oncay(Room 1),Bandyopadhyay(Room 11),Brunner(Room 27),Orcutt(Room 14)
+<br/>
+###The current standings are:
+>####6th: 45 cans
+>####7th: TBD
+>####8th: 52 cans
+
 
 
 <!--# We Are Silentasdfasdfasdf
