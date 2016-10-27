@@ -23,7 +23,7 @@ var announcements = [
 		"title": {
 			"link": "#spiritday",
 			"text": "There will be a Halloween Spirit day on Monday, October 31!"
-		}'
+		},
 	},
 	
 		
