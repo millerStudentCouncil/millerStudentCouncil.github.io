@@ -6,24 +6,6 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website"
 		},
 	},
-	
-
-	
-	{
-		"title": {
-			"link":"#spiritday",
-			"text":"There will be a Halloween Spirit day/Parade on Monday, October 31!"
-		},
-	},
-	
-	
-	
-	{	
-		"title": {
-			"link":"#hrComps"
-			"text":"There will be the Lightning Homeroom Competition on November 4th!"
-		},
-	},
 
 	
 	
