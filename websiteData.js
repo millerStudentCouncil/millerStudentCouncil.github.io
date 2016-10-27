@@ -9,12 +9,6 @@ var announcements = [
 	
 
 	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeMqfxpUnP5o4knzNO2y3N6T6AMblNNQ6itM5puYbhCAxn0Lg/viewform?c=0&w=1",
-			"text":"Please fill out the Miller Spiritwear form for the Student Store."
-		},
-	},
 
 	
 	{
@@ -24,6 +18,16 @@ var announcements = [
 		},
 	},
 
+	
+	{
+		"title": {
+			"link": "#spiritday",
+			"text": "There will be a Halloween Spirit day on Monday, October 31!"
+		}'
+	},
+	
+		
+	
 
 /*	{
 		"title": {
