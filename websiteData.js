@@ -26,6 +26,14 @@ var announcements = [
 		},
 	},
 	
+	
+	{	
+		"title": {
+		"link": "#hrComps"
+		"text": "There will be the Lightning Homeroom Competition on November 4th!"
+		},
+	},
+		
 		
 	
 
