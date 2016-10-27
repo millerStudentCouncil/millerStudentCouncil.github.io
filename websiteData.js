@@ -16,7 +16,12 @@ var announcements = [
 		},
 	},
 
-	
+	{
+		"title": {
+			"link":"#spiritday",
+			"text":"Remember to dress up for the Costume Contest on Halloween 10/31 during lunch!"
+		},
+	},
 	
 			
 	
