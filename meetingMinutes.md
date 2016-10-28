@@ -5,13 +5,16 @@
 ##Full Student Council Meetings
 <blockquote>
 
-<h3>- <a href="./meetingMinutes/16.08.31FullStudentCouncilMeetingMinutes.docx-2.pdf" target="_blank">August 31 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.09.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 14 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.09.28FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 28 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.10.12FullStudentCouncilMeetingMinutes.pdf" target="_blank"> October 12 Full Meeting</a></li></h3>
+
+<h3>- <a href="./meetingMinutes/16.10.26FullStudentCouncilMeetingMinutes-2.pdf" target="_blank"> October 26 Full Meeting</a></li></h3>
+
+
 
 
 <!--  <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
