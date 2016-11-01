@@ -7,19 +7,11 @@ var announcements = [
 		},
 	},
 
-	
-	
-	{
-		"title": {
-			"link":"#danceLikeNobodyIsWatching",
-			"text":"Come to the Hollywood Dance this Friday 10/28 from 7-9:30pm!"
-		},
-	},
 
 	{
 		"title": {
-			"link":"#spiritday",
-			"text":"Remember to dress up for the Costume Contest on Halloween 10/31 during lunch!"
+			"link":"#hrComps",
+			"text":"Come to the gym to cheer your friends and class at the Basketball Lighting HR Competition!"
 		},
 	},
 	
