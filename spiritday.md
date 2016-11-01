@@ -1,3 +1,3 @@
 <br/>
 #Spirit Days
-##Coming Soon!
+#Coming Soon!
