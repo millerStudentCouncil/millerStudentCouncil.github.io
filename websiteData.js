@@ -3,7 +3,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#feedbackForm",
-			"text":"Give Feedback to Help Improve this Website"
+			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
 
@@ -16,6 +16,12 @@ var announcements = [
 	},
 	
 			
+	{
+		"title": {
+			"link":"#spiritday",
+			"text":"Make sure to participate in Veterans Spirit Day!"
+		},
+	},
 	
 
 /*	{
