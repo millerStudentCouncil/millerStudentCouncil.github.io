@@ -3,4 +3,4 @@
 ## Wear red, white, and blue to participate and to acknowledge all of the veteran's services
 
 ###Check out this link to see what counts!
-<https://drive.google.com/file/d/0BzQ7UrLEe2dAX0E0Wkx6azFIMzQ/view?usp=sharing>
+<https://docs.google.com/document/d/1gBETkWTLOoIoHdNcW6eryVkyFkItpSA0xxAGcsRsh_0/edit?ts=581abf4d>
