@@ -1,3 +1,3 @@
 <br/>
-#Veterans Spirit Day will be on Thursday, November 10!
-##To participate, you have to wear red, white, and blue.
+#Spirit Days
+## Wear red, white, and blue to participate and to acknowledge all of the veteran's services
