@@ -1,6 +1,6 @@
 <br/>
 #Spirit Days
-<u>#Veterans Spirit Day</u>
+<h2><u>Veterans Spirit Day</u></h2>
 ## Wear red, white, and blue to participate and to acknowledge all of the veteran's services!
 
 ###Check out this link to see what counts!
