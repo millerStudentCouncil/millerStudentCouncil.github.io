@@ -45,7 +45,6 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://pkw.wrdsb.ca/files/2013/10/We-Scare-Hunger.jpg", "title": "Collect food to scare hunger from October 14 to November 10!", "info":"Turn in the cans on collection dates, and don't forget the guidelines!"},
-	{"img":"http://cliparts.co/cliparts/Lid/jRo/LidjRob4T.jpg","title":"The Lightning Homeroom Competition will be on November 4!","info":"It will take place in the gym"},
 	{"img":"http://hotshotthemes.com/wp-content/uploads/2016/06/red-white-and-blue-thrift-store-different-decoration-on-wall-design-ideas.jpg","title":"Veterans Spirit Day will be on November 10!","info":"Make sure to wear red, white, and blue."},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
