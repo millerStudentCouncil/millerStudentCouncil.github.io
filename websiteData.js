@@ -8,12 +8,6 @@ var announcements = [
 	},
 
 
-	{
-		"title": {
-			"link":"#hrComps",
-			"text":"Come to the gym to cheer your friends and class at the Basketball Lighting HR Competition!"
-		},
-	},
 	
 			
 	{
