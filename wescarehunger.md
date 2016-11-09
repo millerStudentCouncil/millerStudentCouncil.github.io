@@ -3,9 +3,9 @@
 ### All Students in winning grade will recieve Mile Club laps. You can donate at the dance for free soda. Teachers can also donate.
 <br/>
 ###The current standings are:
->####6th: 45 cans
->####7th: TBD
->####8th: 52 cans
+>####6th: 212 cans
+>####7th: 108 cans
+>####8th: 136 cans
 <br/>
 ###Some examples of things you can donate are...
 >###Meals in a can (stew, chili, soup), Tuna and canned meat, Peanut butter, Canned foods with pop-top lids, Low-sugar cereals, 100% fruit juices in single serving boxes, Canned fruit packed in juice, Canned vegetables (low salt), Dried foods (ex. pasta and oatmeal), Spices/Condiments, Dried and Canned Dairy Products (ex. powdered milk, evaporated milk), Baby Food (ex. fruit veggie packets, low sodium crackers), No items in glass</p>
