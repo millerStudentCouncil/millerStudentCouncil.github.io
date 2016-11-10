@@ -6,7 +6,6 @@
 <blockquote>
 
 
-<h3>- <a href="./meetingMinutes/16.09.14FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 14 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.09.28FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 28 Full Meeting</a></li></h3>
 
