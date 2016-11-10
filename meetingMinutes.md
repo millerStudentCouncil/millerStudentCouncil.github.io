@@ -14,6 +14,7 @@
 
 <h3>- <a href="./meetingMinutes/16.10.26FullStudentCouncilMeetingMinutes-2.pdf" target="_blank"> October 26 Full Meeting</a></li></h3>
 
+<h3>- <a href="./meetingMinutes/16.11.09FullStudentCouncilMeetingMinutes.pdf" target="_blank"> November 9 Full Meeting</a></li></h3>
 
 
 
