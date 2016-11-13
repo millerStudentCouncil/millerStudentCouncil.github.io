@@ -13,7 +13,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#spiritday",
-			"text":"Make sure to participate in Veterans Spirit Day!"
+			"text":"Make sure to participate in Crazy Socks Day!"
 		},
 	},
 	
