@@ -1,5 +1,5 @@
-<h2><u>Dances</u></h2>
-#Coming Soon!
+#Dances
+##Coming Soon!
 
 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
