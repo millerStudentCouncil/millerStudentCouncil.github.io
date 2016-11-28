@@ -5,7 +5,6 @@
 <a href="https://docs.google.com/document/d/1uCVjip0TK096hqaPMyAllLvxb_wxZHpmUKFtYWdJWHI/edit?ts=5837a0e4
 ">Click here for more info!</a>
 
-<https://docs.google.com/document/d/1uCVjip0TK096hqaPMyAllLvxb_wxZHpmUKFtYWdJWHI/edit?ts=5837a0e4> 
 
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
