@@ -38,7 +38,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://i.ebayimg.com/images/g/8LwAAOSwdzVXnSRm/s-l300.jpg","title":"Water Bottle Flip Homeroom Competition will be on Dec 9!","info":"Come and cheer for your class and friends as they perform one of the world most famous challenges ever!"},
+	{" <img src="path/to/animated.gif" alt="https:media.giphy.com/media/8Enx4WltOywQU/giphy.gif","title":"Water Bottle Flip Homeroom Competition will be on Dec 9!","info":"Come and cheer for your class and friends as they perform one of the world most famous challenges ever!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
