@@ -2,6 +2,7 @@
 #Homeroom Competitions
 ##The Water Bottle Flipping HR Comp will be on December 9!
 ###Make sure to come and support you homerooms!
+###Check out this link for more info!
 <https://docs.google.com/document/d/1uCVjip0TK096hqaPMyAllLvxb_wxZHpmUKFtYWdJWHI/edit?ts=5837a0e4>
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
