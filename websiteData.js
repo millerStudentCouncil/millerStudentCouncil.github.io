@@ -11,7 +11,7 @@ var announcements = [
 		{
 		"title": {
 			"link":"#hrComps",
-			"text":"The Water Bottle Flip Homeroom Competition will be on Dec 9!"
+			"text":"The Water Bottle Flip Homeroom Competition will be on December 9!"
 		},
 	},
 			
