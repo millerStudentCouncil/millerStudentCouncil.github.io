@@ -1,5 +1,6 @@
 #Holiday Grams can be purchased from December 12-15!
 ##Send a personalized gift to a friend or teacher outside the Student Store!
+##Delivery will be on December 16 during 6th period.
 </br>
 ##The items you can buy include...
 >###$1 for candy cane
