@@ -3,7 +3,7 @@
 </br>
 ##The items you can buy include...
 >###$1 for candy cane
->###$$1 for two pouches of hot chocolate
->###$$1 for two pieces of Ghiradelli Peppermint Bark
->###$$1 for a small snowman stuffed animal
+>###$1 for two pouches of hot chocolate
+>###$1 for two pieces of Ghiradelli Peppermint Bark
+>###$1 for a small snowman stuffed animal
 ###There are limited quantities!
