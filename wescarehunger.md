@@ -1,5 +1,5 @@
 <br/>
-### The FInal Standing For We Scare Hunger are Below!.
+### The Final Standings For We Scare Hunger are Below!.
 <br/>
 >####6th- 423 Lbs
 >####7th- 125 Lbs
