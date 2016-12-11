@@ -5,7 +5,7 @@
 >####7th- 125 Lbs
 >####8th- 301 Lbs
 <br/>
-####6th Grade has collected the most items!
+####6th Grade has collected the most items and will recieve a mile club lap!
 >####The total collection number is 849 lbs!
 ####Great job Mustangs!
 
