@@ -5,7 +5,9 @@
 >####7th- 125 Lbs
 >####8th- 301 Lbs
 <br/>
->####Total- 849 lbs
+####8th Grade has collected the most items!
+>####The total collection number is 849 lbs!
+####Great job Mustangs!
 
 
 
