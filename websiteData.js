@@ -8,6 +8,13 @@ var announcements = [
 	},
 
 
+	{
+		"title": {
+			"link":"#wescarehunger",
+			"text":"Click here to see the final results for the We Scare Hunger Drive!"
+		},
+	},
+	
 		{
 		"title": {
 			"link":"#hrComps",
