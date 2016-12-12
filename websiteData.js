@@ -14,14 +14,7 @@ var announcements = [
 			"text":"Click here to see the final results for the We Scare Hunger Drive!"
 		},
 	},
-	
-		{
-		"title": {
-			"link":"#hrComps",
-			"text":"The Water Bottle Flip Homeroom Competition will be on December 9!"
-		},
-	},
-	
+		
 	
 {
 		"title": {
