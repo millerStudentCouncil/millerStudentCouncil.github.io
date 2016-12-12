@@ -1,7 +1,6 @@
 #Plastic to Pennies will be on December 12 - January 20
 >##Cans must be compressed and empty to be counted.
 >##Cans must be compressed to be counted for your homerooms.
->##Items that count are on the website and on flyers.
 >##First Collection date is January 6.
 <br/>
 ##Collect plastic or anything else on the following list and turn it in on the collection dates to earn HR points!
