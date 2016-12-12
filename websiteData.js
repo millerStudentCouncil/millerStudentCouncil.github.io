@@ -9,7 +9,7 @@ var announcements = [
 
 {
 		"title": {
-			"link":"#hrComps",
+			"link":"#spiritday",
 			"text":"Click here for information about Pajama Day!"
 		},
 	},
