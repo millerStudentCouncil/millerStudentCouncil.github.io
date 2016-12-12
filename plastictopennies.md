@@ -8,11 +8,4 @@
 >####Non-carbonated soft drinks and sport drinks
 >####Coffee and tea drinks
 >####Any product sold in a container that is not aluminum, plastic, or bimetal.
->####Alcoholic beverage and distilled spirits containers 
->####Milk
->####Medical food
->####Infant formula
->####Vegetable juice in containers 16 ounces or greater in volume
->####100 percent fruit juice in containers 46 ounces or greater in volume
->####Glass
 
