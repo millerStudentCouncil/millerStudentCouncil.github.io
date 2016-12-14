@@ -1,7 +1,9 @@
 <br/>
 #Homeroom Competitions
-##Coming Soon!
-
+##The results for the Bottle Flip HR competition were...
+>##1st place: Alemandi 12 flips
+>##2nd place: Stull 11 flips
+>##3rd place: Kuan 7 flips
 
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
