@@ -1,12 +1,12 @@
 <br/>
 ### The Final Standings For We Scare Hunger are Below!.
 <br/>
->####6th- 423 Lbs
->####7th- 125 Lbs
->####8th- 301 Lbs
+>####6th- 487 Cans
+>####7th- 70 Cans
+>####8th- 450 Cans
 <br/>
 ####6th Grade has collected the most items and will recieve a mile club lap!
->####The total collection number is 849 lbs!
+>####The total collection number is 1007 cans!
 ####Great job Mustangs!
 
 
