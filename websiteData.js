@@ -13,21 +13,7 @@ var announcements = [
 			"text":"Click here to fill out the E.A.T Survey (Only for HR Reps)"
 		},
 	},
-	
-{
-		"title": {
-			"link":"#spiritday",
-			"text":"Click here for information about Pajama Day!"
-		},
-	},
 
-	
-	{
-		"title": {
-			"link":"#wescarehunger",
-			"text":"Click here to see the final results for the We Scare Hunger Drive!"
-		},
-	},
 		
 	
 {
@@ -38,10 +24,7 @@ var announcements = [
 	},
 
 {
-		"title": {
-			"link":"#grams",
-			"text":"Click this Link to Learn more about Holiday Grams!"
-		},
+		
 	},
 			
 /*	{
