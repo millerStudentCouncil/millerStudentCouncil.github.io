@@ -72,8 +72,6 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.clipartkid.com/images/23/pj-day-clipart-irfwTS-clipart.gif","title":"Pajama Day will be on Friday, December 16!","info":"Make sure to participate for Homeroom Points!"},
-	{"img":"http://mysecondbreakfast.com/wp-content/uploads/2013/12/candy-cane-hot-chocolate.jpg","title":"Holiday Grams will be sold from December 12-15!","info":"They will start at $1 and will be sold outside the Student Store!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
