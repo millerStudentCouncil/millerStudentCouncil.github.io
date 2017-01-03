@@ -16,14 +16,13 @@ var announcements = [
 
 		
 	
-{
+	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeHIOSx0jAPHq2vIG8wTOG6nvjad-v2S6EhDU99OmMYWTy_bg/viewform?c=0&w=1",
 			"text":"Click this Link to fill out the Plastic To Pennies Giveaway Survey!"
 		},
 	},
 
-{
 		
 	},
 			
