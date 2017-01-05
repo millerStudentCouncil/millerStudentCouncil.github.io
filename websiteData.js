@@ -49,7 +49,9 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+	{"img":"https://3.bp.blogspot.com/-Zqkrj2g5AY0/WEmLKQSHNKI/AAAAAAAAGYM/EgHhd7bNISQBNGuPmGEcQ-G7QcvbUvZQgCLcB/s1600/Happy%2BNew%2BYear%2B2017%2BHD%2BWallpapers%2BFor%2BFacebook.jpg","title":"Happy New Year Mustangs!","info":" "},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+
 
 
 
