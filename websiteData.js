@@ -18,7 +18,7 @@ var announcements = [
 	
 	{
 		"title:":{
-			"link":"techtalks",
+			"link":"#techtalks",
 			"text":"Click here to learn about the first Tech Talk of the year!"
 		},
 	},
