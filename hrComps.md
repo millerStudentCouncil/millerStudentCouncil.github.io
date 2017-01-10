@@ -1,10 +1,8 @@
 <br/>
 #Homeroom Competitions
-##The results for the Bottle Flip HR competition were...
->##1st place: Alemandi 12 flips
->##2nd place: Stull 11 flips
->##3rd place: Kuan 7 flips
-
+##The Teacher Sing Off Homeroom Competition will be on January 26.
+###It will be in the Quad at Lunch!
+###Make sure to come and see your teachers participate!
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
 ###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
