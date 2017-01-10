@@ -7,6 +7,7 @@
 >###One Disney article of clothing (50%)
 >###Disney character costume
 >###Star Wars / Marvel are also Disney
+</br>
 ##What Doesn’t Count:
 >###Only one very small Disney accessory.
 >###Wearing clothing that only has a little bit of Disney designs.
