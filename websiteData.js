@@ -54,7 +54,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://millersc.org/Drawing.png","title":"The First Tech Talk Will be On January 20 from 3:20 to 4:35 PM @the Miller MP Room!","info":"Free cookies and refreshments will be provided!"},
+	{"img":"http://www.sandiego-tech.com/wp-content/uploads/2016/09/tech3.jpg","title":"The First Tech Talk Will be On January 20 from 3:20 to 4:35 PM @the Miller MP Room!","info":"Free cookies and refreshments will be provided!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
