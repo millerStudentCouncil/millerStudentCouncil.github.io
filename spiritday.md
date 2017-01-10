@@ -1,8 +1,8 @@
 <br/>
 #Spirit Days
-<list>
 ##Disney Day will be on January 13!
 ##What Counts (Arriving to school in):
+<list>
 >###Disney character ears and hats.
 >###Two or more small / visible Disney accessories.
 >###One Disney article of clothing (50%)
