@@ -1,10 +1,10 @@
-#Holiday Grams can be purchased from December 12-15!
-##Send a personalized gift to a friend or teacher outside the Student Store!
-##Delivery will be on December 16 during 6th period.
+#Valentines Day Grams
+##Selling from 1/30 - 2/10 @ Lunch in front of Student Store
+##Starting at $1
+
 </br>
-##The items you can buy include...
->###$1 for candy cane
->###$1 for two pouches of hot chocolate
->###$1 for two pieces of Ghiradelli Peppermint Bark
->###$1 for a small snowman stuffed animal
-###There are limited quantities!
+###What will be sold: 
+>###Lollipops 
+>###Hershey’s Kisses 
+>###Stuffed Animal 
+>###Rubber Duckies
