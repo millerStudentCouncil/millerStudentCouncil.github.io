@@ -1,5 +1,13 @@
 #Dances
-##Coming Soon!
+##The Winter Wonderlan Dance will be on Friday February 3 from 7-9:30 PM
+##Admission will be $5
+###Food:
+>####FREE MINI CANDY CANES!
+>####Pizza from Costco
+>####Donuts from Krispy Kreme
+>####Popcorn Chicken from Quickly
+>####MiniPops from Popbar
+
 
 
 <!--<h4 style="color:yellow">When:May 19-21</h4>
