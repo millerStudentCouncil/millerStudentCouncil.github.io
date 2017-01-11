@@ -8,6 +8,7 @@
 >###One Disney article of clothing (50%)
 >###Disney character costume
 >###Star Wars / Marvel are also Disney
+>###Only Pixar or Dreamworks
 </list>
 </br>
 ##What Doesn’t Count:
@@ -16,7 +17,6 @@
 >###Wearing clothing that only has a little bit of Disney designs.
 >###Not wearing it for the whole day
 >###Taping on a Disney symbol or character to your shirt.
->###Only Pixar or Dreamworks
 </list>
 
 
