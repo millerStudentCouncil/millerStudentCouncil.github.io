@@ -19,6 +19,9 @@
 >###Taping on a Disney symbol or character to your shirt.
 </list>
 
+###Click the link below for examples
+<https://docs.google.com/document/d/1muGR2vUIIHql39hyy9Syp14ZGng9VZALFioULaorHqY/edit?ts=5850e23e>
+
 
 
 
