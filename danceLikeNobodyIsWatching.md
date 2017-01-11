@@ -1,5 +1,5 @@
 #Dances
-##The Winter Wonderlan Dance will be on Friday February 3 from 7-9:30 PM
+##The Winter Wonderland Dance will be on Friday February 3 from 7-9:30 PM
 ##Admission will be $5
 ###Food:
 >####FREE MINI CANDY CANES!
