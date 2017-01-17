@@ -7,16 +7,13 @@
 
 
 
-
-
-<h3>- <a href="./meetingMinutes/16.10.26FullStudentCouncilMeetingMinutes-2.pdf" target="_blank"> October 26 Full Meeting</a></li></h3>
-
 <h3>- <a href="./meetingMinutes/16.11.09FullStudentCouncilMeetingMinutes.pdf" target="_blank"> November 9 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.11.30FullStudentCouncilMeetingMinutes-2.pdf" target="_blank"> November 30 Full Meeting</a></li></h3>
 
 <h3>- <a href="./meetingMinutes/16.12.14FullStudentCouncilMeetingMinutes.docx.pdf" target="_blank"> December 14 Full Meeting</a></li></h3>
 
+<h3>- <a href="./meetingMinutes/17.01.11FullStudentCouncilMeetingMinutes.docx.pdf" target="_blank"> January 11 Full Meeting</a></li></h3>
 
 
 <!--  <h3>- <a href="./meetingMinutes/15.09.02FullStudentCouncilMeetingMinutes2.pdf" target="_blank">September 2 Full Meeting</a></li></h3>
