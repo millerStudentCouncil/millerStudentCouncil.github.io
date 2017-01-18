@@ -1,4 +1,3 @@
 #Tech Talks
-##The First Tech Talk will be on Friday, January 20 from 3:20-4:35 PM in the Miller MP Room
-###The Speaker will be Srini Kumar, The Director of Data Science in the Algorithms & Data Science group at Microsoft! He will be speaking for one hour and there will be 15 minutes for Q and A!
-###Free cookies and refreshments will be provided and admission is free.
+##The First Tech Talk has been postponed until further notice.
+###The date will be released very soon so stay tuned!
