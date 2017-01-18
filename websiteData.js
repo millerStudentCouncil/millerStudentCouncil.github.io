@@ -19,7 +19,7 @@ var announcements = [
 	{
 		"title":{
 			"link":"#techtalks",
-			"text":"Click here to learn about the first Tech Talk of the year!"
+			"text":"The Tech talk has been postponed until further notice!"
 		},
 	},
 
@@ -54,7 +54,6 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.sandiego-tech.com/wp-content/uploads/2016/09/tech3.jpg","title":"The First Tech Talk Will be On January 20 from 3:20 to 4:35 PM @the Miller MP Room!","info":"Free cookies and refreshments will be provided!"},
 	{"img":"http://www.jerseyfamilyfun.com/wp-content/uploads/2012/03/boxtopsw.jpg","title":"The Collection Date For Box Tops will be on January 20!","info":"Make Sure to Participate and earn Money for Your School!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
