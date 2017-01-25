@@ -23,7 +23,7 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#Spiritdays",
+			"link":"#spiritday",
 			"text":"Remember to Participate in COllege Day tommorow. It is a great way to earn some HR points for the semester !"
 		},
 	},
