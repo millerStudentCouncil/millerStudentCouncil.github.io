@@ -1,8 +1,8 @@
 <br/>
 #Homeroom Competitions
-##The Teacher Sing Off Homeroom Competition will be on January 26.
-###It will be in the Quad at Lunch!
-###Make sure to come and see your teachers participate!
+##The Snowball/Dogeball HR comp will be on 2/3
+###Below are the rules for the competition...
+<https://docs.google.com/document/d/1Yh1NbQK3t-zojQXlnDIxuk6PVzlib6iYrCi3PCVv90s/edit>
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
 ###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
