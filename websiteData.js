@@ -14,15 +14,19 @@ var announcements = [
 		},
 	},
 
-		
-	
 	{
 		"title":{
 			"link":"#techtalks",
 			"text":"The Tech talk has been postponed until further notice!"
 		},
 	},
-
+	
+	{
+		"title": {
+			"link":"#Spiritdays",
+			"text":"Remember to Participate in COllege Day tommorow. It is a great way to earn some HR points for the semester !"
+		},
+	},
 		
 	
 			
