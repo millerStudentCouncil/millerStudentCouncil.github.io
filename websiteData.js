@@ -8,13 +8,6 @@ var announcements = [
 	},
 
 	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/1UhX4RnZXnVsT3P27MNvPb71sBmJW_NkNw0X7E5Y7pMM/viewform?edit_requested=true",
-			"text":"Click here to fill out the E.A.T Survey (Only for HR Reps)"
-		},
-	},
-
-	{
 		"title":{
 			"link":"#techtalks",
 			"text":"The Tech talk has been postponed until further notice!"
