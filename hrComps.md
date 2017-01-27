@@ -1,8 +1,6 @@
 <br/>
 #Homeroom Competitions
-##The Snowball/Dogeball HR comp will be on 2/3
-###Below are the rules for the competition...
-<https://docs.google.com/document/d/1Yh1NbQK3t-zojQXlnDIxuk6PVzlib6iYrCi3PCVv90s/edit>
+##The Snowball/Dogeball HR comp has been cancelled
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
 ###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
