@@ -14,12 +14,7 @@ var announcements = [
 		},
 	},
 	
-	{
-		"title": {
-			"link":"#spiritday",
-			"text":"Remember to Participate in College Day tommorow. It is a great way to earn some HR points for the semester !"
-		},
-	},
+
 		
 	
 			
@@ -52,7 +47,6 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://www.jerseyfamilyfun.com/wp-content/uploads/2012/03/boxtopsw.jpg","title":"The Collection Date For Box Tops will be on Febuary 6!","info":"Make Sure to Participate and earn Money for Your School!"},
-	{"img":"http://images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1847000/ff_1847089_xl.jpg&w=245","title":"College Day","info":" Wear Some College Related Clothing Tommorow to Earn Your First Homeroom Points in the Semester!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
