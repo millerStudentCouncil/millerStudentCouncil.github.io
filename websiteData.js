@@ -6,6 +6,13 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
+	
+	{
+		"title": {
+			"link":"#hrComps",
+			"text":"The Snowball/Dodgeball hr Competition has been cancelled!"
+		},
+	},
 
 	{
 		"title":{
