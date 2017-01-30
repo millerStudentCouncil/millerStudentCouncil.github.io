@@ -21,7 +21,12 @@ var announcements = [
 		},
 	},
 	
-
+{
+		"title":{
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLScNlD04He2gk7XszZ3gFDG6JMJFiPqwqXDO75jXZcLLsa8EBQ/viewform",
+			"text":"Fancy Dance Form"
+		},
+	},
 		
 	
 			
