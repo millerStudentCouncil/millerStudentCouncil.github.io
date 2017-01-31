@@ -1,6 +1,9 @@
 <br/>
 #Homeroom Competitions
-##The Snowball/Dogeball HR comp has been cancelled
+##Teacher Sing Off Homeroom Competition
+##It will be on 2/17 at lunch
+####Below are the rules for the HR Competition...
+<https://docs.google.com/document/d/1UhsWl78fbZAzIxnmNKK_vqImPu2S8CnX9jb9ieMIAk0/edit?usp=sharing>
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
 ###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
