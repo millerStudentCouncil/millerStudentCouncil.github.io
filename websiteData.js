@@ -10,7 +10,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#hrComps",
-			"text":"The Snowball/Dodgeball hr Competition has been cancelled!"
+			"text":"Click here to learn about the Teacher Sing Off HR Comp!"
 		},
 	},
 
