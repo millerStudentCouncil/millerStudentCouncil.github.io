@@ -14,12 +14,7 @@ var announcements = [
 		},
 	},
 
-	{
-		"title":{
-			"link":"#techtalks",
-			"text":"The Tech talk has been postponed until further notice!"
-		},
-	},
+	
 	
 {
 		"title":{
