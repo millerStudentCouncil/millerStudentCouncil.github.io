@@ -53,7 +53,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.jerseyfamilyfun.com/wp-content/uploads/2012/03/boxtopsw.jpg","title":"The Collection Date For Box Tops will be on Febuary 6!","info":"Make Sure to Participate and earn Money for Your School!"},
+	{"img":"http://www.jerseyfamilyfun.com/wp-content/uploads/2012/03/boxtopsw.jpg","title":"The Collection Date For Box Tops will be on February 6!","info":"Make Sure to Participate and earn Money for Your School!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
