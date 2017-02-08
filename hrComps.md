@@ -2,8 +2,12 @@
 #Homeroom Competitions
 ##Teacher Sing Off Homeroom Competition
 ##It will be on 2/17 at lunch
+
+###Teachers will participate in a Sing-Off where they try to come up with as many songs as they can from a single “buzz” word. They will then sing out the the lyric of the song containing the word. If they mess up or run out of time, they will be eliminated. The last team standing wins. 
+It doesn’t matter whether or not your teacher can sing or if they can’t. We are only trying to see which team can come up with the most song lyrics.
+
 ####Below are the rules for the HR Competition...
-<https://docs.google.com/document/d/1UhsWl78fbZAzIxnmNKK_vqImPu2S8CnX9jb9ieMIAk0/edit?usp=sharing>
+###<https://docs.google.com/document/d/1UhsWl78fbZAzIxnmNKK_vqImPu2S8CnX9jb9ieMIAk0/edit?usp=sharing>
 <!--##The homeroom competition will be in the gym.
 ###Make sure to come to cheer on your homeroom!
 ###Winners will be recieving homeroom points and prizes! 1st place will get a basketball, 2nd place will get a mini basketball, and 3rd place will get a a basketball key chain!
