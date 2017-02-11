@@ -1,3 +1,4 @@
 #Tech Talks
-##The First Tech Talk has been postponed until further notice.
-###The date will be released very soon so stay tuned!
+##The Tech Talk will be on February 17 in the MP Room!
+###The Director of Data Science at Microsoft will be talking about  inventions over the last century or two!
+###Free Cookies and Refreshments will be provided.
