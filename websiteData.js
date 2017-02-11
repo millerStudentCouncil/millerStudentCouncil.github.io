@@ -16,6 +16,15 @@ var announcements = [
 
 	
 	
+	{
+		"title": {
+			"link":"#techtalks",
+			"text":"Click here to learn about the Tech Talk on February 17!"
+		},
+	},
+
+	
+	
 {
 		"title":{
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLScNlD04He2gk7XszZ3gFDG6JMJFiPqwqXDO75jXZcLLsa8EBQ/viewform",
