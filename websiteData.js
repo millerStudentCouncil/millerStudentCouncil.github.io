@@ -53,6 +53,8 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+	{"img":"http://www.shunvmall.com/data/out/157/47701018-microsoft-wallpapers.png","title":"The first Tech Talk will be on February 17!","info":"It will host the Director of Data Science at Microsoft!"},
+
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
