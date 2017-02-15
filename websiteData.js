@@ -16,12 +16,7 @@ var announcements = [
 
 	
 	
-	{
-		"title": {
-			"link":"#techtalks",
-			"text":"Click here to learn about the Tech Talk on February 17!"
-		},
-	},
+	
 
 	
 	
@@ -62,7 +57,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://ilovehdwallpapers.com/walls/microsoft-windows-splashing-stylish-logo-HD.jpg","title":"The first Tech Talk will be on February 17!","info":"It will host the Director of Data Science at Microsoft!"},
+	{"img":"","title":"The Teacher Sing Off Competition will be on February 17","info":"Make sure to come and support your teachers in this competition!"},
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
