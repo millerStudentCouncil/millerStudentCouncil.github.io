@@ -9,14 +9,10 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#hrComps",
-			"text":"Click here to learn about the Teacher Sing Off HR Comp!"
+			"link":"#spiritday",
+			"text":"Click here to learn about Crazy Hair Day!"
 		},
 	},
-
-	
-	
-	
 
 	
 	
