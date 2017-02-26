@@ -53,7 +53,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://www.sweetwater.com/insync/media/2013/05/live-sound-microphone.jpg","title":"The Teacher Sing Off Competition will be on February 17","info":"Make sure to come and support your teachers in this competition!"},
+	{"img":"https://www.stayathomemum.com.au/wp-content/uploads/2015/11/9ee1aa3689356311ea30327108f2cdd7.jpg","title":"Crazy Hair Day will be on February 17","info":"Make sure to participate for homeroom points!"},
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
