@@ -22,5 +22,5 @@
 ###Your normal hair even if they already have: highlights, dyed hair, ponytail
 </list>
 
-
-
+###Click the link below for more information:
+<https://docs.google.com/document/d/1iDaMXDRpbpQ63wFGIPOvJeOVK3pbMUWwjp7nTCiPywk/edit?ts=58b3aeef>
