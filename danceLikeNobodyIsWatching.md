@@ -1,12 +1,14 @@
 #Dances
-##The Winter Wonderland Dance will be on Friday February 3 from 7-9:30 PM
-##Admission will be $5
-###Food:
->####FREE MINI CANDY CANES!
->####Pizza from Costco
->####Donuts from Krispy Kreme
->####Popcorn Chicken from Quickly
->####MiniPops from Popbar
+##The Fancy Dance will be on Friday March 24 from 6-9:30 PM
+##Meal/Admission Sales are from Feb 28-March 10 for $20
+###Deatails:
+>####Mystery theme
+>####3 Course Meal
+>####Semi-Formal Attire
+>####Photo Booth
+>####Fresh Beats w/ Dj
+
+##*This is a once in a lifetime oppourtunity that you would not want to miss*=
 
 
 
