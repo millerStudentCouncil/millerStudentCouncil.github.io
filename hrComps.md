@@ -1,6 +1,7 @@
 <br/>
 #Homeroom Competitions
-##Teacher Sing Off Homeroom Competition
+##Coming Soon!
+<!--##Teacher Sing Off Homeroom Competition
 ##It will be on 2/17 at lunch
 
 ###Teachers will participate in a Sing-Off where they try to come up with as many songs as they can from a single “buzz” word. They will then sing out the the lyric of the song containing the word. If they mess up or run out of time, they will be eliminated. The last team standing wins. 
