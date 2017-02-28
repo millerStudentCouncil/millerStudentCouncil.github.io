@@ -53,7 +53,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://www.stayathomemum.com.au/wp-content/uploads/2015/11/9ee1aa3689356311ea30327108f2cdd7.jpg","title":"Crazy Hair Day will be on February 17","info":"Make sure to participate for homeroom points!"},
+	{"img":"https://www.stayathomemum.com.au/wp-content/uploads/2015/11/9ee1aa3689356311ea30327108f2cdd7.jpg","title":"Crazy Hair Day will be on March 3","info":"Make sure to participate for homeroom points!"},
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
