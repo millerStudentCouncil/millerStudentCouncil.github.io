@@ -1,5 +1,6 @@
 #Dances
-##The Fancy Dance will be on Friday March 24 from 6-9:30 PM
+##The Fancy Dance will be on Friday March 24 (Friday right before Yosemite) from 6-9:30 PM
+##The start of the dance will happen in the MP room w/ foot then you will move to the GYM for dancing and photos
 ##Meal/Admission Sales are from Feb 28-March 10 for $20
 ###Deatails:
 >####Mystery theme
@@ -8,7 +9,7 @@
 >####Photo Booth
 >####Fresh Beats w/ Dj
 
-##*This is a once in a lifetime oppourtunity that you would not want to miss*=
+##*This is a once in a lifetime oppourtunity that you would not want to miss*
 
 
 
