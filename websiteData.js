@@ -10,19 +10,19 @@ var announcements = [
 	{
 		"title": {
 			"link":"#spiritday",
-			"text":"Click here to learn about Crazy Hair Day!"
+			"text":"Click here to learn about St. Patrick's Day!"
 		},
 	},
 
-	
-	
-{
-		"title":{
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLScNlD04He2gk7XszZ3gFDG6JMJFiPqwqXDO75jXZcLLsa8EBQ/viewform",
-			"text":"Fancy Dance Form"
+	{
+		"title": {
+			"link":"#hrComps",
+			"text":"Click here to learn about The Newspaper Fashion Show HR Comp!"
 		},
-	},
-		
+	},	
+	
+	
+
 	
 			
 /*	{
