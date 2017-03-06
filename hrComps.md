@@ -1,6 +1,15 @@
 <br/>
 #Homeroom Competitions
-##Coming Soon!
+##The Newspaper Fashion Show HR Comp will be on March 10 in the gym!
+###Points System:
+>###1st: 10 HR Points
+>###2nd: 9 HR Points
+>###3rd: 8 HR Points
+<br/>
+###Make sure to come and support your homeroom!
+
+
+
 <!--##Teacher Sing Off Homeroom Competition
 ##It will be on 2/17 at lunch
 
