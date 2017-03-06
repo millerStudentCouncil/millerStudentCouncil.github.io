@@ -1,26 +1,12 @@
 <br/>
 #Spirit Days
-## Crazy Hair Day will be on March 3rd!
+## St. Patrick's Day will be on March 17th!
 ###Rules:
 <list>
-###Students must arrive to school with crazy hair.
-###Crazy hair must be on throughout the day.
-###Do not bring your crazy hair applying tools to school.
-###Borrowing Policy.
-</list>
-</br>
-###What counts:
-<list>
-###Styling your hair before you arrive to school.
-###Coloring your hair(Colors of the rainbow)
-###More than two pigtails or two braids.
-</list>
-<br>
-###What Doesn’t Count:
-<list>
-###Styling your hair after you arrive at school
-###Your normal hair even if they already have: highlights, dyed hair, ponytail
-</list>
+###50% of green or gold.
+###Wearing the clothing article/ accessories for the whole day.
+###Must Follow Borrowing policy.
+###Must follow Miller Dress Code.
 
 ###Click the link below for more information:
-<https://docs.google.com/document/d/1iDaMXDRpbpQ63wFGIPOvJeOVK3pbMUWwjp7nTCiPywk/edit?ts=58b3aeef>
+<https://docs.google.com/document/d/1fSZ2-ozPSAT7OX6nEb_N9UQmZ5j73VU_O3J_KDa9y3U/edit?usp=sharing>
