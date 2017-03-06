@@ -54,7 +54,7 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://www.history.com/s3static/video-thumbnails/AETN-History_VMS/21/169/st-patrick-why-green_HD__366187_1104x622-16x9.jpg","title":"St. Patrick's Day will be on March 17","info":"Make sure to participate for homeroom points!"},
-	{"img":"https://s-media-cache-ak0.pinimg.com/564x/81/0c/8e/810c8ec89a6e861871bcb7bc063511aa.jpg","title":"The Newspaper Fashion SHow HR Cometition will be on March 10","info":"Make sure to come and support your homeroom!"},
+	{"img":"https://s-media-cache-ak0.pinimg.com/564x/81/0c/8e/810c8ec89a6e861871bcb7bc063511aa.jpg","title":"The Newspaper Fashion Show HR Cometition will be on March 10","info":"Make sure to come and support your homeroom!"},
 
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
