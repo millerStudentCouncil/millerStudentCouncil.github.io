@@ -3,7 +3,7 @@
 ## St. Patrick's Day will be on March 17th!
 ###Rules:
 <list>
-###50% of green or gold.
+###50% of green
 ###Wearing the clothing article/ accessories for the whole day.
 ###Must Follow Borrowing policy.
 ###Must follow Miller Dress Code.
