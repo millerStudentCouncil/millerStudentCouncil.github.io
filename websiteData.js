@@ -10,7 +10,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#spiritday",
-			"text":"Click here to learn about St. Patrick's Day!"
+			"text":"Click here to learn about Sports Day!"
 		},
 	},
 
@@ -47,7 +47,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.history.com/s3static/video-thumbnails/AETN-History_VMS/21/169/st-patrick-why-green_HD__366187_1104x622-16x9.jpg","title":"St. Patrick's Day will be on March 17","info":"Make sure to participate for homeroom points!"},
+	{"img":"http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_491000/ff_491925_xl.jpg&w=340":"Sports Day will be on April 7th","info":"Make sure to participate for homeroom points!"},
 
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
