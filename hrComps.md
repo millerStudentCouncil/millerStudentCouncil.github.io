@@ -1,21 +1,6 @@
 <br/>
 #Homeroom Competitions
-##The Newspaper Fashion Show HR Comp will be on March 10 in the gym!
-###Points System:
-<list>
-###1st: 10 HR Points
-###2nd: 9 HR Points
-###3rd: 8 HR Points
-</list>
-<br/>
-###Rules
-###1. 3-4 reps per homeroom
-###2. Make an outfit out of newspaper for ONE of the members in your group, the member that you are making an outfit for will also be the model
-###3. Time limit: 10 min.
-###4. One member from the group, who is NOT the model will have to give a brief description about the outfit of the model that will excite the crowd
-###5. The model will line up and walk down the runway, when they come near to the end, they will pose 3 times
-</br>
-###Make sure to come and support your homeroom!
+##Coming Soon!
 
 
 
