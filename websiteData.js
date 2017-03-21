@@ -10,13 +10,7 @@ var announcements = [
 	
 	
 	
-	{
-		"title": {
-			"link":"#spiritday",
-			"text":"Click here to learn about Sports Day!"
-		},
-	},
-
+	
 	
 	
 
