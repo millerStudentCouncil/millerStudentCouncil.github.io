@@ -1,22 +1,22 @@
 var announcements = [
 	
 	
-// {
-// 		"title": {
-// 			"link":"#feedbackForm",
-// 			"text":"Give Feedback to Help Improve this Website!"
-// 		},
-// 	},
+{
+		"title": {
+			"link":"#feedbackForm",
+			"text":"Give Feedback to Help Improve this Website!"
+		},
+	},
 	
 	
 	
 
-// 	{
-// 		"title": {
-// 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSevaMoEA-GIuuj8-rcy-H051FXQG4RBLfEd0KjWGT3-37Sjeg/viewform?c=0&w=1",
-// 			"text":"Click here to fill out the arm socks form!"
-// 		},
-// 	},
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSevaMoEA-GIuuj8-rcy-H051FXQG4RBLfEd0KjWGT3-37Sjeg/viewform?c=0&w=1",
+			"text":"Click here to fill out the arm socks form!"
+		},
+	},
 	
 	
 
