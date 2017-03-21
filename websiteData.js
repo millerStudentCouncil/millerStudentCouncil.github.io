@@ -1,7 +1,24 @@
 var announcements = [
 	
 	
+// {
+// 		"title": {
+// 			"link":"#feedbackForm",
+// 			"text":"Give Feedback to Help Improve this Website!"
+// 		},
+// 	},
+	
+	
+	
 
+// 	{
+// 		"title": {
+// 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSevaMoEA-GIuuj8-rcy-H051FXQG4RBLfEd0KjWGT3-37Sjeg/viewform?c=0&w=1",
+// 			"text":"Click here to fill out the arm socks form!"
+// 		},
+// 	},
+	
+	
 
 	
 			
@@ -32,11 +49,11 @@ var announcements = [
 ]
 
 var upcomingEvents = [	
-	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_491000/ff_491925_xl.jpg&w=340":"Sports Day will be on April 7th","info":"Make sure to participate for homeroom points!"},
+// 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+// 	{"img":"http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_491000/ff_491925_xl.jpg&w=340":"Sports Day will be on April 7th","info":"Make sure to participate for homeroom points!"},
 
 
-	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+// 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 
 
 
