@@ -19,7 +19,20 @@ var announcements = [
 	},
 	
 	
+{
+		"title": {
+			"link":"file:///home/chronos/u-980aabf055b58f470efa10b6a18c91726fa84033/Downloads/Commissioners%20Roles%20and%20Responsibilities.pdf",
+			"text":"Click this link to learn about Officers and Commissioners!"
+		},
+	},
+	
 
+{
+		"title": {
+			"link":"https://docs.google.com/document/d/129xWxw6c57daWCyW-tYNnAvwyuSbksx0qmxTtXVPJ7I/edit?usp=sharing",
+			"text":"Click this link to get the application for Miller Leadership!"
+		},
+	},
 	
 			
 /*	{
