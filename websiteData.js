@@ -21,9 +21,8 @@ var announcements = [
 	
 {
 		"title": {
-			"link":"file:///home/chronos/u-980aabf055b58f470efa10b6a18c91726fa84033/Downloads/Commissioners%20Roles%20and%20Responsibilities.pdf",
-			"text":"Click this link to learn about Officers and Commissioners!"
-		},
+			"link":"https://drive.google.com/file/d/0BzQ7UrLEe2dARno2Mklhem9wVEJEYTk5WTVKU3BBRzdncjVV/view?usp=sharing",
+			"text":"Click this link to learn about Commissioner's roles and responsibilities!"
 	},
 	
 
