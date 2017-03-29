@@ -19,7 +19,7 @@
 
 <h3>- <a href="./meetingMinutes/17.03.08FullStudentCouncilMeetingMinutes.docx.pdf" target="_blank"> March 8 Full Meeting</a></li></h3>
 
-<h3>- <a href="./meetingMinutes/17.03.22FullStudentCouncilMeetingMinutes.docx.pdf" target="_blank"> March 22 Full Meeting</a></li></h3>
+<h3>- <a href="./meetingMinutes/17.03.22FullStudentCouncilMeetingMinutes.docx (2).pdf" target="_blank"> March 22 Full Meeting</a></li></h3>
 
 
 
