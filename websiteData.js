@@ -10,6 +10,8 @@ var announcements = [
 	
 	
 	
+	
+	
 
 	{
 		"title": {
@@ -19,11 +21,17 @@ var announcements = [
 	},
 	
 	
+	
+	
+	
 {
 		"title": {
 			"link":"https://drive.google.com/file/d/0BzQ7UrLEe2dARno2Mklhem9wVEJEYTk5WTVKU3BBRzdncjVV/view?usp=sharing",
 			"text":"Click this link to learn about Commissioner's roles and responsibilities!"
+		},
 	},
+	
+	
 	
 
 {
