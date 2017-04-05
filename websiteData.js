@@ -73,6 +73,8 @@ var upcomingEvents = [
 
 {"img":"http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_491000/ff_491925_xl.jpg&w=340","title":"Sports day will be on ","info":"Make sure to participate to win HR Points!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+	{"img":"http://ritterlumber.net/wp-content/uploads/2015/05/mulching.jpg","title":"Tree Maintenance will be on Wednesday April 19","info":"Come out to help the environment and get free food!"},
+
 
 
 
