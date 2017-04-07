@@ -15,8 +15,8 @@ var announcements = [
 
 	{
 		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSevaMoEA-GIuuj8-rcy-H051FXQG4RBLfEd0KjWGT3-37Sjeg/viewform?c=0&w=1",
-			"text":"Click here to fill out the arm socks form!"
+			"link":"https://docs.google.com/forms/d/10GdRP_IB2FjYxcpEcbbfITgoqXo_n-Qa9u8c-CQAj1Y/viewform?edit_requested=true",
+			"text":"Click here to sign up for Tree Maintenance!"
 		},
 	},
 	
