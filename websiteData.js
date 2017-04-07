@@ -20,26 +20,7 @@ var announcements = [
 		},
 	},
 	
-	
-	
-	
-	
-{
-		"title": {
-			"link":"https://drive.google.com/file/d/0BzQ7UrLEe2dARno2Mklhem9wVEJEYTk5WTVKU3BBRzdncjVV/view?usp=sharing",
-			"text":"Click this link to learn about Commissioner's roles and responsibilities!"
-		},
-	},
-	
-	
-	
 
-{
-		"title": {
-			"link":"https://docs.google.com/document/d/129xWxw6c57daWCyW-tYNnAvwyuSbksx0qmxTtXVPJ7I/edit?usp=sharing",
-			"text":"Click this link to get the application for Miller Leadership!"
-		},
-	},
 	
 			
 /*	{
@@ -71,7 +52,7 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 
-{"img":"http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_491000/ff_491925_xl.jpg&w=340","title":"Sports day will be on ","info":"Make sure to participate to win HR Points!"},
+{"img":"http://vignette2.wikia.nocookie.net/andromeda/images/2/2e/Earth-0.jpg/revision/latest?cb=20160325105941","title":"Earth (green and blue) day will be on April 21!","info":"Make sure to participate to win HR Points!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 	{"img":"http://ritterlumber.net/wp-content/uploads/2015/05/mulching.jpg","title":"Tree Maintenance will be on Wednesday April 19","info":"Come out to help the environment and get free food!"},
 
