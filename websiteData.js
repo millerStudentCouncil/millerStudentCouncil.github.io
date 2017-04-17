@@ -28,7 +28,13 @@ var announcements = [
 		},
 	},
 	
-			
+	
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdJDO53mB0h_av3H5PnN_qJ0aeGWdlDT-55Xmr4_zSG6KIhpg/viewform?c=0&w=1",
+			"text":"Click here to sign up for Miller's Got Talent!!"
+		},
+	},
 /*	{
 		"title": {
 			"link":"#spiritday",
