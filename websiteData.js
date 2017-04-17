@@ -21,6 +21,12 @@ var announcements = [
 	},
 	
 
+	{
+		"title": {
+			"link":"#danceLikeNobodyIsWatching",
+			"text":"Click here to learn about the Neverland Dance on April 21!"
+		},
+	},
 	
 			
 /*	{
