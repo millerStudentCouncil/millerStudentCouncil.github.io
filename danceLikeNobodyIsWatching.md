@@ -1,15 +1,15 @@
 #Dances
-##The Fancy Dance will be on Friday March 24 (Friday right before Yosemite) from 6-9:30 PM
-##The start of the dance will happen in the MP room w/ foot then you will move to the GYM for dancing and photos
-##Meal/Admission Sales are from Feb 28-March 10 for $20
-###Deatails:
->####Mystery theme
->####3 Course Meal
->####Semi-Formal Attire
->####Photo Booth
->####Fresh Beats w/ Dj
+##The Neverland Dance will be on April 24!
+##Bring $5 and your ID card for admission and make sure to bring more for food!
+##There will be:
+>##Wingstop chicken wings
+>##Beard Papa’s cream puffs
+>##CREAM ice cream sandwiches
+>##Happy Lemon PMT
 
-##*This is a once in a lifetime oppourtunity that you would not want to miss*
+##All proceeds will go to Free THe Children!
+
+
 
 
 
