@@ -1,7 +1,7 @@
 <br/>
 #Homeroom Competitions
 #The Egg Drop HR Competition has been postponed until further notice.
-##Each homeroom will be given the chance to drop one egg. On Friday, TBD, we will drop eggs that are entered to us by each homeroom during brunch the day of on the top of the gym room(Mrs. Orcutt will drop the eggs)
+##Each homeroom will be given the chance to drop one egg. On Friday, TBD, we will drop eggs that are entered to us by each homeroom during lunch the day of on the top of the gym room(Mrs. Orcutt will drop the eggs)
 
 ##What Qualifies:
 ###Egg is RAW.
