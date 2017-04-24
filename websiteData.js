@@ -13,20 +13,6 @@ var announcements = [
 	
 	
 
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/10GdRP_IB2FjYxcpEcbbfITgoqXo_n-Qa9u8c-CQAj1Y/viewform?edit_requested=true",
-			"text":"Click here to sign up for Tree Maintenance!"
-		},
-	},
-	
-
-	{
-		"title": {
-			"link":"#danceLikeNobodyIsWatching",
-			"text":"Click here to learn about the Neverland Dance on April 21!"
-		},
-	},
 	
 	
 	{
