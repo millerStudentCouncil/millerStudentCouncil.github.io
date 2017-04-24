@@ -1,6 +1,7 @@
 <br/>
 #Homeroom Competitions
-##The Egg Drop HR Competition will be on April 28th!
+##The Egg Drop HR Competition has been postponed until further notice.
+##Stay tuned for more information!
 
 
 
