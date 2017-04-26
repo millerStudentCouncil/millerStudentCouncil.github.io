@@ -10,6 +10,12 @@ var announcements = [
 	
 	
 	
+{
+		"title": {
+			"link":"#spiritDay",
+			"text":"Click here to learn about Miller Spirit Day!"
+		},
+	},	
 	
 	
 
