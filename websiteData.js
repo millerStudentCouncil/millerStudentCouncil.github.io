@@ -18,7 +18,14 @@ var announcements = [
 	},	
 	
 	
-
+	
+{
+		"title": {
+			"link":"#hrComps",
+			"text":"Click here to learn about the Egg Drop!"
+		},
+	},	
+	
 	
 	
 	{
