@@ -1,7 +1,7 @@
 <br/>
 #Homeroom Competitions
-#The Egg Drop HR Competition has been postponed until further notice.
-##Each homeroom will be given the chance to drop one egg. On Friday, TBD, we will drop eggs that are entered to us by each homeroom during lunch the day of on the top of the gym room(Mrs. Orcutt will drop the eggs)
+#The Egg Drop HR Competition will be on May 5.
+##Each homeroom will be given the chance to drop one egg. On Friday, May 5, we will drop eggs that are entered to us by each homeroom during lunch the day of on the top of the gym room(Mrs. Orcutt will drop the eggs)
 
 ##What Qualifies:
 ###Egg is RAW.
@@ -10,7 +10,7 @@
 
 ##What Doesn’t Count:
 ###Egg CANNOT be hardboiled and CANNOT be a toy or be fake.
-###Not a chicken egg s
+###Not a chicken egg
 ###Contraption does not fit in a gallon sized bag.
 
 
