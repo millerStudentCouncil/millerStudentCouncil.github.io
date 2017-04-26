@@ -1,13 +1,5 @@
 #Dances
-##The Neverland Dance will be on April 24!
-##Bring $5 and your ID card for admission and make sure to bring more for food!
-##There will be:
->##Wingstop chicken wings
->##Beard Papa’s cream puffs
->##CREAM ice cream sandwiches
->##Happy Lemon PMT
-
-##All proceeds will go to Free THe Children!
+##Coming Soon!
 
 
 
