@@ -4,3 +4,4 @@
 <tinyurl.com/milleroscars2017 >
 ###You can make a movie in each of the following 5 categories: Comedy, Drama, Trailer, Commercial, or Music Video
 ##Movies will be due on May 19 an the viewing date for the movies will be on May 26 from 3:30-5PM.
+###Movies cannot be more than 10 minutes long and should not be under 1 minute long
