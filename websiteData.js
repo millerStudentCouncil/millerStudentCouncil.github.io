@@ -56,9 +56,8 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 
-{"img":"http://vignette2.wikia.nocookie.net/andromeda/images/2/2e/Earth-0.jpg/revision/latest?cb=20160325105941","title":"Earth (green and blue) day will be on April 21!","info":"Make sure to participate to win HR Points!"},
+{"img":"http://www.clipartkid.com/images/431/class-tuesday-november-13-2012-mhs-web-design-L9CBx6-clipart.jpg","title":"Miller Spirit Day will be on May 5!","info":"Make sure to participate to win HR Points!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
-	{"img":"http://ritterlumber.net/wp-content/uploads/2015/05/mulching.jpg","title":"Tree Maintenance will be on Wednesday April 19","info":"Come out to help the environment and get free food!"},
 
 
 
