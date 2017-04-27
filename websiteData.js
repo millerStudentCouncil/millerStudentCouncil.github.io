@@ -8,7 +8,12 @@ var announcements = [
 		},
 	},
 	
-	
+{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeRZHhn4QQQajX1zz1zuPyZqcSej4xtGoYTFqHz-8tv4tAL_A/viewform?usp=sf_link#responses",
+			"text":"Click here to sign up for Miller Oscars!"
+		},
+	},
 	
 {
 		"title": {
