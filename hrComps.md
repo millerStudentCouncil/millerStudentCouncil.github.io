@@ -1,18 +1,8 @@
 <br/>
 #Homeroom Competitions
-#The Egg Drop HR Competition will be on May 5.
-##Each homeroom will be given the chance to drop one egg. On Friday, May 5, we will drop eggs that are entered to us by each homeroom during lunch the day of on the top of the gym room(Mrs. Orcutt will drop the eggs)
-
-##What Qualifies:
-###Egg is RAW.
-###Must be a chicken egg
-###Contraption MUST BE ABLE to fit in a gallon sized bag. It can be smaller or just the right size, but nothing larger.
-
-##What Doesn’t Count:
-###Egg CANNOT be hardboiled and CANNOT be a toy or be fake.
-###Not a chicken egg
-###Contraption does not fit in a gallon sized bag.
-
+#The Water Balloon Toss teacher HR Competition will be on May 19.
+##It will be on the blacktop behing the locker rooms.
+##This is the last HR competition of the year so come out to support your teachers!
 
 
 <!--##Teacher Sing Off Homeroom Competition
