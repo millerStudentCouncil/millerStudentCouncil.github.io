@@ -7,6 +7,13 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
+
+{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdw0Xu5P900_gPyGkb3zdwcvaANPF8nfwSIqnUW8B9QBnBdrA/viewform",
+			"text":"Click here to fill out the Tech Talk Homeroom Interest Form!"
+		},
+	},
 	
 	
 {
