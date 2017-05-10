@@ -65,6 +65,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+	{"img":"https://tr1.cbsistatic.com/hub/i/2015/12/18/43d46a9c-9d73-4029-87a9-f3c776461dcb/ibm-watson-121815.jpg","title":"The 2nd Tech Talk will be on Wednesday May 17 from 3:20-4:35!","info":"The Chief Technical Officer at IBM will be talking about artificial intelligence."},
 
 	{"img":"http://99fungames.com/wp-content/uploads/2014/06/pass-water-balloon.jpg","title":"The Water Balloon Toss Teacher HR Competition will be on May 19!","info":"Come out to support your teachers for the last HR Competition of the year"},
 	{"img":"https://s-media-cache-ak0.pinimg.com/originals/6c/82/37/6c8237dace614fb18998e18aec870837.jpg","title":"Rainbow Spirit Day will be on May 26!","info":"Make sure to participate in the last spirit day of the year!"},
