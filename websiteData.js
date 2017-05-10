@@ -8,28 +8,6 @@ var announcements = [
 		},
 	},
 	
-{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeRZHhn4QQQajX1zz1zuPyZqcSej4xtGoYTFqHz-8tv4tAL_A/viewform?usp=sf_link#responses",
-			"text":"Click here to sign up for Miller Oscars!"
-		},
-	},
-	
-{
-		"title": {
-			"link":"#spiritDay",
-			"text":"Click here to learn about Miller Spirit Day!"
-		},
-	},	
-	
-	
-	
-{
-		"title": {
-			"link":"#hrComps",
-			"text":"Click here to learn about the Egg Drop!"
-		},
-	},	
 	
 {
 		"title": {
@@ -68,10 +46,8 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 
-{"img":"http://www.clipartkid.com/images/431/class-tuesday-november-13-2012-mhs-web-design-L9CBx6-clipart.jpg","title":"Miller Spirit Day will be on May 5!","info":"Make sure to participate to win HR Points!"},
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 	
-	{"img":"https://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/images/oscars-1488147067.jpg","title":"Sign up for Miller Oscars by May 5!","info":"The movie viewing date will be on May 26"},
 
 
 
