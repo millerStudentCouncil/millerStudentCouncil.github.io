@@ -1,13 +1,8 @@
-##Green Week
-##Green Week will be from April 17-April 21
-###It is a week for green awareness and Earth Spirit Day and Tree Maintenance will be inclued in the week.
-
 ##<bold>Tree Maintenance</bold>
-###On Wednesday, April 19
-###During Green Week
+###On Wednesday, May 24
 ###From 3:15 - 4:30 pm
 ###Mulching and caring for the trees around the track.
 ###Pizza provided after end of event
 ##Below is the link to sign up for Tree Maintencance:
-<https://docs.google.com/forms/d/10GdRP_IB2FjYxcpEcbbfITgoqXo_n-Qa9u8c-CQAj1Y/viewform?edit_requested=true>
+<https://docs.google.com/forms/d/e/1FAIpQLSdX3LGsu1LF1lI7LemksdLxcNaaecutfseXCopDyDcxHvrLjQ/viewform>
 
