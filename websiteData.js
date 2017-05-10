@@ -15,7 +15,15 @@ var announcements = [
 			"text":"Click here to buy flowers and leis for 8th grade graduation!"
 		},
 	},		
+
+{
+		"title": {
+			"link":"#hrComps",
+			"text":"Click here to learn about the water balloon toss teacher homeroom competition on May 19!"
+		},
+	},
 	
+
 	
 /*	{
 		"title": {
@@ -45,6 +53,8 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
+
+	{"img":"http://99fungames.com/wp-content/uploads/2014/06/pass-water-balloon.jpg","title":"The Water Balloon Toss Teacher HR Competition will be on May 19!","info":"Come out to support your teachers for the last HR Competition of the year"},
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 	
