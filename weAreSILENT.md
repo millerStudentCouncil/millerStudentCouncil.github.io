@@ -10,6 +10,6 @@
   
   <a href="https://docs.google.com/document/d/1gJkQJTPeU0zRIRKzV_zXIdtm8GDtnagqKM5qQFfE1vg/edit?usp=sharing">Click here to learn more about the event!</a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6E1oo20VgsZhD6p0x45jsYhE-vd1Gwq1rsUBZ5OWNiaMpKA/viewform">Click here to get to the We Are SIlent Participation form!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6E1oo20VgsZhD6p0x45jsYhE-vd1Gwq1rsUBZ5OWNiaMpKA/viewform">Click here to get to the We Are Silent participation form!</a>
 
 
