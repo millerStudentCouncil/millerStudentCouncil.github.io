@@ -4,5 +4,5 @@
 ###Mulching and caring for the trees around the track.
 ###Jamba Juice provided after end of event
 ##Below is the link to sign up for Tree Maintencance:
-<https://docs.google.com/forms/d/e/1FAIpQLSdX3LGsu1LF1lI7LemksdLxcNaaecutfseXCopDyDcxHvrLjQ/viewform>
+<https://docs.google.com/forms/d/e/1FAIpQLSczJpn0cjQ52G7yMyCDaiYCZnBx7qqCBuIT7yE1wnGxYXIXMg/viewform?c=0&w=1>
 
