@@ -8,7 +8,7 @@
 ##Students have until May 22, 2017 to turn the form into the office. Any forms turned in after the 22nd will not be picked up and considered as an on-time form. 
   
   
-  <a href="https://docs.google.com/document/d/1gJkQJTPeU0zRIRKzV_zXIdtm8GDtnagqKM5qQFfE1vg/edit?usp=sharing">CClick here to learn more about the event!</a>
+  <a href="https://docs.google.com/document/d/1gJkQJTPeU0zRIRKzV_zXIdtm8GDtnagqKM5qQFfE1vg/edit?usp=sharing">Click here to learn more about the event!</a>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6E1oo20VgsZhD6p0x45jsYhE-vd1Gwq1rsUBZ5OWNiaMpKA/viewform">Click here to get to the We Are SIlent Participation form!</a>
 
