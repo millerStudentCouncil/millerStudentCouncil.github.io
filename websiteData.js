@@ -33,12 +33,7 @@ var announcements = [
 	},
 	
 
-{
-		"title": {
-			"link":"#hrComps",
-			"text":"Click here to learn about the water balloon toss teacher homeroom competition on May 19!"
-		},
-	},
+
 	
 {
 		"title": {
