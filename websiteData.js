@@ -42,12 +42,7 @@ var announcements = [
 		},
 	},
 	
-{
-		"title": {
-			"link":"#techtalks",
-			"text":"Click here to see the links that Priya V mentioned in her tech talk!"
-		},
-	},
+
 /*	{
 		"title": {
 			"link":"#spiritday",
