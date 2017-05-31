@@ -56,7 +56,6 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://s-media-cache-ak0.pinimg.com/originals/6c/82/37/6c8237dace614fb18998e18aec870837.jpg","title":"Rainbow Spirit Day will be on May 26!","info":"Make sure to participate in the last spirit day of the year!"},
 
 	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 	
