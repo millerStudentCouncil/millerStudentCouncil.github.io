@@ -25,22 +25,7 @@ var announcements = [
 	},	
 	
 
-{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdX3LGsu1LF1lI7LemksdLxcNaaecutfseXCopDyDcxHvrLjQ/viewform",
-			"text":"Click here to fill out the tree maintenance volunteer form!"
-		},
-	},
-	
 
-
-	
-{
-		"title": {
-			"link":"#spiritday",
-			"text":"Click here to learn about Rainbow Spirit Day on May 26!"
-		},
-	},
 	
 
 /*	{
