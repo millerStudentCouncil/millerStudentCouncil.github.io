@@ -1,8 +1,6 @@
 <br/>
 #Homeroom Competitions
-#The Water Balloon Toss teacher HR Competition will be on May 19.
-##It will be on the blacktop behing the locker rooms.
-##This is the last HR competition of the year so come out to support your teachers!
+#Coming Soon!
 
 
 <!--##Teacher Sing Off Homeroom Competition
