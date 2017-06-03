@@ -1,6 +1,6 @@
 <br/>
 #Homeroom Competitions
-#Coming Soon!
+##Coming Soon!
 
 
 <!--##Teacher Sing Off Homeroom Competition
