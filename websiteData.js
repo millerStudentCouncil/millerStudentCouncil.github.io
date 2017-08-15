@@ -72,8 +72,8 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://theplanets.org/wp-content/uploads/2014/09/milky-way.jpg","title":"Come to the Galaxy Dance!","info":"This Friday from 7 to 9:30 PM"},
-	{"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Admission is free, and there will be refreshments available for purchase as well as fun carnival games. See you there!"},
+	{"img":"https://theplanets.org/wp-content/uploads/2014/09/milky-way.jpg","title":"Come to the Galaxy Dance!","info":"Why did the cow go to space? To visit the Milky Way! Go to the Galaxy Dance this Friday from 7 to 9:30 PM!"},
+	{"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There may not be chocolate, but there will be various other refreshments for sale in the back to school bash on September 14 from 5 to 7! Attendance is free and there will be fun carnival games!"},
 	
 	
 	
