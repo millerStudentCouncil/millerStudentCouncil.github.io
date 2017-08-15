@@ -10,7 +10,15 @@ var announcements = [
 	
 	{
 		"title": {
+			"link":"", //No Link, just an announcement
 			"text":"Make sure to come to the Galaxy Dance on Friday, 7 - 9:30 PM!"
+		},
+	},
+	
+	{
+		"title": {
+			"link":"", //No Link, just an announcement
+			"text":"Come to the Back to School Bash on Thursday, September 14."
 		},
 	},
 
@@ -65,7 +73,7 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"https://theplanets.org/wp-content/uploads/2014/09/milky-way.jpg","title":"Come to the Galaxy Dance!","info":"This Friday from 7 to 9:30 PM"},
-	
+	{"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Admission is free, and there will be refreshments available for purchase as well as fun carnival games. See you there!"},
 	
 	
 	
