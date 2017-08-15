@@ -7,6 +7,12 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
+	
+	{
+		"title": {
+			"text":"Make sure to come to the Galaxy Dance on Friday, 7 - 9:30 PM!"
+		},
+	},
 
 
 /*		"title": {
@@ -16,14 +22,16 @@ var announcements = [
 		},
 	},
 	
-*/	
+*/
+	
+/*
 {
 		"title": {
 			"link":"https://kahunaflowers.com/index.php/school/joaquin-miller-m-s.html?mode=list",
 			"text":"Click here to buy flowers and leis for 8th grade graduation!"
 		},
 	},	
-	
+*/
 
 
 	
@@ -56,17 +64,18 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-
-	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+	{"img":"https://theplanets.org/wp-content/uploads/2014/09/milky-way.jpg","title":"Come to the Galaxy Dance!","info":"This Friday from 7 to 9:30 PM"},
 	
-
-
-
-
-
-
-
-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
 //	{"img":"http://files.hgsitebuilder.com/hostgator705321/image/graduation-leis.jpg","title":"Purchase your flowers for graduation now!","info":"Visit kahunaflowers.com, choose Joaquin Miller M.S. as your school, and buy away!"},
