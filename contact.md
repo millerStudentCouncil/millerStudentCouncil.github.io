@@ -2,27 +2,27 @@
 <!--ask Maxwell for emails-->
 # Contact Us
 
-#### President (Michael Zhao): <president.millersc@gmail.com>
+#### President (Tim Jing): <president.millersc@gmail.com>
 
-#### Vice President (Antara Mallick): <vp.millersc@gmail.com>
+#### Vice President (Michael Ma): <vp.millersc@gmail.com>
 
-#### Secretary (Cassie Yu): <secretary.millersc@gmail.com>
+#### Secretary (Jeanie Chan): <secretary.millersc@gmail.com>
 
-#### Treasurer (Michael Yuan): <treasurer.millersc@gmail.com>
+#### Treasurer (Katherine Cui): <treasurer.millersc@gmail.com>
 
-#### Social Dances (Joyce Feng): <social.millersc@gmail.com>
+#### Social Dances (Anton Ouyang): <social.millersc@gmail.com>
 
-#### Green (Shreedevi Rao): <green.millersc@gmail.com>
+#### Green (Tanush Goel): <green.millersc@gmail.com>
 
-#### Public Relations (Naman Singhal): <pr.millersc@gmail.com>
+#### Public Relations (Joe Lin): <pr.millersc@gmail.com>
 
-#### Charity (Anika Chinthakunta): <charity.millersc@gmail.com>
+#### Charity (Ria Phelan): <charity.millersc@gmail.com>
 
-#### Tech (Arjun Gupta): <tech.millersc@gmail.com>
+#### Tech (William Huang): <tech.millersc@gmail.com>
 
-#### SSC8 (Kanav Tirumala): <ssc8.millersc@gmail.com>
+#### SSC8 (Kevin Li): <ssc8.millersc@gmail.com>
 
-#### SSC7 (Tim Jing): <ssc7.millersc@gmail.com> 
+#### SSC7 (Brian Ling): <ssc7.millersc@gmail.com> 
 <br>
 #### Follow us on social media at:
 >##### Instagram: miller\_sc\_
