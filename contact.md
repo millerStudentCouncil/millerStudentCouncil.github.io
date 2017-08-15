@@ -12,6 +12,8 @@
 
 #### Social Dances (Anton Ouyang): <social.millersc@gmail.com>
 
+#### Homeroom (Shailesh Senthil Kumar): <homeroom.millersc@gmail.com>
+
 #### Green (Tanush Goel): <green.millersc@gmail.com>
 
 #### Public Relations (Joe Lin): <pr.millersc@gmail.com>
