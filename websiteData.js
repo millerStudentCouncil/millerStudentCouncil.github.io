@@ -7,14 +7,14 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
-	
+/*
 	{
 		"title": {
 			"link":"", //No Link, just an announcement
 			"text":"Make sure to come to the Galaxy Dance on Friday, 7 - 9:30 PM!"
 		},
 	},
-	
+*/
 	{
 		"title": {
 			"link":"", //No Link, just an announcement
