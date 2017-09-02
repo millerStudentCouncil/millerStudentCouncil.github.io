@@ -21,6 +21,14 @@ var announcements = [
 			"text":"Come to the Back to School Bash on Thursday, September 14."
 		},
 	},
+	
+	{
+		"title": {
+			"link":"", //No Link, just an announcement
+			"text":"Student Council Meeting on Wednesday, September 6th at 8:20 AM."
+		},
+	},
+
 
 
 /*		"title": {
@@ -73,6 +81,7 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
+	{"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the first full student council meeting on Wednesday, September 6th at 8:20 AM."},
 	
 	
 	
