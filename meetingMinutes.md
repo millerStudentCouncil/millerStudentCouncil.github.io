@@ -8,7 +8,7 @@
 
 
 
-<h3>- <a href = "" target="_blank">September 6 Full Meeting</a></li></h3>
+<h3>- <a href="./meetingMinutes/17.09.06FullStudentCouncilMeetingMinutes.pdf" target="_blank">September 6 Full Meeting</a></li></h3>
 
 
 
