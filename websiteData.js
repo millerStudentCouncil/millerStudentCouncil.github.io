@@ -7,6 +7,19 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
+	
+	{
+		"title": {
+			"link":"", //No Link, just an announcement
+			"text":"Walk or Bike to School Day is on Wednesday, October 4th"
+		},
+	},
+	{
+		"title": {
+			"link":"", //No Link, just an announcement
+			"text":"Don't forget to come to the Student Store, which opens on September 26th"
+		},
+	},
 /*
 	{
 		"title": {
