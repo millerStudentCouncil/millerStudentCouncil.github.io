@@ -10,8 +10,8 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"", //No Link, just an announcement
-			"text":"Walk or Bike to School Day is on Wednesday, October 4th"
+			"link":"#walkorbike",
+			"text":"Learn More About Walk or Bike to School Day (Wednesday, October 4th)"
 		},
 	},
 	{
