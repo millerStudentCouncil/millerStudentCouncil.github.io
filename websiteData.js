@@ -94,12 +94,13 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	
+	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 4th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
+//	{"img":"","title":"","info":""}, //TEMPLATE
 	
 	
 //      {"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
 //      {"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the first full student council meeting on Wednesday, September 6th at 8:20 AM."},	
-	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+//	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
 //	{"img":"http://files.hgsitebuilder.com/hostgator705321/image/graduation-leis.jpg","title":"Purchase your flowers for graduation now!","info":"Visit kahunaflowers.com, choose Joaquin Miller M.S. as your school, and buy away!"},
