@@ -1,4 +1,4 @@
-#Walk Or Bike To School Day is October 4th!
+#Walk Or Bike To School Day is October 11th!
 
 ###Rules:
 >### - If you happen to live far away, you may have your parents/driver/guardian etc. drop you at one of the following four locations nearest to you; The intersection of Johnson and Prospect, Johnson and Bollinger, Safeway, or Calabazas Park/Fire Station. 
