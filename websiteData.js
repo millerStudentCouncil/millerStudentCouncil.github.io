@@ -94,7 +94,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 4th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
+	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
 //	{"img":"","title":"","info":""}, //TEMPLATE
 	
 	
