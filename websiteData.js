@@ -16,10 +16,16 @@ var announcements = [
 	},
 	{
 		"title": {
+			"link":"#rainbowSpiritWeek",
+			"text":"Show your spirit in the Rainbow Spirit Week starting October 9th!"
+		},
+	},
+/*{
+		"title": {
 			"link":"", //No Link, just an announcement
 			"text":"Don't forget to come to the Student Store, which opens on September 26th"
 		},
-	},
+	},*/
 /*
 	{
 		"title": {
@@ -95,6 +101,7 @@ var announcements = [
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
+	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
 	
 	
