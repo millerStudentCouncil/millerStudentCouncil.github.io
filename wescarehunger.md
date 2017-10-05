@@ -1,3 +1,17 @@
+## WE SCARE HUNGER
+<img src="https://cdn.we.org/wp-content/uploads/2016/08/WSH.jpg" alt="We Scare Hunger">
+
+#### When: Starting October 23rd
+#### Goal: 2500 items
+#### Collection Dates: October 27th, November 3rd, November 8th
+#### If you are the highest donating homeroom you can win either a pizza, doughnut, or cookie party. 
+#### There is also a homeroom goal of 65 items. If you reach this goal your homeroom will also be rewarded. 
+#### We look forward to your participation this year. 
+
+
+
+
+<!--
 <br/>
 ### The Final Standings For We Scare Hunger are Below!.
 <br/>
@@ -7,7 +21,7 @@
 <br/>
 ####6th Grade has collected the most items and will recieve a mile club lap!
 >####The total collection number is 1007 cans!
-####Great job Mustangs!
+####Great job Mustangs!-->
 
 
 
