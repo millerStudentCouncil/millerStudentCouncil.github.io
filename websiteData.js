@@ -16,7 +16,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"#rainbowSpiritWeek",
+			"link":"rainbowSpiritWeek.html",
 			"text":"Show your spirit in the Rainbow Spirit Week starting October 9th!"
 		},
 	},
