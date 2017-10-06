@@ -6,7 +6,11 @@
 #### Students must either have 50% (anything lower is your call, please be fair) of their clothing the color or 2 accessories (they can buy from the student store if they don't have anything). For Friday, they must have 3 out of the 5 colors to count.
 
 ### **COLORS**
-#### Monday: Red, Tuesday: Yellow, Wednesday: Green, Thursday: Blue, Friday: RAINBOW
+<h4 style="color:red">Monday: Red</h4>
+<h4 style="color:yellow">Tuesday: Yellow</h4>
+<h4 style="color:green">Wednesday: Green</h4>
+<h4 style="color:blue">Thursday: Blue</h4>
+<h4>Friday: RAINBOW</h4>
 
 ### **COMPETITIONS**
 #### Teacher Comp (TUESDAY)
