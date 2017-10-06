@@ -26,8 +26,8 @@
 
 
 
-
-<!--# We Are Silentasdfasdfasdf
+<!--
+# We Are Silentasdfasdfasdf
 
 <h4 style="color:yellow">When: Thursday, April 23rd</h4>
 ####What: An event where students pledge to stay silent to stand up for children around the world that are being denied their basic rights
