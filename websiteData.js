@@ -16,7 +16,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"./rainbowSpiritWeek.html",
+			"link":"millersc.org/rainbowSpiritWeek.html",
 			"text":"Show your spirit in the Rainbow Spirit Week starting October 9th!"
 		},
 	},
