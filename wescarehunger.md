@@ -1,3 +1,4 @@
+###
 ## WE SCARE HUNGER
 <img src="https://cdn.we.org/wp-content/uploads/2016/08/WSH.jpg" alt="We Scare Hunger">
 
@@ -7,6 +8,11 @@
 #### If you are the highest donating homeroom you can win either a pizza, doughnut, or cookie party. 
 #### There is also a homeroom goal of 65 items. If you reach this goal your homeroom will also be rewarded. 
 #### We look forward to your participation this year. 
+
+#### The annual WSH (WE Scare Hunger) will only be having 2 collection dates this year. 
+## Our first collection date is now Nov. 3rd. 
+### You may start collecting cans in your homeroom but the bags will be distributed on the 27th of October. 
+## Be sure to get your homeroom hyped about WSH. The more excited they are about this local charity, the more cans we can collect to go towards our local food bank.
 
 
 
