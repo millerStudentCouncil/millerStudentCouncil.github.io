@@ -15,7 +15,7 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"millersc.org/calendar.html",
+			"link":"#calendar",
 			"text":"Don't forget to come to the full student council meeting on Wednesday, November 8th. NOTE: It has been moved from the 1st to the 8th."
 		},
 	},
