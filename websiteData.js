@@ -7,19 +7,25 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
-	
 	{
+		"title": {
+			"link":"#wescarehunger",
+			"text":"Learn more about how you can help by donating to WE scare hunger!"
+		},
+	},
+	
+/*	{
 		"title": {
 			"link":"#walkorbike",
 			"text":"Learn More About Walk or Bike to School Day (Wednesday, October 11th)"
 		},
-	},
-	{
+	},*/
+	/*{
 		"title": {
 			"link":"millersc.org/rainbowSpiritWeek.html",
 			"text":"Show your spirit in the Rainbow Spirit Week starting October 9th!"
 		},
-	},
+	},*/
 /*{
 		"title": {
 			"link":"", //No Link, just an announcement
@@ -100,12 +106,11 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
-	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},
 	{"img":"https://i.ytimg.com/vi/TySrpYqNzFE/maxresdefault.jpg","title":"We Scare Hunger","info":"Donate to those in need with WE SCARE HUNGER. For more information, check the events tab and click 'We Scare Hunger.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
 	
-	
+//	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
+//	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},	
 //      {"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
 //      {"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the first full student council meeting on Wednesday, September 6th at 8:20 AM."},	
 //	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
