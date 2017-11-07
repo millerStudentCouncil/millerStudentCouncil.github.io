@@ -2,17 +2,24 @@
 ## WE SCARE HUNGER
 <img src="https://cdn.we.org/wp-content/uploads/2016/08/WSH.jpg" alt="We Scare Hunger">
 
+
+## NEW collection dates:
+### Friday 11/3
+### Wednesday 11/8
+### Wednesday 11/15
+### **Please ask your homeroom teachers to leave the bag outside the door during 4th period on each of the collection dates. Please leave a note with the number of items collected in the bag by each collection date.
+
 #### When: Starting October 23rd
 #### Goal: 2500 items
-#### Collection Dates: October 27th, November 3rd, November 8th
 #### If you are the highest donating homeroom you can win either a pizza, doughnut, or cookie party. 
 #### There is also a homeroom goal of 65 items. If you reach this goal your homeroom will also be rewarded. 
 #### We look forward to your participation this year. 
 
-#### The annual WSH (WE Scare Hunger) will only be having 2 collection dates this year. 
-## Our first collection date is now Nov. 3rd. 
-### You may start collecting cans in your homeroom but the bags will be distributed on the 27th of October. 
 ## Be sure to get your homeroom hyped about WSH. The more excited they are about this local charity, the more cans we can collect to go towards our local food bank.
+
+## A reminder about prizes!
+### - If your homeroom collects 65 items, you get pixie sticks!
+### - The top 3 homerooms that collects the MOST items gets a party!
 
 
 
