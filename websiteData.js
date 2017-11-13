@@ -13,12 +13,12 @@ var announcements = [
 			"text":"Learn more about how you can help by donating to WE scare hunger!"
 		},
 	},
-	{
+/*	{
 		"title": {
 			"link":"#calendar",
 			"text":"Don't forget to come to the full student council meeting on Wednesday, November 8th. NOTE: It has been moved from the 1st to the 8th."
 		},
-	},
+	},*/
 	
 /*	{
 		"title": {
@@ -118,7 +118,7 @@ var upcomingEvents = [
 //	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
 //	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},	
 //      {"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
-      	{"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the student council meeting!", "info":"This meeting is on Wednesday, November 8th at 8:20 AM. NOTE: IT WAS PREVIOUSLY ON NOVEMBER 1ST AND IS NOW NOVEMBER 8TH!"},	
+//      {"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the student council meeting!", "info":"This meeting is on Wednesday, November 8th at 8:20 AM. NOTE: IT WAS PREVIOUSLY ON NOVEMBER 1ST AND IS NOW NOVEMBER 8TH!"},	
 //	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
