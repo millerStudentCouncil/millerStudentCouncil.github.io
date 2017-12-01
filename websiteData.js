@@ -7,6 +7,12 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
+	{
+		"title":{
+			"link":"#wackyTackySpiritWeek",
+			"text":"Learn more about the upcoming spirit week!"
+		},
+	},
 
 /*	{
 		"title": {
