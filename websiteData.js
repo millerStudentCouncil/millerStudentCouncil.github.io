@@ -13,6 +13,12 @@ var announcements = [
 			"text":"Learn more about the upcoming spirit week!"
 		},
 	},
+	{
+		"title":{
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSfS_Lilp_KkqxuUgQLbogoqtJWMw-6Ls2GWxNn6Qn16lVAbhw/viewform",
+			"text":"Remember to update the form for Crazy Socks!"
+		},
+	},
 
 /*	{
 		"title": {
