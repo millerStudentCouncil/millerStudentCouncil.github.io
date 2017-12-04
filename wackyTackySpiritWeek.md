@@ -1,4 +1,4 @@
-## 
+##     
 # WACKY TACKY SPIRIT WEEK
 ## Note: FILL OUT SEPARATE FORMS FOR EACH DAY!!!
 ### Monday: Crazy Socks
