@@ -119,7 +119,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://images-na.ssl-images-amazon.com/images/I/51L5hWf0WgL._SL500_.jpg","info":"Remember to update the Crazy Socks form for today!"},
+	{"img":"https://images-na.ssl-images-amazon.com/images/I/51L5hWf0WgL._SL500_.jpg","title":"Wacky Tacky Spirit Week","info":"Remember to update the Crazy Socks form for today!"},
 	
 //	{"img":"https://i.ytimg.com/vi/TySrpYqNzFE/maxresdefault.jpg","title":"We Scare Hunger","info":"Donate to those in need with WE SCARE HUNGER. For more information, check the events tab and click 'We Scare Hunger.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
