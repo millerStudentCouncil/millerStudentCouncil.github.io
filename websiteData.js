@@ -15,8 +15,8 @@ var announcements = [
 	},
 	{
 		"title":{
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSfS_Lilp_KkqxuUgQLbogoqtJWMw-6Ls2GWxNn6Qn16lVAbhw/viewform",
-			"text":"Remember to update the form for Crazy Socks!"
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSfJc02vR67mfdgbh-PqUwbNeavkt8SvgM-kFgrSz67c4t2I7Q/viewform",
+			"text":"Remember to update the form for Polka Dots vs Stripes!"
 		},
 	},
 
@@ -119,7 +119,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"https://images-na.ssl-images-amazon.com/images/I/51L5hWf0WgL._SL500_.jpg","title":"Wacky Tacky Spirit Week","info":"Remember to update the Crazy Socks form for today!"},
+	{"img":"https://i.pinimg.com/originals/89/c9/26/89c926d50193fbb121950d3740b41e26.jpg","title":"Wacky Tacky Spirit Week","info":"Remember to update the Polka Dots vs Stripes form for today!"},
 	
 //	{"img":"https://i.ytimg.com/vi/TySrpYqNzFE/maxresdefault.jpg","title":"We Scare Hunger","info":"Donate to those in need with WE SCARE HUNGER. For more information, check the events tab and click 'We Scare Hunger.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
