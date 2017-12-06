@@ -5,11 +5,11 @@
 <!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_Lilp_KkqxuUgQLbogoqtJWMw-6Ls2GWxNn6Qn16lVAbhw/viewform">click here to go to the form</a>-->
 
 ### Tuesday: Polka Dots vs. Stripes
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJc02vR67mfdgbh-PqUwbNeavkt8SvgM-kFgrSz67c4t2I7Q/viewform">click here to go to the form</a>
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJc02vR67mfdgbh-PqUwbNeavkt8SvgM-kFgrSz67c4t2I7Q/viewform">click here to go to the form</a> -->
 ### Teacher Comp: HUMAN FOOSBALL
 
 ### Wednesday: Pajama Day
-<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4YRbrm_4rNpGh8B6aJM1AF_c2e0qWq7mKEMYwoCgbi5gyNg/viewform">click here to go to the form</a> -->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe4YRbrm_4rNpGh8B6aJM1AF_c2e0qWq7mKEMYwoCgbi5gyNg/viewform">click here to go to the form</a>
 
 ### Thursday: Crazy Hair Day
 <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSecuG-TxbuCLmaZX7nuCx1TxCiK0R7YFYFA-kAlzxCS3LzMKw/viewform">click here to go to the form</a> -->
