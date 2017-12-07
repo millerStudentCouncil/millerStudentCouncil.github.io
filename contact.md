@@ -1,7 +1,6 @@
 <br />
 # Contact Us
 
-### THE EMAILS HAVE CHANGED!
 ### If you cannot email us, try using your cusdk8 account.
 
 #### President (Tim Jing): <miller.sc.president@cusdk8.org>
