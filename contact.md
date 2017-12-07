@@ -1,30 +1,32 @@
 <br />
-<!--ask Maxwell for emails-->
 # Contact Us
 
-#### President (Tim Jing): <president.millersc@gmail.com>
+### THE EMAILS HAVE CHANGED!
+### If you cannot email us, try using your cusdk8 account.
 
-#### Vice President (Michael Ma): <vp.millersc@gmail.com>
+#### President (Tim Jing): <miller.sc.president@cusdk8.org>
 
-#### Secretary (Jeanie Chan): <secretary.millersc@gmail.com>
+#### Vice President (Michael Ma): <miller.sc.vp@cusdk8.org>
 
-#### Treasurer (Katherine Cui): <treasurer.millersc@gmail.com>
+#### Secretary (Jeanie Chan): <miller.sc.secretary@cusdk8.org>
 
-#### Social Dances (Anton Ouyang): <social.millersc@gmail.com>
+#### Treasurer (Katherine Cui): <miller.sc.treasurer@cusdk8.org>
 
-#### Homeroom (Shailesh Senthil Kumar): <homeroom.millersc@gmail.com>
+#### Social Dances (Anton Ouyang): <miller.sc.social@cusdk8.org>
 
-#### Green (Tanush Goel): <green.millersc@gmail.com>
+#### Homeroom (Shailesh Senthil Kumar): <miller.sc.homeroom@cusdk8.org>
 
-#### Public Relations (Joe Lin): <pr.millersc@gmail.com>
+#### Green (Tanush Goel): <miller.sc.green@cusdk8.org>
 
-#### Charity (Ria Phelan): <charity.millersc@gmail.com>
+#### Public Relations (Joe Lin): <miller.sc.pr@cusdk8.org>
 
-#### Tech (William Huang): <tech.millersc@gmail.com>
+#### Charity (Ria Phelan): <miller.sc.charity@cusdk8.org>
 
-#### SSC8 (Kevin Li): <ssc8.millersc@gmail.com>
+#### Tech (William Huang): <miller.sc.tech@cusdk8.org>
 
-#### SSC7 (Brian Ling): <ssc7.millersc@gmail.com> 
+#### SSC8 (Kevin Li): *currently not available*
+
+#### SSC7 (Brian Ling): <miller.sc.ssc7@cusdk8.org> 
 <br>
 #### Follow us on social media at:
 >##### Instagram: miller\_sc\_
@@ -33,4 +35,4 @@
 >##### Twitter: miller\_sc\_
 >##### Facebook: Miller SC
 
-#####Our email is: millerscsocialmedia@gmail.com
+#####Our email is: miller.socialmedia@cusdk8.org
