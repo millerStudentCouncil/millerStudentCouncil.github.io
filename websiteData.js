@@ -15,8 +15,8 @@ var announcements = [
 	},
 	{
 		"title":{
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSecuG-TxbuCLmaZX7nuCx1TxCiK0R7YFYFA-kAlzxCS3LzMKw/viewform",
-			"text":"Remember to update the form for Crazy Hair Day!"
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdJEeCEEPfPcFODQhzpXmQWk6sMcAd9HiQ6_eGvMGjBzONXLA/viewform",
+			"text":"Remember to update the form for Mismatch Day!"
 		},
 	},
 
