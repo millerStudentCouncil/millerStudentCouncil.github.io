@@ -119,7 +119,7 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Crazy Hair day form for today!"},
+	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Mismatch day form for today!"},
 	{"img":"http://www.camdencc.edu/oit/images/Screen-Shot-2016-04-19-at-12-13-16-PM.png","title":"Contact Us","infO":"If you have any questions, check our contact us page. Our emails have changed, so please look at that too."},
 //	{"img":"https://i.ytimg.com/vi/TySrpYqNzFE/maxresdefault.jpg","title":"We Scare Hunger","info":"Donate to those in need with WE SCARE HUNGER. For more information, check the events tab and click 'We Scare Hunger.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
