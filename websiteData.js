@@ -7,18 +7,18 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
-	{
+	/*{
 		"title":{
 			"link":"#wackyTackySpiritWeek",
 			"text":"Learn more about the upcoming spirit week!"
 		},
-	},
-	{
+	}, */
+/*	{
 		"title":{
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdJEeCEEPfPcFODQhzpXmQWk6sMcAd9HiQ6_eGvMGjBzONXLA/viewform",
 			"text":"Remember to update the form for Mismatch Day!"
 		},
-	},
+	}, */
 
 /*	{
 		"title": {
@@ -119,8 +119,8 @@ var announcements = [
 
 var upcomingEvents = [	
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
-	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Mismatch day form for today!"},
-	{"img":"http://www.camdencc.edu/oit/images/Screen-Shot-2016-04-19-at-12-13-16-PM.png","title":"Contact Us","info":"If you have any questions, check our contact us page. Our emails have changed, so please look at that too."},
+//	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Mismatch day form for today!"},
+//	{"img":"http://www.camdencc.edu/oit/images/Screen-Shot-2016-04-19-at-12-13-16-PM.png","title":"Contact Us","info":"If you have any questions, check our contact us page. Our emails have changed, so please look at that too."},
 //	{"img":"https://i.ytimg.com/vi/TySrpYqNzFE/maxresdefault.jpg","title":"We Scare Hunger","info":"Donate to those in need with WE SCARE HUNGER. For more information, check the events tab and click 'We Scare Hunger.'"},
 //	{"img":"","title":"","info":""}, //TEMPLATE
 	
@@ -128,7 +128,7 @@ var upcomingEvents = [
 //	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},	
 //      {"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
 //      {"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the student council meeting!", "info":"This meeting is on Wednesday, November 8th at 8:20 AM. NOTE: IT WAS PREVIOUSLY ON NOVEMBER 1ST AND IS NOW NOVEMBER 8TH!"},	
-//	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
 //	{"img":"http://files.hgsitebuilder.com/hostgator705321/image/graduation-leis.jpg","title":"Purchase your flowers for graduation now!","info":"Visit kahunaflowers.com, choose Joaquin Miller M.S. as your school, and buy away!"},
@@ -136,6 +136,6 @@ var upcomingEvents = [
 //	{"img":"http://heidicohen.com/wp-content/uploads/social-media-icons-300x225.png","title":"Do you have a Snapchat, Instagram, Twitter, Facebook, or Google+ account?","info":"Follow Miller Student Council to receive updates on Leadership events and activities."},
 ]
 
-var spiritDay = "Spirit Days (Only For Homeroom Representatives)" //Leave empty when there is no spirit day
+var spiritDay = "" //Leave empty when there is no spirit day
 
 var formHashes = ["walkOrBikeToSchoolForm","techRequestForm", "dodgeball", "fancyDanceCooking","oscarForm", "feedbackForm", "spiritDayForm", "socialForm", "movieNightForm", "danceFeedbackForm"] // Hashes to be formatted as google forms, DO NOT INCLUDE spiritDay
