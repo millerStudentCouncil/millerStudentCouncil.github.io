@@ -23,7 +23,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#calendar",
-			"text":"Don't forget to come to the full student council meeting on Wednesday, December 13th.
+			"text":"Don't forget to come to the full student council meeting on Wednesday, December 13th."
 		},
 	},
 	
