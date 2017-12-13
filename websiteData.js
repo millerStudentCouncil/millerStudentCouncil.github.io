@@ -27,6 +27,13 @@ var announcements = [
 		},
 	},
 	
+	{
+		"title":{
+			"link":"https://tinyurl.com/vgramitems",
+			"text":"Please fill out this form about Valentine Gram interest."
+		},
+	},
+	
 /*	{
 		"title": {
 			"link":"#walkorbike",
