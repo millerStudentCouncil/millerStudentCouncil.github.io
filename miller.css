@@ -270,7 +270,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #888888;
-  background-color: #e0c11a;
+  background-color: black;
 }
 input,
 button,
@@ -3929,8 +3929,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #ffb270;
-  border-color: #ffa500;
+  background-color: #fda962;
+  border-color: #fda962;
 }
 .navbar-default .navbar-brand {
   color: #000000;
