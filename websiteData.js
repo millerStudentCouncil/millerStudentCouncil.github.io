@@ -10,7 +10,7 @@ var announcements = [
 	{
 		"title": {
 			"link":"#calendar",
-			"text":"Don't forget to come to the Homeroom Representative Meeting this Wednesday, 1/10/17."
+			"text":"Don't forget to come to the Homeroom Representative Meeting this Wednesday, 1/24/18."
 		},
 	},
 	/*{
