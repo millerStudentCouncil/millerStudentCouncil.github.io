@@ -13,6 +13,7 @@
 <h3>- <a href="./meetingMinutes/17.11.08FullStudentCouncilMeetingMinutes.pdf" target="_blank">November 8th Full Meeting</a></li></h3>
 <h3>- <a href="./meetingMinutes/17.12.13FullStudentCouncilMeetingMinutes.pdf" target="_blank">December 13th Full Meeting</a></li></h3>
 <h3>- <a href="./meetingMinutes/18.01.10FullStudentCouncilMeetingMinutes.pdf" target="_blank">January 10th Full Meeting</a></li></h3>
+<h3>- <a href="./meetingMinutes/18.01.24FullStudentCouncilMeetingMinutes.pdf" target="_blank">January 24th Full Meeting</a></li></h3>
 <!--
 
 <h3>- <a href="./meetingMinutes/17.03.08FullStudentCouncilMeetingMinutes.docx.pdf" target="_blank"> March 8 Full Meeting</a></li></h3>
