@@ -21,27 +21,6 @@ var announcements = [
 		},
 	},
 	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSfkAI5oVPLY-gApoCs1mj1t76JWBj8XxJ6bjVsXv8qDPH72tQ/viewform",
-			"text":"Fill out this form for Winter Wednesday POINTS!!!!!"
-		},
-	},
-	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSfwt9iBRm-4xCN-oxDb-vOYSPmWzL4LXpXGHontIK832pOehQ/viewform",
-			"text":"Fill out this form for Toga Thursday POINTS!!!!!"
-		},
-	},
-	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSd9PUDPvHlrqZgLz-0ayOw1WiFMZWgn-1emXkhrKwB6a2zaiA/viewform",
-			"text":"Fill out this form for Olympic Ring Color Friday POINTS!!!!!"
-		},
-	},
-	
 	/*
 	{
 		"title": {
