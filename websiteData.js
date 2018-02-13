@@ -13,6 +13,12 @@ var announcements = [
 			"text":"Fill out this form for 'Merica Monday POINTS!!!!!"
 		},
 	},
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeFcumgnYGYp0kSpa2n-onFei_96vD9G2lLRORRCyvV2hA_Ng/viewform",
+			"text":"Fill out this form for 'Team Tuesday POINTS!!!!!"
+		},
+	},
 	/*
 	{
 		"title": {
