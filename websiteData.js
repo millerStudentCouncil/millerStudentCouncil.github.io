@@ -9,8 +9,8 @@ var announcements = [
 	},
 	{
 		"title": {
-			"link":"https://docs.google.com/a/cusdk8.org/forms/d/1FHmVoIuJWxWKZTyTrfyXyF8U9wslf6G-1D3P-YTIxWw/edit?usp=drive_web",
-			"text":"Fill out this form for Winter White out Wednesday Points!"
+			"link":"https://goo.gl/forms/KTROnZ4y1VBmurNt1",
+			"text":"Fill out this form for Toga Thursday Points!"
 		},
 	},
 	
