@@ -13,6 +13,12 @@ var announcements = [
 			"text":"Fill out this form for Toga Thursday Points!"
 		},
 	},
+	{
+		"title": {
+			"link":"https://goo.gl/forms/tOXHIH8TqM789kMF2",
+			"text":"Fill out this form for Olympic Ring Friday Points!"
+		},
+	},
 	
 	
 	/*{
