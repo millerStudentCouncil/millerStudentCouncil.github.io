@@ -7,12 +7,7 @@ var announcements = [
 			"text":"Give Feedback to Help Improve this Website!"
 		},
 	},
-	{
-		"title": {
-			"link":"https://goo.gl/forms/KTROnZ4y1VBmurNt1",
-			"text":"Fill out this form for Toga Thursday Points!"
-		},
-	},
+
 	{
 		"title": {
 			"link":"https://goo.gl/forms/tOXHIH8TqM789kMF2",
