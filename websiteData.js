@@ -14,6 +14,12 @@ var announcements = [
 		},
 	},
 	
+	{
+		"title": {
+			"link":"#TechTalk",
+			"text":"Don't forget to come to the second Tech Talk of the year featuring CTO of Vivante Corp Mike Cai"
+		},
+	},
 	
 	/*
 	{
