@@ -16,8 +16,8 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"https://www.bloomberg.com/research/stocks/private/person.asp?personId=47107680&privcapId=38295229",
-			"text":"Don't forget to come to the second Tech Talk of the year featuring CTO of Vivante Corp Mike Cai"
+			"link":"#leadapp",
+			"text":"More information about Leadership Applications will be provided on 3/23/18."
 		},
 	},
 	
@@ -132,6 +132,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [	
+	{"img":"http://lisaraffoul.ca/wp-content/uploads/2017/04/leadership_lk-Image-2.jpg","title":"2018-19 Leadership Applications","info":"More information will be provided March 23rd, 2018"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"https://partycity2.scene7.com/is/image/PartyCity/_ml_p2p_pc_badge_taller15?$_ml_p2p_pc_thumb_taller15$&$product=PartyCity/592385_full","title":"Fancy Dance","info":"If you're unsure about what to wear to the Fancy Dance, check out the 'Events' tab and click on Fancy Dance!"},
 	//	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Mismatch day form for today!"},
