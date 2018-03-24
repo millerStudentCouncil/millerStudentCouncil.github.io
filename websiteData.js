@@ -16,8 +16,8 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"#leadapp",
-			"text":"The application for Miller Leadership will be posted on this website on March 23rd, 2018"
+			"link":"https://goo.gl/forms/9eNkZS9qkaD20Rb03",
+			"text":"The application for Leadership 2018-19 is here!"
 		},
 	},
 	
@@ -132,7 +132,7 @@ var announcements = [
 ]
 
 var upcomingEvents = [	
-	{"img":"http://lisaraffoul.ca/wp-content/uploads/2017/04/leadership_lk-Image-2.jpg","title":"2018-19 Leadership Applications","info":"The application will be posted on this website on March 23rd, 2018"},
+	{"img":"http://lisaraffoul.ca/wp-content/uploads/2017/04/leadership_lk-Image-2.jpg","title":"2018-19 Leadership Applications","info":"The Leadership Application is here! Fill out this form: https://goo.gl/forms/9eNkZS9qkaD20Rb03"},
 	{"img":"http://millersc.org/Drawing.png","title":"Welcome to the Official Miller Student Council Website!","info":"Check Back Frequently For All The Latest Information"},
 	{"img":"https://partycity2.scene7.com/is/image/PartyCity/_ml_p2p_pc_badge_taller15?$_ml_p2p_pc_thumb_taller15$&$product=PartyCity/592385_full","title":"Fancy Dance","info":"If you're unsure about what to wear to the Fancy Dance, check out the 'Events' tab and click on Fancy Dance!"},
 	//	{"img":"http://millersc.org/wackyTacky.png","title":"Wacky Tacky Spirit Week","info":"Remember to update the Mismatch day form for today!"},
