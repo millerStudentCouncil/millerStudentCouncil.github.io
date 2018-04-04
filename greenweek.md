@@ -1,8 +1,4 @@
-##<bold>Tree Maintenance</bold>
-###On Wednesday, May 24
-###From 3:15 - 4:30 pm
-###Mulching and caring for the trees around the track.
-###Jamba Juice provided after end of event
-##Below is the link to sign up for Tree Maintencance:
-<https://docs.google.com/forms/d/e/1FAIpQLSczJpn0cjQ52G7yMyCDaiYCZnBx7qqCBuIT7yE1wnGxYXIXMg/viewform?c=0&w=1>
-
+### 
+## GREEN WEEK
+### 
+<img src="millersc.org/GreenChallengeActivities.jpg" alt="Green Challenge Activities">
