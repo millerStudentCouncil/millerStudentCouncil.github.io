@@ -15,6 +15,44 @@ var announcements = [
 		},
 	},
 	
+	/*
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeEW8JJUkhnUJeM31L-g-VoP4L0RWZnmcOrOBZaBULtO5hvAA/viewform",
+			"text":"Remember to update the form for Monochromatic Monday!"
+		},
+	},
+	
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLScA710rqFazX3qIlN0cRG8aEr_jHwTkLEUr4sIafZxeHdb24g/viewform",
+			"text":"Remember to update the form for 50's day!"
+		},
+	},
+	
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSe-udJmH_f8tKJZ8SiBAasQlLgOJn-TKWb2V4Znfll0CvQtnw/viewform",
+			"text":"Remember to update the form for Hippie Day!"
+		},
+	},
+	
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdu0jlZS_QlXEIZ89dFj1Sb7alksESI_-KCKEvWkwC7YgZ77w/viewform",
+			"text":"Remember to update the form for 80's day!"
+		},
+	},
+	
+	{
+		"title": {
+			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdXHFhyTFmNrJATwlOrn7rm6fiEOOeKF9Y_ZFTyzs4DIA4kPw/viewform",
+			"text":"Remember to update the form for 90's Day!"
+		},
+	},
+	*/
+	
+	
 	/*{
 		"title":{
 			"link":"#wackyTackySpiritWeek",
