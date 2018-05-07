@@ -15,13 +15,15 @@ var announcements = [
 		},
 	},
 	
-	/*
+	
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeEW8JJUkhnUJeM31L-g-VoP4L0RWZnmcOrOBZaBULtO5hvAA/viewform",
 			"text":"Remember to update the form for Monochromatic Monday!"
 		},
 	},
+	
+	/*
 	
 	{
 		"title": {
