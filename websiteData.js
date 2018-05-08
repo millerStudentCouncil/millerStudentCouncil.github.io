@@ -15,16 +15,6 @@ var announcements = [
 		},
 	},
 	
-	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSeEW8JJUkhnUJeM31L-g-VoP4L0RWZnmcOrOBZaBULtO5hvAA/viewform",
-			"text":"Remember to update the form for Monochromatic Monday!"
-		},
-	},
-	
-	/*
-	
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLScA710rqFazX3qIlN0cRG8aEr_jHwTkLEUr4sIafZxeHdb24g/viewform",
@@ -32,6 +22,7 @@ var announcements = [
 		},
 	},
 	
+	/*
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSe-udJmH_f8tKJZ8SiBAasQlLgOJn-TKWb2V4Znfll0CvQtnw/viewform",
