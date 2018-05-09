@@ -15,20 +15,15 @@ var announcements = [
 		},
 	},
 	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLScA710rqFazX3qIlN0cRG8aEr_jHwTkLEUr4sIafZxeHdb24g/viewform",
-			"text":"Remember to update the form for 50's day!"
-		},
-	},
 	
-	/*
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSe-udJmH_f8tKJZ8SiBAasQlLgOJn-TKWb2V4Znfll0CvQtnw/viewform",
 			"text":"Remember to update the form for Hippie Day!"
 		},
 	},
+	
+	/*
 	
 	{
 		"title": {
@@ -160,7 +155,8 @@ var upcomingEvents = [
 //	{"img":"http://www.walkbiketoschool.org/wp-content/themes/WBTS_Custom/images/Logo_WBTS.png","title":"Walk or Bike to School Day","info":"Walk or Bike to School Day is on Wednesday, October 11th. For more information, click on the Events tab and click 'Walk or Bike to School Day.'"}, 
 //	{"img":"https://i.pinimg.com/originals/1f/68/b8/1f68b8001e6843bbe4db3dcc4d540205.jpg","title":"Rainbow Spirit Week","info":"Show your spirit in the Rainbow Spirit Week starting October 9th. To learn more about the spirit week, click on the Events tab and click 'Rainbow Spirit Week.'"},	
 //      {"img":"http://www.carnivaldepot.com/images/ringtoss.jpg", "title":"Come to the Back to School Bash on Thursday, September 14!", "info":"Why did the chalkboard get up in class? To get chalk-olate! There will be various refreshments for sale in the Back to School Bash from 5 to 7PM! Attendance is free and there will be fun carnival games!"},
-        {"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the full student council meeting!", "info":"This meeting is on Wednesday, May 9th at 8:20 AM. Check the calendar for more updates and such."},	
+	{"img":"https://c394391.ssl.cf2.rackcdn.com/1504817710.jpg", "title":"Update Spirit Week Forms!", "info":"Don't forget to tally the number of people who participated in the Spirit Day and fill out the form!"},
+	{"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the full student council meeting!", "info":"This meeting is on Wednesday, May 9th at 8:20 AM. Check the calendar for more updates and such."},	
 
 	//	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
