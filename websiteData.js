@@ -15,22 +15,14 @@ var announcements = [
 		},
 	},
 	
-	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSe-udJmH_f8tKJZ8SiBAasQlLgOJn-TKWb2V4Znfll0CvQtnw/viewform",
-			"text":"Remember to update the form for Hippie Day!"
-		},
-	},
-	
-	/*
-	
 	{
 		"title": {
 			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdu0jlZS_QlXEIZ89dFj1Sb7alksESI_-KCKEvWkwC7YgZ77w/viewform",
 			"text":"Remember to update the form for 80's day!"
 		},
 	},
+	
+	/*
 	
 	{
 		"title": {
