@@ -17,15 +17,8 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdu0jlZS_QlXEIZ89dFj1Sb7alksESI_-KCKEvWkwC7YgZ77w/viewform",
-			"text":"Remember to update the form for 80's day!"
-		},
-	},
-	
-	{
-		"title": {
-			"link":"https://docs.google.com/forms/d/e/1FAIpQLSdXHFhyTFmNrJATwlOrn7rm6fiEOOeKF9Y_ZFTyzs4DIA4kPw/viewform",
-			"text":"Remember to update the form for 90's Day!"
+			"link":"millersc.org/plasticToPennies.html",
+			"text":"Learn more about how to participate in Plastic to Pennies!"
 		},
 	},
 		
