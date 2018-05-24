@@ -17,7 +17,7 @@ var announcements = [
 	
 	{
 		"title": {
-			"link":"millersc.org/plasticToPennies.html",
+			"link":"https://docs.google.com/document/d/1VMlfIQQ027bcMALXziGdkCK31P3-t8sDN512huW7l7g/edit?usp=sharing",
 			"text":"Learn more about how to participate in Plastic to Pennies!"
 		},
 	},
@@ -140,7 +140,7 @@ var upcomingEvents = [
 	{"img":"https://c394391.ssl.cf2.rackcdn.com/1504817710.jpg", "title":"Update Spirit Week Forms!", "info":"Don't forget to tally the number of people who participated in the Spirit Day and fill out the form!"},
 //	{"img":"http://www.workboard.com/master-team-meetings/images/meeting-peoples.png", "title":"Don't forget to come to the full student council meeting!", "info":"This meeting is on Wednesday, May 9th at 8:20 AM. Check the calendar for more updates and such."},	
 
-	//	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Stay Tuned"},
+	{"img":"http://www.laminaresearchcenter.com/images/comingsoon.png","title":"More Coming Soon!","info":"Check the Announcements to the left, check the Events at the top, and stay tuned! It's always a great day to be a Mustang!"},
 //	{"img":"http://saintjamesschool.net/wp-content/uploads/2015/05/BoxTopColor.jpg","title":"Start collecting Box Tops!","info":"Turn them in to your Homeroom Representative when the collection date (10/14) comes near!"},
 //	{"img":"http://a.theinspiration.com/wp-content/uploads/url19.jpeg","title":"The Look At the Books Drive is from May 20th until June 3rd!","info":"We are collecting gently used books to help raise money for Nepal earthquake relief."},
 //	{"img":"http://files.hgsitebuilder.com/hostgator705321/image/graduation-leis.jpg","title":"Purchase your flowers for graduation now!","info":"Visit kahunaflowers.com, choose Joaquin Miller M.S. as your school, and buy away!"},
